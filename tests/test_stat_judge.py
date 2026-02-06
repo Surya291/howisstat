@@ -9,8 +9,15 @@ from main.ai.stat_judge import get_judgement
 
 attacker_player_id = "abhishek-sharma-1070183"
 defender_player_id = "virat-kohli-253802"
+
+
+attacker_player_id = "yuzvendra-chahal-430246" 
+defender_player_id = "rashid-khan-793463"
+
 # stat = "batting strike rate in t20is"
-stat = "no of boundaries hit in t20is"
+# stat = "no of boundaries hit in t20is"
+# stat = "bowling average in t20is"
+stat = "most wickets in IPL"
 
 judgement_dict = get_judgement(attacker_player_id, defender_player_id, stat)
 print("\n", "****"*5, "\n")
