@@ -17,7 +17,7 @@ See [HOW_TO_PLAY.md](HOW_TO_PLAY.md) for full rules.
 ```bash
 cd howisstat
 python -m venv venv && source venv/bin/activate
-pip install flask flask-cors python-dotenv google-genai pydantic
+pip install -r requirements.txt
 cp secrets/.env.example secrets/.env   # then add your GEMINI_API_KEY
 python api_server.py                   # serves on http://localhost:5050
 ```
@@ -76,7 +76,7 @@ Create `secrets/.env` on the VM with your `GEMINI_API_KEY` (never commit this).
 ```bash
 # Backend
 python -m venv venv && source venv/bin/activate
-pip install flask flask-cors python-dotenv google-genai pydantic
+pip install -r requirements.txt
 python api_server.py &                 # port 5050, binds 0.0.0.0
 
 # Frontend
