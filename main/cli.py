@@ -696,7 +696,7 @@ def main():
     print("  ╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝╚═╝╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝")
     print(f"{Colors.RESET}")
     print_separator("=", 80)
-    print(f"{Colors.GOLD}                    A Cricket Stats Trump Card Game{Colors.RESET}")
+    print(f"{Colors.GOLD}                    Trump Cards Reimagined{Colors.RESET}")
     print_separator("=", 80)
     
     # Setup

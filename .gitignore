@@ -1,1 +1,24 @@
+# Secrets
 secrets/*
+!secrets/.env.example
+
+# Environment files
+.env
+.env.local
+.env.*.local
+web/.env
+web/.env.local
+web/.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / Next.js
+node_modules/
+web/.next/
+web/node_modules/
+
+# OS
+.DS_Store
