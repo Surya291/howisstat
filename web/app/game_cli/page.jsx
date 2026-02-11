@@ -416,7 +416,7 @@ export default function GameTerminal() {
       {/* Judge Comment */}
       {data.comment && (
         <div className="res-section">
-          <div className="res-section-title">JUDGE&apos;S COMMENT</div>
+          <div className="res-section-title">COMMENTARY</div>
           <div className="res-comment-row">
             <div className="res-comment">{data.comment}</div>
             <button
