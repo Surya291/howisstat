@@ -748,6 +748,10 @@ html, body {
   height: 100vh;
   height: 100dvh;
   background: url('/halftone-stadium.png') center center / cover no-repeat;
+  background-image: image-set(
+    url('/halftone-stadium.webp') type('image/webp'),
+    url('/halftone-stadium.png') type('image/png')
+  );
   overflow: hidden;
 }
 
@@ -1120,7 +1124,13 @@ html, body {
   :root { --text-base: 0.8rem; }
 
   /* Homepage — portrait image on mobile */
-  .hero { background-image: url('/halftone-stadium-portrait.png'); }
+  .hero {
+    background-image: url('/halftone-stadium-portrait.png');
+    background-image: image-set(
+      url('/halftone-stadium-portrait.webp') type('image/webp'),
+      url('/halftone-stadium-portrait.png') type('image/png')
+    );
+  }
   .hero-content { padding: 60px 20px env(safe-area-inset-bottom, 40px); }
   .hero-top { padding-top: 8vh; }
   .hero-title { font-size: 2rem; letter-spacing: 5px; }
