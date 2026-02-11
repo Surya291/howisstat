@@ -7,10 +7,10 @@ import os
 import sys
 from dotenv import load_dotenv
 
-# Load environment first
-load_dotenv("/Users/surya/Desktop/toy_projects/howisstat/secrets/.env")
-
-sys.path.append("/Users/surya/Desktop/toy_projects/howisstat")
+# Add project root and load env
+_repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _repo_root)
+load_dotenv(os.path.join(_repo_root, "secrets", ".env"))
 
 from main.game_engine import create_initial_state, resolve_round, GameState
 from main.deal_cards import deal_player_cards

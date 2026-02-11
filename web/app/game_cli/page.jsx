@@ -20,9 +20,22 @@ export default function GameTerminal() {
   const [loading, setLoading] = useState(false);
   const [gameState, setGameState] = useState(null);
   const [showGuide, setShowGuide] = useState(false);
+  const [isSpeaking, setIsSpeaking] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
+  const lastSpokenCommentRef = useRef(null);
+  const audioRef = useRef(null);
+
+  // Detect mobile for suggestion hint (Tab vs zz)
+  useEffect(() => {
+    const mq = window.matchMedia('(max-width: 640px)');
+    setIsMobile(mq.matches);
+    const h = () => setIsMobile(mq.matches);
+    mq.addEventListener('change', h);
+    return () => mq.removeEventListener('change', h);
+  }, []);
 
   // Show guide on first visit
   useEffect(() => {
@@ -47,9 +60,63 @@ export default function GameTerminal() {
     }
   }, []);
 
+  const playCommentary = useCallback(async (comment) => {
+    if (!comment) return;
+    try {
+      setIsSpeaking(true);
+
+      // Stop any existing audio
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current = null;
+      }
+
+      const res = await fetch(`${API_URL}/api/tts`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: comment }),
+      });
+
+      if (!res.ok) {
+        // TTS is optional; on failure we just log and continue silently
+        // eslint-disable-next-line no-console
+        console.warn('TTS request failed', res.status);
+        return;
+      }
+
+      const blob = await res.blob();
+      const url = URL.createObjectURL(blob);
+      const audio = new Audio(url);
+      audioRef.current = audio;
+      audio.play().catch(() => {
+        // Playback can fail if user hasn't interacted yet; ignore
+      });
+    } catch (err) {
+      // eslint-disable-next-line no-console
+      console.warn('TTS playback error', err);
+    } finally {
+      setIsSpeaking(false);
+    }
+  }, []);
+
   useEffect(() => {
     scrollToBottom();
   }, [messages, loading, scrollToBottom]);
+
+  // When a new result with judge comment arrives, trigger TTS once
+  useEffect(() => {
+    if (!messages || messages.length === 0) return;
+    const lastResult = [...messages].reverse().find(
+      (m) => m.type === 'result' && m.data && m.data.comment
+    );
+    if (!lastResult) return;
+
+    const comment = lastResult.data.comment;
+    if (!comment || comment === lastSpokenCommentRef.current) return;
+
+    lastSpokenCommentRef.current = comment;
+    playCommentary(comment);
+  }, [messages, playCommentary]);
 
   // Auto-focus input
   useEffect(() => {
@@ -98,11 +165,15 @@ export default function GameTerminal() {
 
       setPrompt(data.prompt);
     } catch (e) {
+      const isNetworkError = e.message === 'Failed to fetch' || e.name === 'TypeError';
+      const hint = isNetworkError
+        ? `Cannot reach ${API_URL}. Start the backend: python api_server.py (see README).`
+        : e.message;
       setMessages(prev => [...prev, {
         type: 'error',
-        content: `Connection error: ${e.message}. Make sure api_server.py is running.`
+        content: `Connection error: ${hint}. Make sure api_server.py is running.`
       }]);
-      setPrompt(null);
+      setPrompt({ type: 'retry', label: 'Retry', placeholder: 'Click Retry after starting the API' });
     } finally {
       setLoading(false);
     }
@@ -346,7 +417,19 @@ export default function GameTerminal() {
       {data.comment && (
         <div className="res-section">
           <div className="res-section-title">JUDGE&apos;S COMMENT</div>
-          <div className="res-comment">{data.comment}</div>
+          <div className="res-comment-row">
+            <div className="res-comment">{data.comment}</div>
+            <button
+              type="button"
+              className="res-comment-replay-btn"
+              onClick={() => playCommentary(data.comment)}
+              disabled={isSpeaking}
+              aria-label="Replay commentary"
+              title="Replay commentary"
+            >
+              🎙
+            </button>
+          </div>
         </div>
       )}
 
@@ -428,9 +511,29 @@ export default function GameTerminal() {
 
       {/* Input Area */}
       <div className="input-area">
-        {prompt ? (
-          <>
+        {prompt && prompt.type === 'retry' ? (
+          <div style={{ textAlign: 'center', padding: '6px 0' }}>
             <div className="input-label">{prompt.label}</div>
+            <button
+              type="button"
+              onClick={() => sendAction(null, null)}
+              disabled={loading}
+              className="new-game-btn"
+            >
+              {loading ? 'Connecting…' : 'Retry'}
+            </button>
+          </div>
+        ) : prompt ? (
+          <>
+            <div className="input-label">
+              {prompt.label}
+              {prompt.suggestion && (
+                <span className="input-label-hint">
+                  {' — '}
+                  {isMobile ? 'Type zz to fill suggested stat' : 'Press Tab to fill suggested stat'}
+                </span>
+              )}
+            </div>
             <form onSubmit={handleSubmit} className="input-wrapper">
               <span className="input-prompt">❯</span>
               <input
@@ -438,7 +541,20 @@ export default function GameTerminal() {
                 type="text"
                 className="input-field"
                 value={input}
-                onChange={(e) => setInput(e.target.value)}
+                onChange={(e) => {
+                  const v = e.target.value;
+                  if (isMobile && v === 'zz' && prompt?.suggestion) {
+                    setInput(prompt.suggestion);
+                    return;
+                  }
+                  setInput(v);
+                }}
+                onKeyDown={(e) => {
+                  if (e.key === 'Tab' && prompt.suggestion) {
+                    e.preventDefault();
+                    setInput(prompt.suggestion);
+                  }
+                }}
                 placeholder={
                   prompt.type === 'continue'
                     ? 'Press Enter to continue...'

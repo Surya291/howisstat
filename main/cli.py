@@ -11,9 +11,10 @@ import sys
 import time
 from dotenv import load_dotenv
 
-# Add project root to path
-sys.path.append("/Users/surya/Desktop/toy_projects/howisstat")
-load_dotenv("/Users/surya/Desktop/toy_projects/howisstat/secrets/.env")
+# Add project root to path (before imports)
+_repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _repo_root)
+load_dotenv(os.path.join(_repo_root, "secrets", ".env"))
 
 
 from main.game_engine import (
@@ -597,7 +598,7 @@ def show_round_reveal(result: RoundResult, state: GameState):
     # Judge's Comment
     if result.comment:
         print("╠" + "═" * 78 + "╣")
-        comment_header = " JUDGE'S COMMENT".ljust(78)
+        comment_header = " COMMENTARY".ljust(78)
         print(f"║{comment_header}║")
         
         # Create comment box
@@ -682,7 +683,8 @@ def play_round(state: GameState) -> tuple[GameState, bool]:
 def main():
     """Main game loop."""
     # Load environment
-    load_dotenv("/Users/surya/Desktop/toy_projects/howisstat/secrets/.env")
+    from main.config import path
+    load_dotenv(path("secrets", ".env"))
     
     # Banner
     print()

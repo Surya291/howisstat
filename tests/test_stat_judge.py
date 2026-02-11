@@ -1,9 +1,10 @@
-import os,sys 
+import os
+import sys
 from dotenv import load_dotenv
-load_dotenv("/Users/surya/Desktop/toy_projects/cricinfo-mcp/secrets/.env")
 
-
-sys.path.append("/Users/surya/Desktop/toy_projects/howisstat")
+_repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _repo_root)
+load_dotenv(os.path.join(_repo_root, "secrets", ".env"))
 from main.ai.stat_judge import get_judgement
 
 

@@ -2,8 +2,10 @@
 Test game engine core logic.
 """
 
+import os
 import sys
-sys.path.append("/Users/surya/Desktop/toy_projects/howisstat")
+_repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, _repo_root)
 
 from main.game_engine import GameState, create_initial_state
 

@@ -1,5 +1,8 @@
 import json
 import random
+import os
+
+from .config import path
 
 position_grp2classes = {
     "BAT": ['Batter', 'Middle-order batter', 'Opening batter', 'Top-order batter'],
@@ -67,13 +70,17 @@ def get_player_info(player_id):
 
 
 
-    with open("/Users/surya/Desktop/toy_projects/howisstat/data/player_id2player_info.json", "r") as f:
+    with open(path("data", "player_id2player_info.json"), "r") as f:
         player_id2player_info = json.load(f)
 
     player_info = player_id2player_info[player_id] 
 
 
     style_list = player_info["style"] 
+    try: 
+        suggestion = player_info["suggestion"]["casual_stat_description"]
+    except:
+        suggestion = None
     batting_style_list = []
     bowling_style_list = []
     for style in style_list:
@@ -91,14 +98,23 @@ def get_player_info(player_id):
     else:
         bowling_style = None
 
+    headshot_href = player_info["headshot"]["href"]
+    headshots_dir = path("web", "public", "headshots")
+    headshot_path = os.path.join(headshots_dir, headshot_href.split("/")[-1])
+    if not os.path.exists(headshot_path):
+        headshot_path = path("web", "public", "headshots", "default-player-logo-500.png")
+
+
     filtered_player_info = {
         "display_name": player_info["display_name"],
         "headshot_url": player_info["headshot"]["href"],
+        "headshot_path": headshot_path,
         "role": player_info["position"]["name"],
         "country": get_country_name(player_info["country"]),
         "dob": player_info["date_of_birth"], 
         "batting_style": batting_style,
         "bowling_style": bowling_style,
+        "suggestion": suggestion,
     }
     return filtered_player_info
 
@@ -110,10 +126,10 @@ def get_player_info(player_id):
 
 def get_role2player_ids(year_list, franchise):
 
-    with open("/Users/surya/Desktop/toy_projects/howisstat/data/player_id2player_info.json", "r") as f:
+    with open(path("data", "player_id2player_info.json"), "r") as f:
         player_id2player_info = json.load(f)
 
-    with open("/Users/surya/Desktop/toy_projects/howisstat/data/team2year2player_ids.json", "r") as f:
+    with open(path("data", "filtered_team2year2player_ids.json"), "r") as f:
         team2year2player_ids = json.load(f)
 
     all_franchise_players = []
@@ -142,15 +158,99 @@ def get_role2player_ids(year_list, franchise):
 
 
 def deal_team_players(role2player_ids, number_of_players):
-    team_players = []
-    # BAT 
-    bat_players = random.sample(role2player_ids["BAT"], 2)
-    wk_players = random.sample(role2player_ids["WK"], 1)
-    bowl_players = random.sample(role2player_ids["BOWL"], 2)
-    all_rounder_players = random.sample(role2player_ids["ALL_ROUNDER"], 2)
+    import random
 
-    team_players = bat_players + wk_players + all_rounder_players+ bowl_players 
-    return team_players
+    # Team role requirements
+    ROLE_ORDER = ["BAT", "ALL_ROUNDER", "WK", "BOWL"]
+    role_counts = {"BAT": 2, "ALL_ROUNDER": 2, "WK": 1, "BOWL": 2}
+
+    # Helper for safe sampling
+    def safe_sample(role_key, n, exclude=None):
+        arr = role2player_ids.get(role_key, [])
+        if exclude:
+            arr = [pid for pid in arr if pid not in exclude]
+        if not arr or n <= 0:
+            return []
+        return random.sample(arr, min(len(arr), n))
+
+    selected = {role: [] for role in ROLE_ORDER}
+    total_selected = 0
+
+    # 1. Try to fill BAT, WK, BOWL from their own pools
+    for role in ["BAT", "WK", "BOWL"]:
+        picked = safe_sample(role, role_counts[role])
+        selected[role].extend(picked)
+        total_selected += len(picked)
+
+    # 2. If any of the above roles have shortfall, try to fill from ALL_ROUNDER
+    used_players = set(pid for plist in selected.values() for pid in plist)
+    all_rounder_pool = role2player_ids.get("ALL_ROUNDER", [])
+    all_rounder_pool = [pid for pid in all_rounder_pool if pid not in used_players]
+    all_rounder_to_assign = role_counts["ALL_ROUNDER"]
+
+    for role in ["BAT", "WK", "BOWL"]:
+        needed = role_counts[role] - len(selected[role])
+        if needed > 0 and all_rounder_pool:
+            can_give = min(needed, len(all_rounder_pool))
+            additional = random.sample(all_rounder_pool, can_give)
+            selected[role].extend(additional)
+            # Remove from pool, decrease all_rounder_to_assign accordingly
+            all_rounder_pool = [pid for pid in all_rounder_pool if pid not in additional]
+            all_rounder_to_assign -= len(additional)
+            total_selected += len(additional)
+
+    # 3. Fill ALL_ROUNDER role (with what remains from ALL_ROUNDER pool)
+    if all_rounder_to_assign > 0 and all_rounder_pool:
+        picked = safe_sample("ALL_ROUNDER", all_rounder_to_assign, exclude=used_players)
+        selected["ALL_ROUNDER"].extend(picked)
+        total_selected += len(picked)
+        used_players.update(picked)
+
+    # 4. If still not enough, fill with any leftover ALL_ROUNDER first, then any role
+    # At the end, we want to return a list in strict order: BAT, ALL_ROUNDER, WK, BOWL
+    flat_selected = []
+    for role in ROLE_ORDER:
+        flat_selected.extend(selected[role])
+    used_players = set(flat_selected)
+
+    if len(flat_selected) < number_of_players:
+        # Prefer remaining ALL_ROUNDERs
+        more_all_rounders = [pid for pid in role2player_ids.get("ALL_ROUNDER", []) if pid not in used_players]
+        to_add = min(number_of_players - len(flat_selected), len(more_all_rounders))
+        if to_add > 0:
+            flat_selected.extend(random.sample(more_all_rounders, to_add))
+            used_players.update(flat_selected)
+        # If still short, pad with anyone from any role (not already picked)
+        if len(flat_selected) < number_of_players:
+            remaining = []
+            for ids in role2player_ids.values():
+                for pid in ids:
+                    if pid not in used_players:
+                        remaining.append(pid)
+            n_needed = number_of_players - len(flat_selected)
+            flat_selected.extend(random.sample(remaining, min(n_needed, len(remaining))))
+            used_players.update(flat_selected)
+
+    # Truncate if needed
+    flat_selected = flat_selected[:number_of_players]
+
+    # Now, sort flat_selected by role in required order (BAT, ALL_ROUNDER, WK, BOWL)
+    role_priority = {role: i for i, role in enumerate(ROLE_ORDER)}
+
+    # Build reverse mapping from player_id to their role
+    pid2role = {}
+    for role in ROLE_ORDER:
+        for pid in role2player_ids.get(role, []):
+            if pid not in pid2role:
+                pid2role[pid] = role
+
+    # Get sort key
+    def sort_key(pid):
+        return role_priority.get(pid2role.get(pid, ""), 99)
+
+    # Stable sort by priority: preserve deal order within same role
+    flat_selected_sorted = sorted(flat_selected, key=sort_key)
+    return flat_selected_sorted
 
 
 def deal_player_cards(game_config):

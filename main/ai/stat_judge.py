@@ -10,7 +10,8 @@ import urllib.parse
 
 
 import json
-with open("/Users/surya/Desktop/toy_projects/howisstat/data/player_id2player_info.json", "r") as f:
+from main.config import path
+with open(path("data", "player_id2player_info.json"), "r") as f:
     player_id2player_info = json.load(f)
 
 gemini_agent = GeminiAgent("gemini-flash-latest")

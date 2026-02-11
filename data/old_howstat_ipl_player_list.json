@@ -1,0 +1,7474 @@
+{
+  "aakash-chopra-27639": {
+    "player_id": "3136",
+    "name": "A Chopra",
+    "teams": "KKR",
+    "matches": "7",
+    "runs": "53",
+    "bat_avg": "8.83",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "aaron-finch-5334": {
+    "player_id": "3845",
+    "name": "A J Finch",
+    "teams": "RRO, DDV, PWI, SUN, MIN, GUJ, KXI, RCB, KKR",
+    "matches": "92",
+    "runs": "2091",
+    "bat_avg": "25.19",
+    "wickets": "1",
+    "bowl_avg": "67.00"
+  },
+  "aavishkar-salvi-34264": {
+    "player_id": "3106",
+    "name": "A M Salvi",
+    "teams": "DDV",
+    "matches": "7",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "7",
+    "bowl_avg": "28.57"
+  },
+  "ab-de-villiers-44936": {
+    "player_id": "3241",
+    "name": "A B de Villiers",
+    "teams": "DDV, RCB",
+    "matches": "184",
+    "runs": "5162",
+    "bat_avg": "39.71",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abdul-samad-1175485": {
+    "player_id": "5863",
+    "name": "Abdul Samad",
+    "teams": "SUN, LSG",
+    "matches": "63",
+    "runs": "741",
+    "bat_avg": "19.50",
+    "wickets": "2",
+    "bowl_avg": "59.50"
+  },
+  "abdur-razzak-56283": {
+    "player_id": "3180",
+    "name": "Abdur Razzak",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abhijeet-tomar-1081183": {
+    "player_id": "6510",
+    "name": "A Tomar",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abhimanyu-mithun-310958": {
+    "player_id": "3767",
+    "name": "A Mithun",
+    "teams": "RCB",
+    "matches": "16",
+    "runs": "34",
+    "bat_avg": "6.80",
+    "wickets": "7",
+    "bowl_avg": "67.43"
+  },
+  "abhinandan-singh-1449085": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "abhinav-kumar-26167": {
+    "player_id": "8296",
+    "name": "A Kumar",
+    "teams": "MIN",
+    "matches": "7",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "11",
+    "bowl_avg": "21.09"
+  },
+  "abhinav-manohar-778963": {
+    "player_id": "6534",
+    "name": "A Manohar",
+    "teams": "GTI, SUN",
+    "matches": "27",
+    "runs": "292",
+    "bat_avg": "15.37",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abhinav-mukund-302582": {
+    "player_id": "3864",
+    "name": "A Mukund",
+    "teams": "CSK, RCB",
+    "matches": "3",
+    "runs": "19",
+    "bat_avg": "9.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abhishek-jhunjhunwala-29702": {
+    "player_id": "4179",
+    "name": "A A  Jhunjhunwala",
+    "teams": "RRO, PWI, DCH",
+    "matches": "21",
+    "runs": "217",
+    "bat_avg": "16.69",
+    "wickets": "1",
+    "bowl_avg": "129.00"
+  },
+  "abhishek-nayar-32091": {
+    "player_id": "3704",
+    "name": "A M Nayar",
+    "teams": "MIN, KXI, PWI, RRO",
+    "matches": "60",
+    "runs": "672",
+    "bat_avg": "17.68",
+    "wickets": "9",
+    "bowl_avg": "35.78"
+  },
+  "abhishek-sharma-1070183": {
+    "player_id": "4756",
+    "name": "Abhishek Sharma",
+    "teams": "DDV, SUN",
+    "matches": "77",
+    "runs": "1816",
+    "bat_avg": "27.10",
+    "wickets": "11",
+    "bowl_avg": "45.55"
+  },
+  "abishek-porel-1277545": {
+    "player_id": "7230",
+    "name": "A Porel",
+    "teams": "DDV",
+    "matches": "31",
+    "runs": "661",
+    "bat_avg": "25.42",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abrar-kazi-422106": {
+    "player_id": "4204",
+    "name": "A A  Kazi",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "abu-nechim-228430": {
+    "player_id": "4059",
+    "name": "A N  Ahmed",
+    "teams": "MIN, RCB",
+    "matches": "17",
+    "runs": "36",
+    "bat_avg": "36.00",
+    "wickets": "12",
+    "bowl_avg": "40.75"
+  },
+  "adam-gilchrist-5390": {
+    "player_id": "2192",
+    "name": "A C Gilchrist",
+    "teams": "DCH, KXI",
+    "matches": "80",
+    "runs": "2069",
+    "bat_avg": "27.22",
+    "wickets": "1",
+    "bowl_avg": "0.00"
+  },
+  "adam-milne-450860": {
+    "player_id": "3839",
+    "name": "A F Milne",
+    "teams": "RCB, MIN, CSK",
+    "matches": "10",
+    "runs": "23",
+    "bat_avg": "5.75",
+    "wickets": "7",
+    "bowl_avg": "46.71"
+  },
+  "adam-voges-8119": {
+    "player_id": "3463",
+    "name": "A C Voges",
+    "teams": "RRO",
+    "matches": "9",
+    "runs": "181",
+    "bat_avg": "45.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "adam-zampa-379504": {
+    "player_id": "4527",
+    "name": "A Zampa",
+    "teams": "RPS, RCB, RRO, SUN",
+    "matches": "22",
+    "runs": "15",
+    "bat_avg": "3.00",
+    "wickets": "31",
+    "bowl_avg": "21.03"
+  },
+  "adil-rashid-244497": {
+    "player_id": "3696",
+    "name": "A U Rashid",
+    "teams": "KXI, SUN",
+    "matches": "3",
+    "runs": "22",
+    "bat_avg": "11.00",
+    "wickets": "2",
+    "bowl_avg": "45.50"
+  },
+  "aditya-dole-236694": {
+    "player_id": "4190",
+    "name": "A P  Dole",
+    "teams": "RRO",
+    "matches": "3",
+    "runs": "34",
+    "bat_avg": "17.00",
+    "wickets": "5",
+    "bowl_avg": "22.40"
+  },
+  "aditya-tare-333904": {
+    "player_id": "4072",
+    "name": "A P Tare",
+    "teams": "MIN, SUN, DDV",
+    "matches": "35",
+    "runs": "339",
+    "bat_avg": "14.13",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "adrian-barath-274926": {
+    "player_id": "3739",
+    "name": "A B Barath",
+    "teams": "KXI",
+    "matches": "3",
+    "runs": "42",
+    "bat_avg": "21.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "aiden-blizzard-4498": {
+    "player_id": "4061",
+    "name": "A C  Blizzard",
+    "teams": "MIN",
+    "matches": "7",
+    "runs": "120",
+    "bat_avg": "17.14",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "aiden-markram-600498": {
+    "player_id": "4701",
+    "name": "A K Markram",
+    "teams": "KXI, SUN, LSG",
+    "matches": "57",
+    "runs": "1440",
+    "bat_avg": "31.30",
+    "wickets": "6",
+    "bowl_avg": "45.67"
+  },
+  "ajantha-mendis-268739": {
+    "player_id": "3545",
+    "name": "B A W Mendis",
+    "teams": "KKR, PWI",
+    "matches": "10",
+    "runs": "3",
+    "bat_avg": "1.50",
+    "wickets": "8",
+    "bowl_avg": "35.63"
+  },
+  "ajit-agarkar-26184": {
+    "player_id": "2159",
+    "name": "A B Agarkar",
+    "teams": "KKR, DDV",
+    "matches": "42",
+    "runs": "179",
+    "bat_avg": "17.90",
+    "wickets": "29",
+    "bowl_avg": "39.69"
+  },
+  "ajit-chandila-27783": {
+    "player_id": "4091",
+    "name": "A  Chandila",
+    "teams": "RRO",
+    "matches": "12",
+    "runs": "4",
+    "bat_avg": "",
+    "wickets": "11",
+    "bowl_avg": "22.00"
+  },
+  "akash-deep-1176959": {
+    "player_id": "6533",
+    "name": "Akash Deep",
+    "teams": "RCB, LSG",
+    "matches": "14",
+    "runs": "25",
+    "bat_avg": "8.33",
+    "wickets": "10",
+    "bowl_avg": "54.80"
+  },
+  "akash-madhwal-1206039": {
+    "player_id": "7226",
+    "name": "A Madhwal",
+    "teams": "MIN, RRO",
+    "matches": "17",
+    "runs": "8",
+    "bat_avg": "",
+    "wickets": "23",
+    "bowl_avg": "25.65"
+  },
+  "akash-singh-1175458": {
+    "player_id": "5859",
+    "name": "Akash Singh",
+    "teams": "RRO, CSK, LSG",
+    "matches": "10",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "9",
+    "bowl_avg": "36.22"
+  },
+  "akeal-hosein-530812": {
+    "player_id": "5935",
+    "name": "A J Hosein",
+    "teams": "SUN",
+    "matches": "1",
+    "runs": "16",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "40.00"
+  },
+  "akshath-reddy-376109": {
+    "player_id": "4113",
+    "name": "P A  Reddy",
+    "teams": "DCH, SUN",
+    "matches": "12",
+    "runs": "164",
+    "bat_avg": "16.40",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "akshdeep-nath-500360": {
+    "player_id": "4543",
+    "name": "A D Nath",
+    "teams": "GUJ, KXI, RCB",
+    "matches": "14",
+    "runs": "90",
+    "bat_avg": "9.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "albie-morkel-46248": {
+    "player_id": "3162",
+    "name": "J A Morkel",
+    "teams": "CSK, RCB, DDV, RPS",
+    "matches": "91",
+    "runs": "974",
+    "bat_avg": "24.35",
+    "wickets": "85",
+    "bowl_avg": "27.75"
+  },
+  "alex-carey-326434": {
+    "player_id": "4726",
+    "name": "A T Carey",
+    "teams": "DDV",
+    "matches": "3",
+    "runs": "32",
+    "bat_avg": "16.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "alex-hales-249866": {
+    "player_id": "3887",
+    "name": "A D Hales",
+    "teams": "SUN",
+    "matches": "6",
+    "runs": "148",
+    "bat_avg": "24.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "alfonso-thomas-47569": {
+    "player_id": "3700",
+    "name": "A C Thomas",
+    "teams": "PWI",
+    "matches": "15",
+    "runs": "20",
+    "bat_avg": "10.00",
+    "wickets": "14",
+    "bowl_avg": "29.00"
+  },
+  "ali-murtaza-26490": {
+    "player_id": "4081",
+    "name": "A G  Murtaza",
+    "teams": "MIN, PWI",
+    "matches": "12",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "9",
+    "bowl_avg": "34.78"
+  },
+  "alzarri-joseph-670031": {
+    "player_id": "4575",
+    "name": "A S Joseph",
+    "teams": "MIN, GTI, RCB",
+    "matches": "22",
+    "runs": "27",
+    "bat_avg": "27.00",
+    "wickets": "21",
+    "bowl_avg": "32.90"
+  },
+  "aman-khan-1254269": {
+    "player_id": "6512",
+    "name": "Aman Hakim Khan",
+    "teams": "KKR, DDV",
+    "matches": "12",
+    "runs": "115",
+    "bat_avg": "12.78",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "amanpreet-singh-253804": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "ambati-rayudu-33141": {
+    "player_id": "4069",
+    "name": "A T Rayudu",
+    "teams": "MIN, CSK",
+    "matches": "204",
+    "runs": "4348",
+    "bat_avg": "28.23",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "amit-mishra-31107": {
+    "player_id": "3108",
+    "name": "A Mishra",
+    "teams": "DDV, DCH, SUN, LSG",
+    "matches": "162",
+    "runs": "381",
+    "bat_avg": "11.91",
+    "wickets": "174",
+    "bowl_avg": "23.84"
+  },
+  "amit-mishra-604550": {
+    "player_id": "3108",
+    "name": "A Mishra",
+    "teams": "DDV, DCH, SUN, LSG",
+    "matches": "162",
+    "runs": "381",
+    "bat_avg": "11.91",
+    "wickets": "174",
+    "bowl_avg": "23.84"
+  },
+  "amit-paunikar-324444": {
+    "player_id": "4194",
+    "name": "A G  Paunikar",
+    "teams": "RRO",
+    "matches": "5",
+    "runs": "49",
+    "bat_avg": "9.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "amit-singh-26789": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "amit-uniyal-35586": {
+    "player_id": "4181",
+    "name": "A  Uniyal",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "2",
+    "bowl_avg": "33.00"
+  },
+  "amitoze-singh-482315": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "anand-rajan-26797": {
+    "player_id": "4205",
+    "name": "Anand Rajan",
+    "teams": "DCH, SUN",
+    "matches": "9",
+    "runs": "15",
+    "bat_avg": "15.00",
+    "wickets": "9",
+    "bowl_avg": "25.44"
+  },
+  "andre-nel-46569": {
+    "player_id": "2970",
+    "name": "A Nel",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "1",
+    "bowl_avg": "31.00"
+  },
+  "andre-russell-276298": {
+    "player_id": "3836",
+    "name": "A D Russell",
+    "teams": "DDV, KKR",
+    "matches": "140",
+    "runs": "2651",
+    "bat_avg": "28.20",
+    "wickets": "123",
+    "bowl_avg": "23.28"
+  },
+  "andrew-flintoff-12856": {
+    "player_id": "2148",
+    "name": "A Flintoff",
+    "teams": "CSK",
+    "matches": "3",
+    "runs": "62",
+    "bat_avg": "31.00",
+    "wickets": "2",
+    "bowl_avg": "52.50"
+  },
+  "andrew-mcdonald-6553": {
+    "player_id": "3632",
+    "name": "A B McDonald",
+    "teams": "DDV, RCB",
+    "matches": "11",
+    "runs": "123",
+    "bat_avg": "24.60",
+    "wickets": "11",
+    "bowl_avg": "23.73"
+  },
+  "andrew-symonds-7702": {
+    "player_id": "2907",
+    "name": "A Symonds",
+    "teams": "DCH, MIN",
+    "matches": "39",
+    "runs": "974",
+    "bat_avg": "36.07",
+    "wickets": "20",
+    "bowl_avg": "33.70"
+  },
+  "andrew-tye-459508": {
+    "player_id": "4383",
+    "name": "A J Tye",
+    "teams": "GUJ, KXI, RRO, LSG",
+    "matches": "30",
+    "runs": "91",
+    "bat_avg": "10.11",
+    "wickets": "42",
+    "bowl_avg": "23.31"
+  },
+  "angelo-mathews-49764": {
+    "player_id": "3628",
+    "name": "A D Mathews",
+    "teams": "KKR, PWI, DDV",
+    "matches": "49",
+    "runs": "724",
+    "bat_avg": "23.35",
+    "wickets": "27",
+    "bowl_avg": "39.96"
+  },
+  "angkrish-raghuvanshi-1292495": {
+    "player_id": "7757",
+    "name": "Angkrish Raghuvanshi",
+    "teams": "KKR",
+    "matches": "22",
+    "runs": "463",
+    "bat_avg": "28.94",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "aniket-verma-1409976": {
+    "player_id": "8290",
+    "name": "A Verma",
+    "teams": "SUN",
+    "matches": "14",
+    "runs": "236",
+    "bat_avg": "26.22",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "anil-kumble-30176": {
+    "player_id": "0962",
+    "name": "A Kumble",
+    "teams": "RCB",
+    "matches": "42",
+    "runs": "35",
+    "bat_avg": "11.67",
+    "wickets": "45",
+    "bowl_avg": "23.51"
+  },
+  "anirudh-singh-26252": {
+    "player_id": "4134",
+    "name": "Anirudh Singh",
+    "teams": "DCH",
+    "matches": "5",
+    "runs": "63",
+    "bat_avg": "15.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ankeet-chavan-337913": {
+    "player_id": "4092",
+    "name": "A A  Chavan",
+    "teams": "RRO",
+    "matches": "13",
+    "runs": "12",
+    "bat_avg": "6.00",
+    "wickets": "8",
+    "bowl_avg": "40.75"
+  },
+  "ankit-bawne-327123": {
+    "player_id": "4655",
+    "name": "A R Bawne",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "12",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ankit-rajpoot-591650": {
+    "player_id": "4216",
+    "name": "A S Rajpoot",
+    "teams": "CSK, KKR, KXI, RRO",
+    "matches": "29",
+    "runs": "26",
+    "bat_avg": "5.20",
+    "wickets": "24",
+    "bowl_avg": "33.33"
+  },
+  "ankit-sharma-422992": {
+    "player_id": "4106",
+    "name": "Ankit Sharma",
+    "teams": "DCH, SUN, RRO, RPS",
+    "matches": "21",
+    "runs": "72",
+    "bat_avg": "12.00",
+    "wickets": "11",
+    "bowl_avg": "38.36"
+  },
+  "ankit-soni-1083128": {
+    "player_id": "5019",
+    "name": "Ankit Soni",
+    "teams": "GUJ",
+    "matches": "7",
+    "runs": "7",
+    "bat_avg": "3.50",
+    "wickets": "2",
+    "bowl_avg": "58.50"
+  },
+  "anmolpreet-singh-851261": {
+    "player_id": "4940",
+    "name": "Anmolpreet Singh",
+    "teams": "MIN, SUN",
+    "matches": "9",
+    "runs": "139",
+    "bat_avg": "15.44",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "anrich-nortje-481979": {
+    "player_id": "4929",
+    "name": "A Nortje",
+    "teams": "DDV, KKR",
+    "matches": "48",
+    "runs": "49",
+    "bat_avg": "8.17",
+    "wickets": "61",
+    "bowl_avg": "27.16"
+  },
+  "anshul-kamboj-1175428": {
+    "player_id": "7760",
+    "name": "Anshul Kamboj",
+    "teams": "MIN, CSK",
+    "matches": "11",
+    "runs": "16",
+    "bat_avg": "8.00",
+    "wickets": "10",
+    "bowl_avg": "28.60"
+  },
+  "anuj-rawat-1123073": {
+    "player_id": "5858",
+    "name": "Anuj Rawat",
+    "teams": "RRO, RCB, GTI",
+    "matches": "24",
+    "runs": "318",
+    "bat_avg": "19.88",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "anukul-roy-1079839": {
+    "player_id": "4775",
+    "name": "A S Roy",
+    "teams": "MIN, KKR",
+    "matches": "12",
+    "runs": "26",
+    "bat_avg": "6.50",
+    "wickets": "6",
+    "bowl_avg": "36.33"
+  },
+  "anunay-singh-1159816": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "anureet-singh-376324": {
+    "player_id": "4155",
+    "name": "Anureet Singh",
+    "teams": "KKR, KXI, RRO",
+    "matches": "23",
+    "runs": "36",
+    "bat_avg": "9.00",
+    "wickets": "18",
+    "bowl_avg": "34.61"
+  },
+  "anustup-majumdar-31750": {
+    "player_id": "4079",
+    "name": "A P  Majumdar",
+    "teams": "PWI",
+    "matches": "4",
+    "runs": "87",
+    "bat_avg": "21.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "arindam-ghosh-220435": {
+    "player_id": "4161",
+    "name": "A N Ghosh",
+    "teams": "KKR",
+    "matches": "2",
+    "runs": "7",
+    "bat_avg": "3.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "arjun-tendulkar-1148776": {
+    "player_id": "5972",
+    "name": "A S Tendulkar",
+    "teams": "MIN",
+    "matches": "5",
+    "runs": "13",
+    "bat_avg": "13.00",
+    "wickets": "3",
+    "bowl_avg": "38.00"
+  },
+  "arjun-yadav-36110": {
+    "player_id": "4142",
+    "name": "A S  Yadav",
+    "teams": "DCH",
+    "matches": "8",
+    "runs": "49",
+    "bat_avg": "9.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "arshad-khan-1244751": {
+    "player_id": "6521",
+    "name": "Arshad Khan",
+    "teams": "MIN, LSG, GTI",
+    "matches": "19",
+    "runs": "124",
+    "bat_avg": "20.67",
+    "wickets": "12",
+    "bowl_avg": "43.42"
+  },
+  "arshdeep-singh-1125976": {
+    "player_id": "4933",
+    "name": "Arshdeep Singh",
+    "teams": "KXI",
+    "matches": "82",
+    "runs": "31",
+    "bat_avg": "5.17",
+    "wickets": "97",
+    "bowl_avg": "26.49"
+  },
+  "arshin-kulkarni-1403153": {
+    "player_id": "7759",
+    "name": "Arshin Kulkarni",
+    "teams": "LSG",
+    "matches": "2",
+    "runs": "9",
+    "bat_avg": "4.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "asad-pathan-430401": {
+    "player_id": "4197",
+    "name": "A U K Pathan",
+    "teams": "RCB",
+    "matches": "9",
+    "runs": "39",
+    "bat_avg": "7.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ashish-nehra-31820": {
+    "player_id": "2168",
+    "name": "A Nehra",
+    "teams": "MIN, DDV, PWI, CSK, SUN",
+    "matches": "88",
+    "runs": "41",
+    "bat_avg": "5.86",
+    "wickets": "106",
+    "bowl_avg": "23.41"
+  },
+  "ashish-reddy-389605": {
+    "player_id": "4107",
+    "name": "A Ashish Reddy",
+    "teams": "DCH, SUN",
+    "matches": "31",
+    "runs": "280",
+    "bat_avg": "18.67",
+    "wickets": "18",
+    "bowl_avg": "22.00"
+  },
+  "ashley-noffke-6938": {
+    "player_id": "3531",
+    "name": "A A Noffke",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "9",
+    "bat_avg": "9.00",
+    "wickets": "1",
+    "bowl_avg": "40.00"
+  },
+  "ashok-dinda-227712": {
+    "player_id": "3740",
+    "name": "A B Dinda",
+    "teams": "KKR, DDV, PWI, RCB, RPS",
+    "matches": "78",
+    "runs": "26",
+    "bat_avg": "2.60",
+    "wickets": "69",
+    "bowl_avg": "30.04"
+  },
+  "ashok-menaria-371150": {
+    "player_id": "4097",
+    "name": "A L  Menaria",
+    "teams": "RRO",
+    "matches": "29",
+    "runs": "401",
+    "bat_avg": "19.10",
+    "wickets": "3",
+    "bowl_avg": "48.00"
+  },
+  "ashton-turner-500268": {
+    "player_id": "4648",
+    "name": "A J Turner",
+    "teams": "RRO, LSG",
+    "matches": "6",
+    "runs": "24",
+    "bat_avg": "4.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ashwani-kumar-1209126": {
+    "player_id": "8296",
+    "name": "A Kumar",
+    "teams": "MIN",
+    "matches": "7",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "11",
+    "bowl_avg": "21.09"
+  },
+  "atharva-taide-1125958": {
+    "player_id": "6525",
+    "name": "A Taide",
+    "teams": "KXI, SUN",
+    "matches": "10",
+    "runs": "260",
+    "bat_avg": "26.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "avesh-khan-694211": {
+    "player_id": "4673",
+    "name": "Avesh Khan",
+    "teams": "RCB, DDV, LSG, RRO",
+    "matches": "76",
+    "runs": "62",
+    "bat_avg": "20.67",
+    "wickets": "87",
+    "bowl_avg": "28.29"
+  },
+  "avinash-singh-1350765": {
+    "player_id": "4101",
+    "name": "A  Singh",
+    "teams": "RRO",
+    "matches": "23",
+    "runs": "2",
+    "bat_avg": "0.50",
+    "wickets": "28",
+    "bowl_avg": "22.14"
+  },
+  "axar-patel-554691": {
+    "player_id": "4310",
+    "name": "A R Patel",
+    "teams": "KXI, DDV",
+    "matches": "162",
+    "runs": "1916",
+    "bat_avg": "22.02",
+    "wickets": "128",
+    "bowl_avg": "31.61"
+  },
+  "ayush-badoni-1151270": {
+    "player_id": "6538",
+    "name": "A Badoni",
+    "teams": "LSG",
+    "matches": "56",
+    "runs": "963",
+    "bat_avg": "26.75",
+    "wickets": "4",
+    "bowl_avg": "12.25"
+  },
+  "ayush-mhatre-1452455": {
+    "player_id": "8352",
+    "name": "Ayush Mhatre",
+    "teams": "CSK",
+    "matches": "7",
+    "runs": "240",
+    "bat_avg": "34.29",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "azhar-bilakhia-26946": {
+    "player_id": "4159",
+    "name": "A A  Bilakhia",
+    "teams": "DCH",
+    "matches": "7",
+    "runs": "69",
+    "bat_avg": "13.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "azhar-mahmood-39024": {
+    "player_id": "2113",
+    "name": "Azhar Mahmood",
+    "teams": "KXI, KKR",
+    "matches": "23",
+    "runs": "388",
+    "bat_avg": "20.42",
+    "wickets": "29",
+    "bowl_avg": "24.14"
+  },
+  "azmatullah-omarzai-819429": {
+    "player_id": "5936",
+    "name": "Azmatullah Omarzai",
+    "teams": "GTI, KXI",
+    "matches": "16",
+    "runs": "99",
+    "bat_avg": "12.38",
+    "wickets": "12",
+    "bowl_avg": "38.75"
+  },
+  "baba-indrajith-477069": {
+    "player_id": "4217",
+    "name": "B Indrajith",
+    "teams": "KKR",
+    "matches": "3",
+    "runs": "21",
+    "bat_avg": "7.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "balachandra-akhil-26206": {
+    "player_id": "4131",
+    "name": "B  Akhil",
+    "teams": "RCB, KTK",
+    "matches": "15",
+    "runs": "76",
+    "bat_avg": "12.67",
+    "wickets": "6",
+    "bowl_avg": "40.33"
+  },
+  "barinder-sran-537126": {
+    "player_id": "4512",
+    "name": "B B Sran",
+    "teams": "RRO, SUN, KXI, MIN",
+    "matches": "24",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "18",
+    "bowl_avg": "42.06"
+  },
+  "ben-cutting-230371": {
+    "player_id": "3995",
+    "name": "B C J Cutting",
+    "teams": "RRO, SUN, MIN",
+    "matches": "21",
+    "runs": "238",
+    "bat_avg": "21.64",
+    "wickets": "10",
+    "bowl_avg": "42.90"
+  },
+  "ben-dunk-388678": {
+    "player_id": "4337",
+    "name": "B R Dunk",
+    "teams": "MIN",
+    "matches": "3",
+    "runs": "40",
+    "bat_avg": "13.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ben-hilfenhaus-5941": {
+    "player_id": "3455",
+    "name": "B W Hilfenhaus",
+    "teams": "CSK",
+    "matches": "17",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "22",
+    "bowl_avg": "21.77"
+  },
+  "ben-laughlin-315623": {
+    "player_id": "3657",
+    "name": "B Laughlin",
+    "teams": "CSK, RRO",
+    "matches": "9",
+    "runs": "5",
+    "bat_avg": "2.50",
+    "wickets": "10",
+    "bowl_avg": "28.20"
+  },
+  "ben-rohrer-7547": {
+    "player_id": "4000",
+    "name": "B J Rohrer",
+    "teams": "DDV",
+    "matches": "8",
+    "runs": "193",
+    "bat_avg": "32.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ben-stokes-311158": {
+    "player_id": "3883",
+    "name": "B A Stokes",
+    "teams": "RPS, RRO, CSK",
+    "matches": "45",
+    "runs": "935",
+    "bat_avg": "24.61",
+    "wickets": "28",
+    "bowl_avg": "35.43"
+  },
+  "beuran-hendricks-379927": {
+    "player_id": "4273",
+    "name": "B E Hendricks",
+    "teams": "KXI",
+    "matches": "7",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "9",
+    "bowl_avg": "26.11"
+  },
+  "bhanuka-rajapaksa-342619": {
+    "player_id": "5509",
+    "name": "P B B Rajapaksa",
+    "teams": "KXI",
+    "matches": "13",
+    "runs": "277",
+    "bat_avg": "23.08",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "bharat-chipli-27685": {
+    "player_id": "4157",
+    "name": "B  Chipli",
+    "teams": "RCB, DCH, DDV",
+    "matches": "23",
+    "runs": "280",
+    "bat_avg": "18.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "bhargav-bhatt-433410": {
+    "player_id": "4040",
+    "name": "B A  Bhatt",
+    "teams": "KXI",
+    "matches": "17",
+    "runs": "6",
+    "bat_avg": "6.00",
+    "wickets": "12",
+    "bowl_avg": "33.08"
+  },
+  "bhuvneshwar-kumar-326016": {
+    "player_id": "3991",
+    "name": "B Kumar",
+    "teams": "PWI, SUN, RCB",
+    "matches": "190",
+    "runs": "320",
+    "bat_avg": "8.42",
+    "wickets": "198",
+    "bowl_avg": "27.33"
+  },
+  "billy-stanlake-533042": {
+    "player_id": "4626",
+    "name": "B Stanlake",
+    "teams": "RCB, SUN",
+    "matches": "6",
+    "runs": "5",
+    "bat_avg": "",
+    "wickets": "7",
+    "bowl_avg": "28.57"
+  },
+  "biplab-samantray-430125": {
+    "player_id": "4114",
+    "name": "B B Samantray",
+    "teams": "DCH, SUN",
+    "matches": "9",
+    "runs": "125",
+    "bat_avg": "25.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "bipul-sharma-35928": {
+    "player_id": "4041",
+    "name": "Bipul Sharma",
+    "teams": "KXI, SUN",
+    "matches": "33",
+    "runs": "187",
+    "bat_avg": "23.38",
+    "wickets": "17",
+    "bowl_avg": "33.65"
+  },
+  "br-sharath-917231": {
+    "player_id": "7790",
+    "name": "BR Sharath",
+    "teams": "GTI",
+    "matches": "1",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "brad-haddin-5560": {
+    "player_id": "2707",
+    "name": "B J Haddin",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "18",
+    "bat_avg": "18.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "brad-hodge-5674": {
+    "player_id": "3330",
+    "name": "B J Hodge",
+    "teams": "KKR, KTK, RRO",
+    "matches": "66",
+    "runs": "1400",
+    "bat_avg": "33.33",
+    "wickets": "17",
+    "bowl_avg": "17.82"
+  },
+  "brad-hogg-5681": {
+    "player_id": "2068",
+    "name": "G B Hogg",
+    "teams": "RRO, KKR",
+    "matches": "21",
+    "runs": "22",
+    "bat_avg": "7.33",
+    "wickets": "23",
+    "bowl_avg": "24.78"
+  },
+  "brendon-mccullum-37737": {
+    "player_id": "3008",
+    "name": "B B McCullum",
+    "teams": "KKR, KTK, CSK, GUJ, RCB",
+    "matches": "109",
+    "runs": "2880",
+    "bat_avg": "27.69",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "brett-geeves-5472": {
+    "player_id": "3615",
+    "name": "B Geeves",
+    "teams": "DDV",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "91.00"
+  },
+  "brett-lee-6278": {
+    "player_id": "2205",
+    "name": "B Lee",
+    "teams": "KXI, KKR",
+    "matches": "38",
+    "runs": "124",
+    "bat_avg": "12.40",
+    "wickets": "25",
+    "bowl_avg": "43.80"
+  },
+  "callum-ferguson-5236": {
+    "player_id": "3643",
+    "name": "C J Ferguson",
+    "teams": "PWI",
+    "matches": "9",
+    "runs": "98",
+    "bat_avg": "16.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "cameron-green-1076713": {
+    "player_id": "5926",
+    "name": "C Green",
+    "teams": "MIN, RCB",
+    "matches": "29",
+    "runs": "707",
+    "bat_avg": "41.59",
+    "wickets": "16",
+    "bowl_avg": "41.50"
+  },
+  "cameron-white-8291": {
+    "player_id": "3325",
+    "name": "C L White",
+    "teams": "RCB, DCH, SUN",
+    "matches": "47",
+    "runs": "954",
+    "bat_avg": "26.50",
+    "wickets": "1",
+    "bowl_avg": "86.00"
+  },
+  "carlos-brathwaite-457249": {
+    "player_id": "3908",
+    "name": "C R Brathwaite",
+    "teams": "DDV, SUN, KKR",
+    "matches": "16",
+    "runs": "181",
+    "bat_avg": "13.92",
+    "wickets": "13",
+    "bowl_avg": "29.15"
+  },
+  "chamara-kapugedera-209457": {
+    "player_id": "3340",
+    "name": "C K Kapugedera",
+    "teams": "CSK",
+    "matches": "5",
+    "runs": "16",
+    "bat_avg": "5.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chamara-silva-50431": {
+    "player_id": "2882",
+    "name": "L P C Silva",
+    "teams": "DCH",
+    "matches": "3",
+    "runs": "40",
+    "bat_avg": "20.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chaminda-vaas-50804": {
+    "player_id": "2000",
+    "name": "W P U J C Vaas",
+    "teams": "DCH",
+    "matches": "13",
+    "runs": "81",
+    "bat_avg": "10.13",
+    "wickets": "18",
+    "bowl_avg": "19.72"
+  },
+  "chandan-madan-31104": {
+    "player_id": "4193",
+    "name": "C  Madan",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "15",
+    "bat_avg": "15.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chandrasekar-ganapathy-28764": {
+    "player_id": "4188",
+    "name": "C  Ganapathy",
+    "teams": "CSK",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "charl-langeveldt-45963": {
+    "player_id": "2991",
+    "name": "C K Langeveldt",
+    "teams": "KKR, RCB",
+    "matches": "7",
+    "runs": "8",
+    "bat_avg": "4.00",
+    "wickets": "13",
+    "bowl_avg": "14.38"
+  },
+  "chetan-sakariya-1131754": {
+    "player_id": "5978",
+    "name": "C Sakariya",
+    "teams": "RRO, DDV, KKR",
+    "matches": "20",
+    "runs": "20",
+    "bat_avg": "3.33",
+    "wickets": "20",
+    "bowl_avg": "31.90"
+  },
+  "chetanya-nanda-32093": {
+    "player_id": "4173",
+    "name": "C  Nanda",
+    "teams": "MIN",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "2",
+    "bowl_avg": "28.50"
+  },
+  "cheteshwar-pujara-32540": {
+    "player_id": "3826",
+    "name": "C A Pujara",
+    "teams": "KKR, RCB, KXI",
+    "matches": "29",
+    "runs": "390",
+    "bat_avg": "20.53",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chidhambaram-gautam-302208": {
+    "player_id": "4032",
+    "name": "C M  Gautam",
+    "teams": "DDV, MIN",
+    "matches": "13",
+    "runs": "169",
+    "bat_avg": "16.90",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chris-gayle-51880": {
+    "player_id": "2217",
+    "name": "C H Gayle",
+    "teams": "KKR, RCB, KXI",
+    "matches": "142",
+    "runs": "4965",
+    "bat_avg": "39.72",
+    "wickets": "18",
+    "bowl_avg": "40.50"
+  },
+  "chris-green-787073": {
+    "player_id": "5926",
+    "name": "C Green",
+    "teams": "MIN, RCB",
+    "matches": "29",
+    "runs": "707",
+    "bat_avg": "41.59",
+    "wickets": "16",
+    "bowl_avg": "41.50"
+  },
+  "chris-jordan-288992": {
+    "player_id": "4238",
+    "name": "C J Jordan",
+    "teams": "RCB, SUN, KXI, CSK, MIN",
+    "matches": "34",
+    "runs": "81",
+    "bat_avg": "8.10",
+    "wickets": "30",
+    "bowl_avg": "35.67"
+  },
+  "chris-lynn-326637": {
+    "player_id": "4108",
+    "name": "C A Lynn",
+    "teams": "DCH, KKR, MIN",
+    "matches": "42",
+    "runs": "1329",
+    "bat_avg": "34.08",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "chris-morris-439952": {
+    "player_id": "3989",
+    "name": "C H Morris",
+    "teams": "CSK, RRO, DDV, RCB",
+    "matches": "81",
+    "runs": "618",
+    "bat_avg": "22.07",
+    "wickets": "95",
+    "bowl_avg": "24.16"
+  },
+  "chris-woakes-247235": {
+    "player_id": "3846",
+    "name": "C R Woakes",
+    "teams": "KKR, RCB, DDV",
+    "matches": "21",
+    "runs": "78",
+    "bat_avg": "13.00",
+    "wickets": "30",
+    "bowl_avg": "21.93"
+  },
+  "clint-mckay-6903": {
+    "player_id": "3735",
+    "name": "C J McKay",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "1",
+    "bowl_avg": "60.00"
+  },
+  "colin-de-grandhomme-55395": {
+    "player_id": "3936",
+    "name": "C de Grandhomme",
+    "teams": "KKR, RCB",
+    "matches": "25",
+    "runs": "303",
+    "bat_avg": "18.94",
+    "wickets": "6",
+    "bowl_avg": "55.50"
+  },
+  "colin-ingram-45705": {
+    "player_id": "3823",
+    "name": "C A Ingram",
+    "teams": "DDV",
+    "matches": "15",
+    "runs": "205",
+    "bat_avg": "17.08",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "colin-munro-232359": {
+    "player_id": "3985",
+    "name": "C Munro",
+    "teams": "KKR, DDV",
+    "matches": "13",
+    "runs": "177",
+    "bat_avg": "14.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "corbin-bosch-594322": {
+    "player_id": "8222",
+    "name": "C Bosch",
+    "teams": "MIN",
+    "matches": "3",
+    "runs": "47",
+    "bat_avg": "23.50",
+    "wickets": "1",
+    "bowl_avg": "55.00"
+  },
+  "corey-anderson-277662": {
+    "player_id": "3983",
+    "name": "C J Anderson",
+    "teams": "MIN, DDV, RCB",
+    "matches": "30",
+    "runs": "538",
+    "bat_avg": "24.45",
+    "wickets": "11",
+    "bowl_avg": "47.09"
+  },
+  "d-arcy-short-308798": {
+    "player_id": "4729",
+    "name": "D J M Short",
+    "teams": "RRO",
+    "matches": "7",
+    "runs": "115",
+    "bat_avg": "16.43",
+    "wickets": "1",
+    "bowl_avg": "19.00"
+  },
+  "dale-steyn-47492": {
+    "player_id": "3242",
+    "name": "D W Steyn",
+    "teams": "RCB, DCH, SUN, GUJ",
+    "matches": "95",
+    "runs": "167",
+    "bat_avg": "7.59",
+    "wickets": "97",
+    "bowl_avg": "25.86"
+  },
+  "damien-martyn-6513": {
+    "player_id": "1098",
+    "name": "D R Martyn",
+    "teams": "RRO",
+    "matches": "1",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "dan-christian-4864": {
+    "player_id": "3766",
+    "name": "D T Christian",
+    "teams": "DCH, RCB, RPS, DDV",
+    "matches": "49",
+    "runs": "460",
+    "bat_avg": "14.38",
+    "wickets": "38",
+    "bowl_avg": "31.37"
+  },
+  "daniel-harris-5583": {
+    "player_id": "4209",
+    "name": "D J Harris",
+    "teams": "DCH",
+    "matches": "4",
+    "runs": "111",
+    "bat_avg": "27.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "daniel-sams-826901": {
+    "player_id": "5847",
+    "name": "D R Sams",
+    "teams": "DDV, RCB, MIN",
+    "matches": "16",
+    "runs": "44",
+    "bat_avg": "4.89",
+    "wickets": "14",
+    "bowl_avg": "37.36"
+  },
+  "daniel-vettori-38710": {
+    "player_id": "2090",
+    "name": "D L Vettori",
+    "teams": "DDV, RCB",
+    "matches": "34",
+    "runs": "121",
+    "bat_avg": "15.13",
+    "wickets": "28",
+    "bowl_avg": "31.36"
+  },
+  "daren-sammy-53115": {
+    "player_id": "3228",
+    "name": "D J G Sammy",
+    "teams": "SUN, RCB",
+    "matches": "22",
+    "runs": "295",
+    "bat_avg": "19.67",
+    "wickets": "11",
+    "bowl_avg": "31.82"
+  },
+  "darren-bravo-277472": {
+    "player_id": "3703",
+    "name": "D M Bravo",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "6",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "darren-lehmann-6285": {
+    "player_id": "2139",
+    "name": "D S Lehmann",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "18",
+    "bat_avg": "9.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "darshan-nalkande-1111917": {
+    "player_id": "4936",
+    "name": "D G Nalkande",
+    "teams": "GTI, DDV",
+    "matches": "6",
+    "runs": "12",
+    "bat_avg": "6.00",
+    "wickets": "6",
+    "bowl_avg": "24.67"
+  },
+  "daryl-mitchell-381743": {
+    "player_id": "4850",
+    "name": "D J Mitchell",
+    "teams": "RRO, CSK",
+    "matches": "15",
+    "runs": "351",
+    "bat_avg": "27.00",
+    "wickets": "1",
+    "bowl_avg": "97.00"
+  },
+  "dasun-shanaka-437316": {
+    "player_id": "4476",
+    "name": "D Shanaka",
+    "teams": "GTI",
+    "matches": "3",
+    "runs": "26",
+    "bat_avg": "13.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "david-hussey-5766": {
+    "player_id": "3595",
+    "name": "D J Hussey",
+    "teams": "KKR, KXI, CSK",
+    "matches": "64",
+    "runs": "1322",
+    "bat_avg": "26.98",
+    "wickets": "8",
+    "bowl_avg": "59.25"
+  },
+  "david-miller-321777": {
+    "player_id": "3783",
+    "name": "D A Miller",
+    "teams": "KXI, RRO, GTI, LSG",
+    "matches": "141",
+    "runs": "3077",
+    "bat_avg": "35.37",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "david-warner-219889": {
+    "player_id": "3637",
+    "name": "D A Warner",
+    "teams": "DDV, SUN",
+    "matches": "184",
+    "runs": "6565",
+    "bat_avg": "40.52",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "david-wiese-221140": {
+    "player_id": "4228",
+    "name": "D Wiese",
+    "teams": "RCB, KKR",
+    "matches": "18",
+    "runs": "148",
+    "bat_avg": "29.60",
+    "wickets": "16",
+    "bowl_avg": "27.50"
+  },
+  "david-willey-308251": {
+    "player_id": "4420",
+    "name": "D J Willey",
+    "teams": "CSK, RCB",
+    "matches": "11",
+    "runs": "53",
+    "bat_avg": "26.50",
+    "wickets": "6",
+    "bowl_avg": "45.33"
+  },
+  "davy-jacobs-45782": {
+    "player_id": "4198",
+    "name": "D J  Jacobs",
+    "teams": "MIN",
+    "matches": "7",
+    "runs": "92",
+    "bat_avg": "13.14",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "dawid-malan-236489": {
+    "player_id": "4694",
+    "name": "D J Malan",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "26",
+    "bat_avg": "26.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "debabrata-das-328163": {
+    "player_id": "4056",
+    "name": "D B  Das",
+    "teams": "KKR",
+    "matches": "31",
+    "runs": "304",
+    "bat_avg": "21.71",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "deepak-chahar-447261": {
+    "player_id": "4557",
+    "name": "D L Chahar",
+    "teams": "RPS, CSK, MIN",
+    "matches": "95",
+    "runs": "117",
+    "bat_avg": "14.63",
+    "wickets": "88",
+    "bowl_avg": "29.51"
+  },
+  "deepak-hooda-497121": {
+    "player_id": "4404",
+    "name": "D J Hooda",
+    "teams": "RRO, SUN, KXI, LSG, CSK",
+    "matches": "125",
+    "runs": "1496",
+    "bat_avg": "17.60",
+    "wickets": "10",
+    "bowl_avg": "54.60"
+  },
+  "devdutt-padikkal-1119026": {
+    "player_id": "4948",
+    "name": "D Padikkal",
+    "teams": "RCB, RRO, LSG",
+    "matches": "74",
+    "runs": "1806",
+    "bat_avg": "25.44",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "devon-conway-379140": {
+    "player_id": "5924",
+    "name": "D P Conway",
+    "teams": "CSK",
+    "matches": "29",
+    "runs": "1080",
+    "bat_avg": "43.20",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "devraj-patil-32389": {
+    "player_id": "4167",
+    "name": "D T  Patil",
+    "teams": "RCB",
+    "matches": "2",
+    "runs": "13",
+    "bat_avg": "6.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "dewald-brevis-1070665": {
+    "player_id": "6517",
+    "name": "D Brevis",
+    "teams": "MIN, CSK",
+    "matches": "16",
+    "runs": "455",
+    "bat_avg": "28.44",
+    "wickets": "1",
+    "bowl_avg": "8.00"
+  },
+  "dhawal-kulkarni-277955": {
+    "player_id": "4066",
+    "name": "D S Kulkarni",
+    "teams": "MIN, RRO, GUJ",
+    "matches": "92",
+    "runs": "104",
+    "bat_avg": "11.56",
+    "wickets": "86",
+    "bowl_avg": "28.77"
+  },
+  "dhruv-jurel-1175488": {
+    "player_id": "6541",
+    "name": "D C Jurel",
+    "teams": "RRO",
+    "matches": "42",
+    "runs": "680",
+    "bat_avg": "28.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "dhruv-shorey-590327": {
+    "player_id": "4755",
+    "name": "D R Shorey",
+    "teams": "CSK",
+    "matches": "2",
+    "runs": "13",
+    "bat_avg": "6.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "digvesh-rathi-1460529": {
+    "player_id": "8311",
+    "name": "Digvesh Rathi",
+    "teams": "LSG",
+    "matches": "13",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "14",
+    "bowl_avg": "30.64"
+  },
+  "dilhara-fernando-48835": {
+    "player_id": "2223",
+    "name": "C R D Fernando",
+    "teams": "MIN",
+    "matches": "10",
+    "runs": "4",
+    "bat_avg": "",
+    "wickets": "17",
+    "bowl_avg": "17.53"
+  },
+  "dillon-du-preez-44938": {
+    "player_id": "4171",
+    "name": "D  du Preez",
+    "teams": "RCB",
+    "matches": "2",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "4",
+    "bowl_avg": "14.00"
+  },
+  "dimitri-mascarenhas-16932": {
+    "player_id": "3478",
+    "name": "A D Mascarenhas",
+    "teams": "RRO, KXI",
+    "matches": "13",
+    "runs": "79",
+    "bat_avg": "8.78",
+    "wickets": "19",
+    "bowl_avg": "18.74"
+  },
+  "dinesh-karthik-30045": {
+    "player_id": "3210",
+    "name": "K D Karthik",
+    "teams": "DDV, KXI, MIN, RCB, GUJ, KKR",
+    "matches": "257",
+    "runs": "4842",
+    "bat_avg": "26.32",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "dinesh-salunkhe-278482": {
+    "player_id": "4141",
+    "name": "D Salunkhe",
+    "teams": "RRO",
+    "matches": "6",
+    "runs": "33",
+    "bat_avg": "16.50",
+    "wickets": "1",
+    "bowl_avg": "78.00"
+  },
+  "dirk-nannes-6981": {
+    "player_id": "3697",
+    "name": "D P Nannes",
+    "teams": "DDV, RCB, CSK",
+    "matches": "29",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "28",
+    "bowl_avg": "28.54"
+  },
+  "dishant-yagnik-36071": {
+    "player_id": "4103",
+    "name": "D H  Yagnik",
+    "teams": "RRO",
+    "matches": "25",
+    "runs": "170",
+    "bat_avg": "17.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "doddapaneni-kalyankrishna-30719": {
+    "player_id": "4150",
+    "name": "D  Kalyankrishna",
+    "teams": "DCH",
+    "matches": "3",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "2",
+    "bowl_avg": "43.50"
+  },
+  "dominic-thornely-8002": {
+    "player_id": "4143",
+    "name": "D  Thornely",
+    "teams": "MIN",
+    "matches": "6",
+    "runs": "39",
+    "bat_avg": "19.50",
+    "wickets": "3",
+    "bowl_avg": "13.33"
+  },
+  "domnic-muthuswami-528985": {
+    "player_id": "4411",
+    "name": "D J Muthuswami",
+    "teams": "DDV",
+    "matches": "6",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "4",
+    "bowl_avg": "25.25"
+  },
+  "donovan-ferreira-698315": {
+    "player_id": "7214",
+    "name": "D Ferreira",
+    "teams": "RRO, DDV",
+    "matches": "3",
+    "runs": "9",
+    "bat_avg": "3.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "doug-bollinger-4508": {
+    "player_id": "3631",
+    "name": "D E Bollinger",
+    "teams": "CSK",
+    "matches": "27",
+    "runs": "21",
+    "bat_avg": "21.00",
+    "wickets": "37",
+    "bowl_avg": "18.73"
+  },
+  "doug-bracewell-362541": {
+    "player_id": "3911",
+    "name": "D A J Bracewell",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "12",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "10.67"
+  },
+  "duan-jansen-595954": {
+    "player_id": "7225",
+    "name": "D Jansen",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "53.00"
+  },
+  "dushmantha-chameera-552152": {
+    "player_id": "4380",
+    "name": "P V D Chameera",
+    "teams": "LSG, KKR, DDV",
+    "matches": "19",
+    "runs": "53",
+    "bat_avg": "13.25",
+    "wickets": "13",
+    "bowl_avg": "46.38"
+  },
+  "dwaine-pretorius-327830": {
+    "player_id": "4589",
+    "name": "D Pretorius",
+    "teams": "CSK",
+    "matches": "7",
+    "runs": "44",
+    "bat_avg": "11.00",
+    "wickets": "6",
+    "bowl_avg": "39.67"
+  },
+  "dwaraka-ravi-teja-237701": {
+    "player_id": "4112",
+    "name": "D B  Ravi Teja",
+    "teams": "DCH, SUN",
+    "matches": "32",
+    "runs": "375",
+    "bat_avg": "19.74",
+    "wickets": "1",
+    "bowl_avg": "28.00"
+  },
+  "dwayne-smith-53118": {
+    "player_id": "3157",
+    "name": "D R Smith",
+    "teams": "MIN, DCH, CSK, GUJ",
+    "matches": "91",
+    "runs": "2385",
+    "bat_avg": "28.39",
+    "wickets": "26",
+    "bowl_avg": "31.15"
+  },
+  "eklavya-dwivedi-340841": {
+    "player_id": "4074",
+    "name": "E R Dwivedi",
+    "teams": "GUJ",
+    "matches": "4",
+    "runs": "24",
+    "bat_avg": "12.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "eoin-morgan-24598": {
+    "player_id": "3416",
+    "name": "E J G Morgan",
+    "teams": "RCB, KKR, SUN, KXI",
+    "matches": "83",
+    "runs": "1405",
+    "bat_avg": "22.66",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "eshan-malinga-1306214": {
+    "player_id": "8226",
+    "name": "Eshan Malinga",
+    "teams": "SUN",
+    "matches": "7",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "13",
+    "bowl_avg": "18.31"
+  },
+  "evin-lewis-431901": {
+    "player_id": "4538",
+    "name": "E Lewis",
+    "teams": "MIN, RRO, LSG",
+    "matches": "27",
+    "runs": "654",
+    "bat_avg": "27.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "fabian-allen-670013": {
+    "player_id": "4826",
+    "name": "F A Allen",
+    "teams": "KXI, MIN",
+    "matches": "5",
+    "runs": "14",
+    "bat_avg": "7.00",
+    "wickets": "2",
+    "bowl_avg": "68.00"
+  },
+  "faf-du-plessis-44828": {
+    "player_id": "3847",
+    "name": "F du Plessis",
+    "teams": "CSK, RPS, RCB, DDV",
+    "matches": "154",
+    "runs": "4773",
+    "bat_avg": "35.10",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "faiz-fazal-28671": {
+    "player_id": "4185",
+    "name": "F Y Fazal",
+    "teams": "RRO",
+    "matches": "12",
+    "runs": "183",
+    "bat_avg": "18.30",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "farhaan-behardien-44410": {
+    "player_id": "3951",
+    "name": "F Behardien",
+    "teams": "KXI",
+    "matches": "3",
+    "runs": "14",
+    "bat_avg": "7.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "farveez-maharoof-49638": {
+    "player_id": "3171",
+    "name": "M F Maharoof",
+    "teams": "DDV",
+    "matches": "20",
+    "runs": "177",
+    "bat_avg": "17.70",
+    "wickets": "27",
+    "bowl_avg": "19.26"
+  },
+  "fazalhaq-farooqi-974175": {
+    "player_id": "5955",
+    "name": "Fazalhaq Farooqi",
+    "teams": "SUN, RRO",
+    "matches": "12",
+    "runs": "5",
+    "bat_avg": "",
+    "wickets": "6",
+    "bowl_avg": "72.83"
+  },
+  "fidel-edwards-51782": {
+    "player_id": "3125",
+    "name": "F H Edwards",
+    "teams": "DCH",
+    "matches": "6",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "5",
+    "bowl_avg": "30.80"
+  },
+  "gagandeep-singh-28758": {
+    "player_id": "4162",
+    "name": "Gagandeep Singh",
+    "teams": "KXI",
+    "matches": "4",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "47.00"
+  },
+  "gautam-gambhir-28763": {
+    "player_id": "3107",
+    "name": "G Gambhir",
+    "teams": "DDV, KKR",
+    "matches": "154",
+    "runs": "4217",
+    "bat_avg": "31.01",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "george-bailey-4451": {
+    "player_id": "3929",
+    "name": "G J Bailey",
+    "teams": "CSK, KXI, RPS",
+    "matches": "40",
+    "runs": "663",
+    "bat_avg": "24.56",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "george-garton-643433": {
+    "player_id": "6203",
+    "name": "G H S Garton",
+    "teams": "RCB",
+    "matches": "5",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "3",
+    "bowl_avg": "45.00"
+  },
+  "gerald-coetzee-596010": {
+    "player_id": "7155",
+    "name": "G Coetzee",
+    "teams": "MIN, GTI",
+    "matches": "14",
+    "runs": "31",
+    "bat_avg": "5.17",
+    "wickets": "15",
+    "bowl_avg": "31.47"
+  },
+  "glenn-maxwell-325026": {
+    "player_id": "3969",
+    "name": "G J Maxwell",
+    "teams": "DDV, MIN, KXI, RCB",
+    "matches": "141",
+    "runs": "2819",
+    "bat_avg": "23.89",
+    "wickets": "41",
+    "bowl_avg": "34.46"
+  },
+  "glenn-mcgrath-6565": {
+    "player_id": "1133",
+    "name": "G D McGrath",
+    "teams": "DDV",
+    "matches": "14",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "12",
+    "bowl_avg": "29.75"
+  },
+  "glenn-phillips-823509": {
+    "player_id": "4647",
+    "name": "G D Phillips",
+    "teams": "RRO, SUN, GTI",
+    "matches": "8",
+    "runs": "65",
+    "bat_avg": "9.29",
+    "wickets": "2",
+    "bowl_avg": "20.00"
+  },
+  "gnaneswara-rao-28830": {
+    "player_id": "4206",
+    "name": "Y  Gnaneswara Rao",
+    "teams": "KTK",
+    "matches": "2",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "graeme-smith-47270": {
+    "player_id": "3014",
+    "name": "G C Smith",
+    "teams": "RRO, PWI",
+    "matches": "29",
+    "runs": "739",
+    "bat_avg": "28.42",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "graham-napier-17991": {
+    "player_id": "4164",
+    "name": "G R  Napier",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "15",
+    "bat_avg": "15.00",
+    "wickets": "1",
+    "bowl_avg": "27.00"
+  },
+  "gurinder-sandhu-499660": {
+    "player_id": "4374",
+    "name": "G S Sandhu",
+    "teams": "DDV",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "82.00"
+  },
+  "gurkeerat-singh-mann-537124": {
+    "player_id": "4212",
+    "name": "Gurkeerat Singh",
+    "teams": "KXI, RCB",
+    "matches": "41",
+    "runs": "511",
+    "bat_avg": "21.29",
+    "wickets": "5",
+    "bowl_avg": "19.40"
+  },
+  "gurnoor-brar-1287033": {
+    "player_id": "7239",
+    "name": "Gurnoor Brar",
+    "teams": "KXI, GTI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "halhadar-das-236810": {
+    "player_id": "4176",
+    "name": "H  Das",
+    "teams": "DCH",
+    "matches": "1",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "hanuma-vihari-452044": {
+    "player_id": "4117",
+    "name": "G H Vihari",
+    "teams": "SUN, DDV",
+    "matches": "24",
+    "runs": "284",
+    "bat_avg": "14.20",
+    "wickets": "1",
+    "bowl_avg": "47.00"
+  },
+  "hardik-pandya-625371": {
+    "player_id": "4399",
+    "name": "H H Pandya",
+    "teams": "MIN, GTI",
+    "matches": "152",
+    "runs": "2749",
+    "bat_avg": "28.34",
+    "wickets": "78",
+    "bowl_avg": "31.95"
+  },
+  "hardus-viljoen-375126": {
+    "player_id": "4513",
+    "name": "G C Viljoen",
+    "teams": "KXI",
+    "matches": "6",
+    "runs": "3",
+    "bat_avg": "1.50",
+    "wickets": "7",
+    "bowl_avg": "31.71"
+  },
+  "harmeet-singh-391128": {
+    "player_id": "4045",
+    "name": "Harmeet Singh",
+    "teams": "DCH, KXI",
+    "matches": "27",
+    "runs": "18",
+    "bat_avg": "4.50",
+    "wickets": "26",
+    "bowl_avg": "26.81"
+  },
+  "harmeet-singh-422847": {
+    "player_id": "4045",
+    "name": "Harmeet Singh",
+    "teams": "DCH, KXI",
+    "matches": "27",
+    "runs": "18",
+    "bat_avg": "4.50",
+    "wickets": "26",
+    "bowl_avg": "26.81"
+  },
+  "harpreet-brar-1168641": {
+    "player_id": "4935",
+    "name": "Harpreet Brar",
+    "teams": "KXI",
+    "matches": "49",
+    "runs": "244",
+    "bat_avg": "20.33",
+    "wickets": "35",
+    "bowl_avg": "31.00"
+  },
+  "harpreet-singh-340854": {
+    "player_id": "4077",
+    "name": "Harpreet Singh",
+    "teams": "KKR, PWI, KXI",
+    "matches": "9",
+    "runs": "123",
+    "bat_avg": "17.57",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "harry-brook-911707": {
+    "player_id": "6470",
+    "name": "H C Brook",
+    "teams": "SUN",
+    "matches": "11",
+    "runs": "190",
+    "bat_avg": "21.11",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "harry-gurney-244639": {
+    "player_id": "4307",
+    "name": "H F Gurney",
+    "teams": "KKR",
+    "matches": "8",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "7",
+    "bowl_avg": "34.00"
+  },
+  "harsh-dubey-1216159": {
+    "player_id": "8405",
+    "name": "H S Dubey",
+    "teams": "SUN",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "5",
+    "bowl_avg": "19.60"
+  },
+  "harshal-patel-390481": {
+    "player_id": "4125",
+    "name": "H V Patel",
+    "teams": "RCB, DDV, KXI, SUN",
+    "matches": "119",
+    "runs": "270",
+    "bat_avg": "9.31",
+    "wickets": "151",
+    "bowl_avg": "23.70"
+  },
+  "hashim-amla-43906": {
+    "player_id": "3236",
+    "name": "H M Amla",
+    "teams": "KXI",
+    "matches": "16",
+    "runs": "577",
+    "bat_avg": "44.38",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "heinrich-klaasen-436757": {
+    "player_id": "4731",
+    "name": "H Klaasen",
+    "teams": "RRO, RCB, SUN",
+    "matches": "49",
+    "runs": "1480",
+    "bat_avg": "40.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "herschelle-gibbs-45224": {
+    "player_id": "2080",
+    "name": "H H Gibbs",
+    "teams": "DCH, MIN",
+    "matches": "36",
+    "runs": "886",
+    "bat_avg": "27.69",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "himanshu-sharma-1350761": {
+    "player_id": "7220",
+    "name": "H Sharma",
+    "teams": "RCB",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "himmat-singh-805235": {
+    "player_id": "4946",
+    "name": "Himmat Singh",
+    "teams": "LSG",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "hrithik-shokeen-1175423": {
+    "player_id": "6520",
+    "name": "H R Shokeen",
+    "teams": "MIN",
+    "matches": "13",
+    "runs": "66",
+    "bat_avg": "22.00",
+    "wickets": "5",
+    "bowl_avg": "62.80"
+  },
+  "imran-tahir-40618": {
+    "player_id": "3850",
+    "name": "Imran Tahir",
+    "teams": "DDV, RPS, CSK",
+    "matches": "59",
+    "runs": "33",
+    "bat_avg": "8.25",
+    "wickets": "82",
+    "bowl_avg": "20.77"
+  },
+  "iqbal-abdulla-277237": {
+    "player_id": "4057",
+    "name": "Iqbal Abdulla",
+    "teams": "KKR, RRO, RCB",
+    "matches": "49",
+    "runs": "88",
+    "bat_avg": "44.00",
+    "wickets": "40",
+    "bowl_avg": "27.73"
+  },
+  "irfan-pathan-32685": {
+    "player_id": "3156",
+    "name": "I K Pathan",
+    "teams": "KXI, DDV, SUN, RPS, GUJ",
+    "matches": "103",
+    "runs": "1139",
+    "bat_avg": "21.49",
+    "wickets": "80",
+    "bowl_avg": "33.11"
+  },
+  "ish-sodhi-559066": {
+    "player_id": "4243",
+    "name": "I S Sodhi",
+    "teams": "RRO",
+    "matches": "8",
+    "runs": "7",
+    "bat_avg": "3.50",
+    "wickets": "9",
+    "bowl_avg": "22.44"
+  },
+  "ishan-kishan-720471": {
+    "player_id": "4544",
+    "name": "Ishan Kishan",
+    "teams": "GUJ, MIN, SUN",
+    "matches": "119",
+    "runs": "2998",
+    "bat_avg": "29.11",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ishan-malhotra-31088": {
+    "player_id": "4203",
+    "name": "I  Malhotra",
+    "teams": "DCH",
+    "matches": "1",
+    "runs": "7",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ishan-porel-967603": {
+    "player_id": "5850",
+    "name": "I C Porel",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "39.00"
+  },
+  "ishank-jaggi-279554": {
+    "player_id": "4196",
+    "name": "I R Jaggi",
+    "teams": "DCH, KKR",
+    "matches": "7",
+    "runs": "76",
+    "bat_avg": "15.20",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ishant-sharma-236779": {
+    "player_id": "3470",
+    "name": "I Sharma",
+    "teams": "KKR, DCH, SUN, RPS, KXI, DDV, GTI",
+    "matches": "117",
+    "runs": "57",
+    "bat_avg": "9.50",
+    "wickets": "96",
+    "bowl_avg": "35.22"
+  },
+  "ishwar-pandey-447439": {
+    "player_id": "4082",
+    "name": "I C Pandey",
+    "teams": "PWI, CSK",
+    "matches": "25",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "18",
+    "bowl_avg": "32.83"
+  },
+  "isuru-udana-328026": {
+    "player_id": "3699",
+    "name": "I Udana",
+    "teams": "RCB",
+    "matches": "10",
+    "runs": "15",
+    "bat_avg": "5.00",
+    "wickets": "8",
+    "bowl_avg": "35.25"
+  },
+  "jacob-bethell-1194959": {
+    "player_id": "8031",
+    "name": "J G Bethell",
+    "teams": "RCB",
+    "matches": "2",
+    "runs": "67",
+    "bat_avg": "33.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jacob-oram-38062": {
+    "player_id": "2811",
+    "name": "J D P Oram",
+    "teams": "CSK, RRO, MIN",
+    "matches": "18",
+    "runs": "106",
+    "bat_avg": "13.25",
+    "wickets": "9",
+    "bowl_avg": "38.78"
+  },
+  "jacques-kallis-45789": {
+    "player_id": "2043",
+    "name": "J H Kallis",
+    "teams": "RCB, KKR",
+    "matches": "98",
+    "runs": "2427",
+    "bat_avg": "28.55",
+    "wickets": "65",
+    "bowl_avg": "35.28"
+  },
+  "jagadeesh-arunkumar-26291": {
+    "player_id": "4170",
+    "name": "J  Arunkumar",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "23",
+    "bat_avg": "7.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jagadeesha-suchith-527663": {
+    "player_id": "4401",
+    "name": "J Suchith",
+    "teams": "MIN, DDV, SUN",
+    "matches": "22",
+    "runs": "70",
+    "bat_avg": "17.50",
+    "wickets": "19",
+    "bowl_avg": "31.68"
+  },
+  "jake-fraser-mcgurk-1168049": {
+    "player_id": "7679",
+    "name": "J Fraser-McGurk",
+    "teams": "DDV",
+    "matches": "15",
+    "runs": "385",
+    "bat_avg": "25.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jamaluddin-syed-mohammad-35261": {
+    "player_id": "4128",
+    "name": "J  Syed Mohammad",
+    "teams": "RCB",
+    "matches": "11",
+    "runs": "29",
+    "bat_avg": "14.50",
+    "wickets": "8",
+    "bowl_avg": "35.38"
+  },
+  "james-faulkner-270484": {
+    "player_id": "3930",
+    "name": "J P Faulkner",
+    "teams": "PWI, KXI, RRO, GUJ",
+    "matches": "60",
+    "runs": "527",
+    "bat_avg": "21.08",
+    "wickets": "59",
+    "bowl_avg": "30.14"
+  },
+  "james-franklin-37004": {
+    "player_id": "2263",
+    "name": "J E C Franklin",
+    "teams": "MIN",
+    "matches": "20",
+    "runs": "327",
+    "bat_avg": "29.73",
+    "wickets": "9",
+    "bowl_avg": "24.22"
+  },
+  "james-hopes-5702": {
+    "player_id": "3273",
+    "name": "J R Hopes",
+    "teams": "KXI, DDV",
+    "matches": "21",
+    "runs": "417",
+    "bat_avg": "26.06",
+    "wickets": "14",
+    "bowl_avg": "39.14"
+  },
+  "james-neesham-355269": {
+    "player_id": "3986",
+    "name": "J D S Neesham",
+    "teams": "DDV, KXI, MIN, RRO",
+    "matches": "14",
+    "runs": "92",
+    "bat_avg": "10.22",
+    "wickets": "8",
+    "bowl_avg": "41.75"
+  },
+  "james-pattinson-272465": {
+    "player_id": "3854",
+    "name": "J L Pattinson",
+    "teams": "MIN",
+    "matches": "10",
+    "runs": "15",
+    "bat_avg": "15.00",
+    "wickets": "11",
+    "bowl_avg": "29.09"
+  },
+  "jamie-overton-510530": {
+    "player_id": "6665",
+    "name": "J Overton",
+    "teams": "CSK",
+    "matches": "3",
+    "runs": "15",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jaskaran-singh-376102": {
+    "player_id": "4135",
+    "name": "Jaskaran Singh",
+    "teams": "DCH",
+    "matches": "8",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "6",
+    "bowl_avg": "28.50"
+  },
+  "jaskaran-singh-543922": {
+    "player_id": "4135",
+    "name": "Jaskaran Singh",
+    "teams": "DCH",
+    "matches": "8",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "6",
+    "bowl_avg": "28.50"
+  },
+  "jason-behrendorff-272477": {
+    "player_id": "4705",
+    "name": "J P Behrendorff",
+    "teams": "MIN",
+    "matches": "17",
+    "runs": "6",
+    "bat_avg": "",
+    "wickets": "19",
+    "bowl_avg": "29.05"
+  },
+  "jason-holder-391485": {
+    "player_id": "3998",
+    "name": "J O Holder",
+    "teams": "CSK, SUN, KKR, LSG, RRO",
+    "matches": "46",
+    "runs": "259",
+    "bat_avg": "12.33",
+    "wickets": "53",
+    "bowl_avg": "27.57"
+  },
+  "jason-roy-298438": {
+    "player_id": "4325",
+    "name": "J J Roy",
+    "teams": "GUJ, DDV, SUN, KKR",
+    "matches": "21",
+    "runs": "614",
+    "bat_avg": "32.32",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jasprit-bumrah-625383": {
+    "player_id": "4062",
+    "name": "J J Bumrah",
+    "teams": "MIN",
+    "matches": "145",
+    "runs": "69",
+    "bat_avg": "9.86",
+    "wickets": "183",
+    "bowl_avg": "22.03"
+  },
+  "javon-searles-230554": {
+    "player_id": "4767",
+    "name": "J P R Scantlebury-Searles",
+    "teams": "KKR",
+    "matches": "4",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "2",
+    "bowl_avg": "44.50"
+  },
+  "jayant-yadav-447587": {
+    "player_id": "4390",
+    "name": "J Yadav",
+    "teams": "DDV, MIN, GTI",
+    "matches": "20",
+    "runs": "40",
+    "bat_avg": "10.00",
+    "wickets": "8",
+    "bowl_avg": "55.63"
+  },
+  "jaydev-unadkat-390484": {
+    "player_id": "3838",
+    "name": "J D Unadkat",
+    "teams": "KKR, RCB, DDV, RPS, RRO, MIN, LSG, SUN",
+    "matches": "112",
+    "runs": "197",
+    "bat_avg": "12.31",
+    "wickets": "110",
+    "bowl_avg": "30.60"
+  },
+  "jeevan-mendis-49700": {
+    "player_id": "3787",
+    "name": "B M A J Mendis",
+    "teams": "DDV",
+    "matches": "3",
+    "runs": "23",
+    "bat_avg": "7.67",
+    "wickets": "1",
+    "bowl_avg": "36.00"
+  },
+  "jerome-taylor-53191": {
+    "player_id": "3122",
+    "name": "J E Taylor",
+    "teams": "PWI",
+    "matches": "5",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "6",
+    "bowl_avg": "26.17"
+  },
+  "jesse-ryder-38373": {
+    "player_id": "3532",
+    "name": "J D Ryder",
+    "teams": "RCB, PWI",
+    "matches": "29",
+    "runs": "604",
+    "bat_avg": "21.57",
+    "wickets": "8",
+    "bowl_avg": "37.88"
+  },
+  "jhye-richardson-774223": {
+    "player_id": "4650",
+    "name": "J A Richardson",
+    "teams": "KXI, DDV",
+    "matches": "4",
+    "runs": "17",
+    "bat_avg": "5.67",
+    "wickets": "3",
+    "bowl_avg": "52.33"
+  },
+  "jitesh-sharma-721867": {
+    "player_id": "4554",
+    "name": "J M Sharma",
+    "teams": "KXI, RCB",
+    "matches": "55",
+    "runs": "991",
+    "bat_avg": "25.41",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "joe-denly-12454": {
+    "player_id": "3724",
+    "name": "J L Denly",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "joe-root-303669": {
+    "player_id": "3981",
+    "name": "J E Root",
+    "teams": "RRO",
+    "matches": "3",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "joginder-sharma-29976": {
+    "player_id": "3244",
+    "name": "Joginder Sharma",
+    "teams": "CSK",
+    "matches": "16",
+    "runs": "36",
+    "bat_avg": "9.00",
+    "wickets": "12",
+    "bowl_avg": "35.83"
+  },
+  "johan-botha-44149": {
+    "player_id": "3329",
+    "name": "J Botha",
+    "teams": "RRO, DDV, KKR",
+    "matches": "34",
+    "runs": "409",
+    "bat_avg": "20.45",
+    "wickets": "25",
+    "bowl_avg": "32.00"
+  },
+  "johan-van-der-wath-47693": {
+    "player_id": "3339",
+    "name": "J J van der Wath",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "18",
+    "bat_avg": "9.00",
+    "wickets": "3",
+    "bowl_avg": "43.00"
+  },
+  "john-hastings-228622": {
+    "player_id": "3831",
+    "name": "J W Hastings",
+    "teams": "CSK, KKR",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "22.00"
+  },
+  "jonny-bairstow-297433": {
+    "player_id": "3900",
+    "name": "J M Bairstow",
+    "teams": "SUN, KXI, MIN",
+    "matches": "52",
+    "runs": "1674",
+    "bat_avg": "34.88",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "jos-buttler-308967": {
+    "player_id": "3888",
+    "name": "J C Buttler",
+    "teams": "MIN, RRO, GTI",
+    "matches": "121",
+    "runs": "4120",
+    "bat_avg": "40.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "josh-hazlewood-288284": {
+    "player_id": "3799",
+    "name": "J R Hazlewood",
+    "teams": "CSK, RCB",
+    "matches": "39",
+    "runs": "19",
+    "bat_avg": "",
+    "wickets": "57",
+    "bowl_avg": "20.98"
+  },
+  "josh-inglis-662235": {
+    "player_id": "6471",
+    "name": "J P Inglis",
+    "teams": "KXI",
+    "matches": "11",
+    "runs": "278",
+    "bat_avg": "30.89",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "josh-little-928067": {
+    "player_id": "4584",
+    "name": "J B Little",
+    "teams": "GTI",
+    "matches": "11",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "11",
+    "bowl_avg": "30.82"
+  },
+  "josh-philippe-1124282": {
+    "player_id": "5860",
+    "name": "J R Philippe",
+    "teams": "RCB",
+    "matches": "5",
+    "runs": "78",
+    "bat_avg": "19.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "junior-dala-545467": {
+    "player_id": "4739",
+    "name": "C J Dala",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "justin-kemp-45797": {
+    "player_id": "2258",
+    "name": "J M Kemp",
+    "teams": "CSK",
+    "matches": "5",
+    "runs": "26",
+    "bat_avg": "13.00",
+    "wickets": "3",
+    "bowl_avg": "18.00"
+  },
+  "kagiso-rabada-550215": {
+    "player_id": "4339",
+    "name": "K Rabada",
+    "teams": "DDV, KXI, GTI",
+    "matches": "84",
+    "runs": "215",
+    "bat_avg": "11.94",
+    "wickets": "119",
+    "bowl_avg": "22.96"
+  },
+  "kamindu-mendis-784373": {
+    "player_id": "4827",
+    "name": "P H K D Mendis",
+    "teams": "SUN",
+    "matches": "5",
+    "runs": "92",
+    "bat_avg": "30.67",
+    "wickets": "2",
+    "bowl_avg": "30.00"
+  },
+  "kamlesh-nagarkoti-1070188": {
+    "player_id": "4766",
+    "name": "K L Nagarkoti",
+    "teams": "KKR, DDV, CSK",
+    "matches": "12",
+    "runs": "22",
+    "bat_avg": "5.50",
+    "wickets": "5",
+    "bowl_avg": "57.00"
+  },
+  "kamran-akmal-41028": {
+    "player_id": "3056",
+    "name": "Kamran Akmal",
+    "teams": "RRO",
+    "matches": "6",
+    "runs": "128",
+    "bat_avg": "25.60",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kamran-khan-391121": {
+    "player_id": "4149",
+    "name": "Kamran Khan",
+    "teams": "RRO, PWI",
+    "matches": "9",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "9",
+    "bowl_avg": "23.78"
+  },
+  "kane-richardson-272262": {
+    "player_id": "3996",
+    "name": "K W Richardson",
+    "teams": "PWI, RRO, RCB",
+    "matches": "15",
+    "runs": "36",
+    "bat_avg": "12.00",
+    "wickets": "19",
+    "bowl_avg": "24.89"
+  },
+  "kane-williamson-277906": {
+    "player_id": "3817",
+    "name": "K S Williamson",
+    "teams": "SUN, GTI",
+    "matches": "79",
+    "runs": "2128",
+    "bat_avg": "35.47",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "karan-goel-28997": {
+    "player_id": "4139",
+    "name": "K  Goel",
+    "teams": "KXI",
+    "matches": "22",
+    "runs": "218",
+    "bat_avg": "14.53",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "karan-sharma-1246518": {
+    "player_id": "6539",
+    "name": "K S Sharma",
+    "teams": "LSG",
+    "matches": "3",
+    "runs": "16",
+    "bat_avg": "5.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "karanveer-singh-322535": {
+    "player_id": "4303",
+    "name": "Karanveer Singh",
+    "teams": "KXI",
+    "matches": "9",
+    "runs": "12",
+    "bat_avg": "12.00",
+    "wickets": "12",
+    "bowl_avg": "26.75"
+  },
+  "karim-janat-793467": {
+    "player_id": "4611",
+    "name": "Karim Janat",
+    "teams": "GTI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "karn-sharma-30288": {
+    "player_id": "4115",
+    "name": "K V Sharma",
+    "teams": "RCB, SUN, MIN, CSK",
+    "matches": "90",
+    "runs": "352",
+    "bat_avg": "13.54",
+    "wickets": "83",
+    "bowl_avg": "26.69"
+  },
+  "kartik-tyagi-1122918": {
+    "player_id": "5856",
+    "name": "Kartik Tyagi",
+    "teams": "RRO, SUN, GTI",
+    "matches": "20",
+    "runs": "13",
+    "bat_avg": "3.25",
+    "wickets": "15",
+    "bowl_avg": "47.53"
+  },
+  "karun-nair-398439": {
+    "player_id": "4123",
+    "name": "K K Nair",
+    "teams": "RCB, RRO, DDV, KXI",
+    "matches": "84",
+    "runs": "1694",
+    "bat_avg": "23.86",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kc-cariappa-777537": {
+    "player_id": "4394",
+    "name": "K C Cariappa",
+    "teams": "KKR, KXI",
+    "matches": "11",
+    "runs": "24",
+    "bat_avg": "8.00",
+    "wickets": "8",
+    "bowl_avg": "43.50"
+  },
+  "kedar-devdhar-340063": {
+    "player_id": "4207",
+    "name": "K H  Devdhar",
+    "teams": "DCH",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kedar-jadhav-290716": {
+    "player_id": "4033",
+    "name": "K M Jadhav",
+    "teams": "DDV, KTK, RCB, CSK, SUN",
+    "matches": "95",
+    "runs": "1208",
+    "bat_avg": "22.37",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "keemo-paul-677081": {
+    "player_id": "4742",
+    "name": "K M A Paul",
+    "teams": "DDV",
+    "matches": "8",
+    "runs": "18",
+    "bat_avg": "3.60",
+    "wickets": "9",
+    "bowl_avg": "26.33"
+  },
+  "keshav-maharaj-267724": {
+    "player_id": "4601",
+    "name": "K A Maharaj",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "2",
+    "bowl_avg": "19.50"
+  },
+  "kevin-pietersen-19296": {
+    "player_id": "3238",
+    "name": "K P Pietersen",
+    "teams": "RCB, DDV, RPS",
+    "matches": "36",
+    "runs": "1001",
+    "bat_avg": "37.07",
+    "wickets": "7",
+    "bowl_avg": "30.71"
+  },
+  "kevon-cooper-371814": {
+    "player_id": "4093",
+    "name": "K  Cooper",
+    "teams": "RRO",
+    "matches": "25",
+    "runs": "116",
+    "bat_avg": "12.89",
+    "wickets": "33",
+    "bowl_avg": "22.94"
+  },
+  "khaleel-ahmed-942645": {
+    "player_id": "4539",
+    "name": "K K Ahmed",
+    "teams": "SUN, DDV, CSK",
+    "matches": "71",
+    "runs": "2",
+    "bat_avg": "0.40",
+    "wickets": "89",
+    "bowl_avg": "26.16"
+  },
+  "kieron-pollard-230559": {
+    "player_id": "3465",
+    "name": "K A Pollard",
+    "teams": "MIN",
+    "matches": "189",
+    "runs": "3412",
+    "bat_avg": "28.67",
+    "wickets": "69",
+    "bowl_avg": "31.26"
+  },
+  "kl-rahul-422108": {
+    "player_id": "4137",
+    "name": "K L Rahul",
+    "teams": "RCB, SUN, KXI, LSG, DDV",
+    "matches": "145",
+    "runs": "5222",
+    "bat_avg": "46.21",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "km-asif-1083030": {
+    "player_id": "4749",
+    "name": "K M Asif",
+    "teams": "CSK, RRO",
+    "matches": "7",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "7",
+    "bowl_avg": "33.00"
+  },
+  "kp-appanna-269170": {
+    "player_id": "4119",
+    "name": "K P  Appanna",
+    "teams": "RCB",
+    "matches": "14",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "9",
+    "bowl_avg": "31.78"
+  },
+  "krishmar-santokie-314622": {
+    "player_id": "3907",
+    "name": "K Santokie",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "30.00"
+  },
+  "krishnakant-upadhyay-431876": {
+    "player_id": "4087",
+    "name": "K  Upadhyay",
+    "teams": "PWI",
+    "matches": "3",
+    "runs": "12",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "krishnappa-gowtham-424377": {
+    "player_id": "4668",
+    "name": "K Gowtham",
+    "teams": "RRO, KXI, LSG",
+    "matches": "36",
+    "runs": "247",
+    "bat_avg": "13.72",
+    "wickets": "21",
+    "bowl_avg": "38.48"
+  },
+  "krunal-pandya-471342": {
+    "player_id": "4552",
+    "name": "K H Pandya",
+    "teams": "MIN, LSG, RCB",
+    "matches": "142",
+    "runs": "1756",
+    "bat_avg": "22.23",
+    "wickets": "93",
+    "bowl_avg": "32.10"
+  },
+  "kuldeep-sen-1163695": {
+    "player_id": "6544",
+    "name": "K R Sen",
+    "teams": "RRO, KXI",
+    "matches": "12",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "14",
+    "bowl_avg": "27.64"
+  },
+  "kuldeep-yadav-559235": {
+    "player_id": "4652",
+    "name": "Kuldeep Yadav",
+    "teams": "KKR, DDV",
+    "matches": "98",
+    "runs": "201",
+    "bat_avg": "13.40",
+    "wickets": "102",
+    "bowl_avg": "26.95"
+  },
+  "kuldip-yadav-1206495": {
+    "player_id": "5977",
+    "name": "K Yadav",
+    "teams": "RRO",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "42.00"
+  },
+  "kulwant-khejroliya-1083033": {
+    "player_id": "4669",
+    "name": "K Khejroliya",
+    "teams": "RCB, KKR, GTI",
+    "matches": "8",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "6",
+    "bowl_avg": "41.00"
+  },
+  "kumar-kartikeya-1159843": {
+    "player_id": "6579",
+    "name": "Kumar Kartikeya",
+    "teams": "MIN, RRO",
+    "matches": "16",
+    "runs": "12",
+    "bat_avg": "3.00",
+    "wickets": "12",
+    "bowl_avg": "33.92"
+  },
+  "kumar-kushagra-1207295": {
+    "player_id": "7752",
+    "name": "Kumar Kushagra",
+    "teams": "DDV, GTI",
+    "matches": "4",
+    "runs": "3",
+    "bat_avg": "1.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kumar-sangakkara-50710": {
+    "player_id": "2226",
+    "name": "K C Sangakkara",
+    "teams": "KXI, DCH, SUN",
+    "matches": "71",
+    "runs": "1687",
+    "bat_avg": "25.95",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kunal-singh-rathore-1339031": {
+    "player_id": "7213",
+    "name": "Kunal Singh Rathore",
+    "teams": "RRO",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kusal-mendis-629074": {
+    "player_id": "4485",
+    "name": "B K G Mendis",
+    "teams": "GTI",
+    "matches": "1",
+    "runs": "20",
+    "bat_avg": "20.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kusal-perera-300631": {
+    "player_id": "3994",
+    "name": "M D K J Perera",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "14",
+    "bat_avg": "7.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "kwena-maphaka-1294342": {
+    "player_id": "7779",
+    "name": "K T Maphaka",
+    "teams": "MIN, RRO",
+    "matches": "4",
+    "runs": "8",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "71.50"
+  },
+  "kyle-abbott-297583": {
+    "player_id": "4002",
+    "name": "K J Abbott",
+    "teams": "KXI",
+    "matches": "5",
+    "runs": "13",
+    "bat_avg": "13.00",
+    "wickets": "2",
+    "bowl_avg": "88.50"
+  },
+  "kyle-jamieson-625960": {
+    "player_id": "5774",
+    "name": "K A Jamieson",
+    "teams": "RCB, KXI",
+    "matches": "13",
+    "runs": "65",
+    "bat_avg": "16.25",
+    "wickets": "14",
+    "bowl_avg": "29.71"
+  },
+  "kyle-mayers-348056": {
+    "player_id": "5925",
+    "name": "K R Mayers",
+    "teams": "LSG",
+    "matches": "13",
+    "runs": "379",
+    "bat_avg": "29.15",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "lakshmipathy-balaji-26829": {
+    "player_id": "3057",
+    "name": "L Balaji",
+    "teams": "CSK, KKR, KXI",
+    "matches": "73",
+    "runs": "36",
+    "bat_avg": "4.50",
+    "wickets": "76",
+    "bowl_avg": "26.68"
+  },
+  "lalit-yadav-930189": {
+    "player_id": "5848",
+    "name": "Lalit Yadav",
+    "teams": "DDV",
+    "matches": "27",
+    "runs": "305",
+    "bat_avg": "19.06",
+    "wickets": "10",
+    "bowl_avg": "42.50"
+  },
+  "lasith-malinga-49758": {
+    "player_id": "3178",
+    "name": "S L Malinga",
+    "teams": "MIN",
+    "matches": "122",
+    "runs": "88",
+    "bat_avg": "5.50",
+    "wickets": "170",
+    "bowl_avg": "19.85"
+  },
+  "laxmi-shukla-34019": {
+    "player_id": "2880",
+    "name": "L R Shukla",
+    "teams": "KKR, DDV",
+    "matches": "47",
+    "runs": "405",
+    "bat_avg": "15.00",
+    "wickets": "15",
+    "bowl_avg": "31.67"
+  },
+  "lee-carseldine-4541": {
+    "player_id": "4169",
+    "name": "L A  Carseldine",
+    "teams": "RRO",
+    "matches": "5",
+    "runs": "81",
+    "bat_avg": "20.25",
+    "wickets": "1",
+    "bowl_avg": "6.00"
+  },
+  "lendl-simmons-53116": {
+    "player_id": "3447",
+    "name": "L M P Simmons",
+    "teams": "MIN",
+    "matches": "29",
+    "runs": "1079",
+    "bat_avg": "39.96",
+    "wickets": "1",
+    "bowl_avg": "34.00"
+  },
+  "liam-livingstone-403902": {
+    "player_id": "4692",
+    "name": "L S Livingstone",
+    "teams": "RRO, KXI, RCB",
+    "matches": "49",
+    "runs": "1051",
+    "bat_avg": "26.28",
+    "wickets": "13",
+    "bowl_avg": "36.08"
+  },
+  "liam-plunkett-19264": {
+    "player_id": "3331",
+    "name": "L E Plunkett",
+    "teams": "DDV",
+    "matches": "7",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "4",
+    "bowl_avg": "56.25"
+  },
+  "litton-das-536936": {
+    "player_id": "4430",
+    "name": "Litton Das",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "4",
+    "bat_avg": "4.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "lizaad-williams-379887": {
+    "player_id": "5984",
+    "name": "L B Williams",
+    "teams": "DDV",
+    "matches": "2",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "72.00"
+  },
+  "lockie-ferguson-493773": {
+    "player_id": "4609",
+    "name": "L H Ferguson",
+    "teams": "RPS, KKR, GTI, RCB, KXI",
+    "matches": "49",
+    "runs": "72",
+    "bat_avg": "24.00",
+    "wickets": "51",
+    "bowl_avg": "30.00"
+  },
+  "love-ablish-26236": {
+    "player_id": "4191",
+    "name": "L Ablish",
+    "teams": "KXI",
+    "matches": "3",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "25.00"
+  },
+  "luke-ronchi-7502": {
+    "player_id": "3573",
+    "name": "L Ronchi",
+    "teams": "MIN",
+    "matches": "5",
+    "runs": "34",
+    "bat_avg": "6.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "luke-wood-573170": {
+    "player_id": "6921",
+    "name": "L Wood",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "9",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "93.00"
+  },
+  "luke-wright-23460": {
+    "player_id": "3499",
+    "name": "L J Wright",
+    "teams": "PWI",
+    "matches": "7",
+    "runs": "106",
+    "bat_avg": "21.20",
+    "wickets": "2",
+    "bowl_avg": "62.00"
+  },
+  "lukman-meriwala-573930": {
+    "player_id": "5969",
+    "name": "L I Meriwala",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "32.00"
+  },
+  "m-shahrukh-khan-719719": {
+    "player_id": "8308",
+    "name": "M Khan",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "1",
+    "bowl_avg": "27.00"
+  },
+  "madhav-tiwari-1460385": {
+    "player_id": "8301",
+    "name": "M Tiwari",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mahela-jayawardene-49289": {
+    "player_id": "2104",
+    "name": "D P M D Jayawardene",
+    "teams": "KXI, KTK, DDV",
+    "matches": "80",
+    "runs": "1802",
+    "bat_avg": "28.60",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mahesh-rawat-33440": {
+    "player_id": "4085",
+    "name": "M  Rawat",
+    "teams": "RRO, PWI",
+    "matches": "18",
+    "runs": "55",
+    "bat_avg": "11.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mahipal-lomror-853265": {
+    "player_id": "4541",
+    "name": "M K Lomror",
+    "teams": "RRO, RCB, GTI",
+    "matches": "40",
+    "runs": "527",
+    "bat_avg": "18.17",
+    "wickets": "1",
+    "bowl_avg": "127.00"
+  },
+  "makhaya-ntini-46592": {
+    "player_id": "2137",
+    "name": "M Ntini",
+    "teams": "CSK",
+    "matches": "9",
+    "runs": "11",
+    "bat_avg": "11.00",
+    "wickets": "7",
+    "bowl_avg": "34.57"
+  },
+  "manan-vohra-532856": {
+    "player_id": "4052",
+    "name": "M Vohra",
+    "teams": "KXI, RCB, RRO, LSG",
+    "matches": "56",
+    "runs": "1083",
+    "bat_avg": "22.10",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "manav-suthar-1175426": {
+    "player_id": "7755",
+    "name": "Manav Suthar",
+    "teams": "GTI",
+    "matches": "1",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mandeep-singh-398506": {
+    "player_id": "4046",
+    "name": "Mandeep Singh",
+    "teams": "KKR, KXI, RCB, DDV",
+    "matches": "111",
+    "runs": "1706",
+    "bat_avg": "20.80",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "manimaran-siddharth-1151286": {
+    "player_id": "5852",
+    "name": "M Siddharth",
+    "teams": "LSG",
+    "matches": "5",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "46.00"
+  },
+  "manish-pandey-290630": {
+    "player_id": "4083",
+    "name": "M K Pandey",
+    "teams": "MIN, RCB, PWI, KKR, SUN, LSG, DDV",
+    "matches": "174",
+    "runs": "3942",
+    "bat_avg": "29.42",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "manoj-bhandage-1057399": {
+    "player_id": "7219",
+    "name": "M Bhandage",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "manpreet-gony-317293": {
+    "player_id": "3569",
+    "name": "M Gony",
+    "teams": "CSK, DCH, KXI, GUJ",
+    "matches": "44",
+    "runs": "99",
+    "bat_avg": "9.90",
+    "wickets": "37",
+    "bowl_avg": "34.78"
+  },
+  "manprit-juneja-390480": {
+    "player_id": "4029",
+    "name": "M C  Juneja",
+    "teams": "DDV",
+    "matches": "7",
+    "runs": "125",
+    "bat_avg": "17.86",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "manvanth-kumar-1392186": {
+    "player_id": "7228",
+    "name": "M Kumar",
+    "teams": "DDV",
+    "matches": "32",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "36",
+    "bowl_avg": "30.61"
+  },
+  "manvinder-bisla-27280": {
+    "player_id": "4055",
+    "name": "M S  Bisla",
+    "teams": "KXI, KKR, RCB",
+    "matches": "39",
+    "runs": "798",
+    "bat_avg": "21.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "marchant-de-lange-393279": {
+    "player_id": "3927",
+    "name": "M de Lange",
+    "teams": "KKR, MIN",
+    "matches": "5",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "5",
+    "bowl_avg": "33.80"
+  },
+  "marco-jansen-696401": {
+    "player_id": "5974",
+    "name": "M Jansen",
+    "teams": "MIN, SUN, KXI",
+    "matches": "35",
+    "runs": "141",
+    "bat_avg": "12.82",
+    "wickets": "36",
+    "bowl_avg": "31.92"
+  },
+  "marcus-stoinis-325012": {
+    "player_id": "4389",
+    "name": "M P Stoinis",
+    "teams": "KXI, RCB, DDV, LSG",
+    "matches": "109",
+    "runs": "2026",
+    "bat_avg": "28.14",
+    "wickets": "44",
+    "bowl_avg": "32.93"
+  },
+  "mark-boucher-44111": {
+    "player_id": "2116",
+    "name": "M V Boucher",
+    "teams": "RCB, KKR",
+    "matches": "31",
+    "runs": "394",
+    "bat_avg": "28.14",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mark-wood-351588": {
+    "player_id": "4421",
+    "name": "M A Wood",
+    "teams": "CSK, LSG",
+    "matches": "5",
+    "runs": "12",
+    "bat_avg": "6.00",
+    "wickets": "11",
+    "bowl_avg": "16.27"
+  },
+  "marlon-samuels-52983": {
+    "player_id": "2255",
+    "name": "M N Samuels",
+    "teams": "PWI, DDV",
+    "matches": "15",
+    "runs": "161",
+    "bat_avg": "12.38",
+    "wickets": "9",
+    "bowl_avg": "31.56"
+  },
+  "martin-guptill-226492": {
+    "player_id": "3633",
+    "name": "M J Guptill",
+    "teams": "MIN, KXI, SUN",
+    "matches": "13",
+    "runs": "270",
+    "bat_avg": "22.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mashrafe-mortaza-56007": {
+    "player_id": "2995",
+    "name": "Mashrafe Mortaza",
+    "teams": "KKR",
+    "matches": "1",
+    "runs": "2",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "matheesha-pathirana-1194795": {
+    "player_id": "6613",
+    "name": "M Pathirana",
+    "teams": "CSK",
+    "matches": "32",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "47",
+    "bowl_avg": "21.62"
+  },
+  "matt-henry-506612": {
+    "player_id": "4257",
+    "name": "M J Henry",
+    "teams": "KXI, LSG",
+    "matches": "6",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "90.50"
+  },
+  "matthew-breetzke-595267": {
+    "player_id": "7453",
+    "name": "M P Breetzke",
+    "teams": "LSG",
+    "matches": "1",
+    "runs": "14",
+    "bat_avg": "14.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "matthew-hayden-5616": {
+    "player_id": "1976",
+    "name": "M L Hayden",
+    "teams": "CSK",
+    "matches": "32",
+    "runs": "1107",
+    "bat_avg": "36.90",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "matthew-short-605575": {
+    "player_id": "7203",
+    "name": "M W Short",
+    "teams": "KXI",
+    "matches": "6",
+    "runs": "117",
+    "bat_avg": "19.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "matthew-wade-230193": {
+    "player_id": "3910",
+    "name": "M S Wade",
+    "teams": "DDV, GTI",
+    "matches": "15",
+    "runs": "183",
+    "bat_avg": "13.07",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mayank-agarwal-398438": {
+    "player_id": "4104",
+    "name": "M A Agarwal",
+    "teams": "RCB, DDV, RPS, KXI, SUN",
+    "matches": "131",
+    "runs": "2756",
+    "bat_avg": "22.97",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mayank-dagar-942367": {
+    "player_id": "4762",
+    "name": "M J Dagar",
+    "teams": "SUN, RCB",
+    "matches": "8",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "2",
+    "bowl_avg": "101.50"
+  },
+  "mayank-markande-1081442": {
+    "player_id": "4772",
+    "name": "M Markande",
+    "teams": "MIN, RRO, SUN, KKR",
+    "matches": "37",
+    "runs": "48",
+    "bat_avg": "16.00",
+    "wickets": "37",
+    "bowl_avg": "28.89"
+  },
+  "mayank-yadav-1292563": {
+    "player_id": "6540",
+    "name": "M P Yadav",
+    "teams": "LSG",
+    "matches": "6",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "9",
+    "bowl_avg": "20.56"
+  },
+  "michael-bracewell-326968": {
+    "player_id": "6547",
+    "name": "M G Bracewell",
+    "teams": "RCB",
+    "matches": "5",
+    "runs": "58",
+    "bat_avg": "29.00",
+    "wickets": "6",
+    "bowl_avg": "15.83"
+  },
+  "michael-clarke-4578": {
+    "player_id": "3067",
+    "name": "M J Clarke",
+    "teams": "PWI",
+    "matches": "6",
+    "runs": "98",
+    "bat_avg": "16.33",
+    "wickets": "2",
+    "bowl_avg": "33.50"
+  },
+  "michael-hussey-5939": {
+    "player_id": "3160",
+    "name": "M E K Hussey",
+    "teams": "CSK, MIN",
+    "matches": "59",
+    "runs": "1977",
+    "bat_avg": "38.76",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "michael-klinger-6161": {
+    "player_id": "4202",
+    "name": "M Klinger",
+    "teams": "KTK",
+    "matches": "4",
+    "runs": "73",
+    "bat_avg": "18.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "michael-lumb-16406": {
+    "player_id": "3781",
+    "name": "M J Lumb",
+    "teams": "RRO, DCH",
+    "matches": "12",
+    "runs": "278",
+    "bat_avg": "23.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "michael-neser-376169": {
+    "player_id": "4201",
+    "name": "M G Neser",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "milind-kumar-451947": {
+    "player_id": "7228",
+    "name": "M Kumar",
+    "teams": "DDV",
+    "matches": "32",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "36",
+    "bowl_avg": "30.61"
+  },
+  "misbah-ul-haq-41378": {
+    "player_id": "2262",
+    "name": "Misbah-ul-Haq",
+    "teams": "RCB",
+    "matches": "8",
+    "runs": "117",
+    "bat_avg": "16.71",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mitchell-johnson-6033": {
+    "player_id": "3334",
+    "name": "M G Johnson",
+    "teams": "MIN, KXI, KKR",
+    "matches": "54",
+    "runs": "160",
+    "bat_avg": "12.31",
+    "wickets": "61",
+    "bowl_avg": "27.92"
+  },
+  "mitchell-marsh-272450": {
+    "player_id": "3912",
+    "name": "M R Marsh",
+    "teams": "DCH, PWI, RPS, SUN, DDV, LSG",
+    "matches": "55",
+    "runs": "1293",
+    "bat_avg": "27.51",
+    "wickets": "37",
+    "bowl_avg": "21.49"
+  },
+  "mitchell-mcclenaghan-319439": {
+    "player_id": "3984",
+    "name": "M J McClenaghan",
+    "teams": "MIN",
+    "matches": "56",
+    "runs": "91",
+    "bat_avg": "7.00",
+    "wickets": "71",
+    "bowl_avg": "25.39"
+  },
+  "mitchell-owen-1213979": {
+    "player_id": "8398",
+    "name": "M J Owen",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mitchell-santner-502714": {
+    "player_id": "4429",
+    "name": "M J Santner",
+    "teams": "CSK, MIN",
+    "matches": "31",
+    "runs": "110",
+    "bat_avg": "13.75",
+    "wickets": "25",
+    "bowl_avg": "29.40"
+  },
+  "mitchell-starc-311592": {
+    "player_id": "3830",
+    "name": "M A Starc",
+    "teams": "RCB, KKR, DDV",
+    "matches": "52",
+    "runs": "111",
+    "bat_avg": "10.09",
+    "wickets": "65",
+    "bowl_avg": "23.12"
+  },
+  "mithun-manhas-31001": {
+    "player_id": "4080",
+    "name": "M  Manhas",
+    "teams": "DDV, PWI, CSK",
+    "matches": "55",
+    "runs": "514",
+    "bat_avg": "22.35",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "moeen-ali-8917": {
+    "player_id": "4271",
+    "name": "Moeen Ali",
+    "teams": "RCB, CSK, KKR",
+    "matches": "73",
+    "runs": "1167",
+    "bat_avg": "22.02",
+    "wickets": "41",
+    "bowl_avg": "25.10"
+  },
+  "mohammad-ashraful-55988": {
+    "player_id": "2964",
+    "name": "Mohammad Ashraful",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mohammad-asif-41411": {
+    "player_id": "3245",
+    "name": "Mohammad Asif",
+    "teams": "DDV",
+    "matches": "8",
+    "runs": "3",
+    "bat_avg": "1.50",
+    "wickets": "8",
+    "bowl_avg": "37.00"
+  },
+  "mohammad-hafeez-41434": {
+    "player_id": "3101",
+    "name": "Mohammad Hafeez",
+    "teams": "KKR",
+    "matches": "8",
+    "runs": "64",
+    "bat_avg": "9.14",
+    "wickets": "2",
+    "bowl_avg": "34.00"
+  },
+  "mohammad-kaif-29990": {
+    "player_id": "2213",
+    "name": "M Kaif",
+    "teams": "RRO, KXI, RCB",
+    "matches": "29",
+    "runs": "259",
+    "bat_avg": "14.39",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mohammad-nabi-25913": {
+    "player_id": "3665",
+    "name": "Mohammad Nabi",
+    "teams": "SUN, MIN",
+    "matches": "24",
+    "runs": "215",
+    "bat_avg": "13.44",
+    "wickets": "15",
+    "bowl_avg": "34.47"
+  },
+  "mohammed-siraj-940973": {
+    "player_id": "4675",
+    "name": "Mohammed Siraj",
+    "teams": "SUN, RCB, GTI",
+    "matches": "108",
+    "runs": "112",
+    "bat_avg": "11.20",
+    "wickets": "109",
+    "bowl_avg": "30.72"
+  },
+  "mohit-rathee-1349361": {
+    "player_id": "7204",
+    "name": "M Rathee",
+    "teams": "KXI, RCB",
+    "matches": "1",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mohit-sharma-537119": {
+    "player_id": "4028",
+    "name": "M M Sharma",
+    "teams": "CSK, KXI, DDV, GTI",
+    "matches": "120",
+    "runs": "125",
+    "bat_avg": "6.94",
+    "wickets": "134",
+    "bowl_avg": "26.22"
+  },
+  "mohnish-mishra-31028": {
+    "player_id": "4186",
+    "name": "M D  Mishra",
+    "teams": "DCH, PWI",
+    "matches": "18",
+    "runs": "237",
+    "bat_avg": "14.81",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mohsin-khan-1132005": {
+    "player_id": "8308",
+    "name": "M Khan",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "1",
+    "bowl_avg": "27.00"
+  },
+  "moises-henriques-5961": {
+    "player_id": "3680",
+    "name": "M C Henriques",
+    "teams": "KKR, DDV, RCB, SUN, KXI",
+    "matches": "62",
+    "runs": "1000",
+    "bat_avg": "27.78",
+    "wickets": "42",
+    "bowl_avg": "30.69"
+  },
+  "monu-kumar-694209": {
+    "player_id": "7228",
+    "name": "M Kumar",
+    "teams": "DDV",
+    "matches": "32",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "36",
+    "bowl_avg": "30.61"
+  },
+  "morne-morkel-46538": {
+    "player_id": "3451",
+    "name": "M Morkel",
+    "teams": "RRO, DDV, KKR",
+    "matches": "70",
+    "runs": "126",
+    "bat_avg": "11.45",
+    "wickets": "77",
+    "bowl_avg": "27.13"
+  },
+  "morne-van-wyk-47711": {
+    "player_id": "3129",
+    "name": "M N van Wyk",
+    "teams": "KKR",
+    "matches": "5",
+    "runs": "167",
+    "bat_avg": "55.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ms-dhoni-28081": {
+    "player_id": "3243",
+    "name": "M S Dhoni",
+    "teams": "CSK, RPS",
+    "matches": "278",
+    "runs": "5439",
+    "bat_avg": "38.30",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "mujeeb-ur-rahman-974109": {
+    "player_id": "4714",
+    "name": "Mujeeb Ur Rahman",
+    "teams": "KXI, SUN, MIN",
+    "matches": "20",
+    "runs": "12",
+    "bat_avg": "4.00",
+    "wickets": "20",
+    "bowl_avg": "31.00"
+  },
+  "mukesh-choudhary-1125688": {
+    "player_id": "6507",
+    "name": "Mukesh Choudhary",
+    "teams": "CSK",
+    "matches": "16",
+    "runs": "6",
+    "bat_avg": "6.00",
+    "wickets": "17",
+    "bowl_avg": "30.71"
+  },
+  "mukesh-kumar-926851": {
+    "player_id": "7228",
+    "name": "M Kumar",
+    "teams": "DDV",
+    "matches": "32",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "36",
+    "bowl_avg": "30.61"
+  },
+  "munaf-patel-32965": {
+    "player_id": "3352",
+    "name": "M M Patel",
+    "teams": "RRO, MIN, GUJ",
+    "matches": "63",
+    "runs": "39",
+    "bat_avg": "6.50",
+    "wickets": "74",
+    "bowl_avg": "22.95"
+  },
+  "murali-kartik-30049": {
+    "player_id": "2209",
+    "name": "M Kartik",
+    "teams": "KKR, PWI, RCB, KXI",
+    "matches": "56",
+    "runs": "113",
+    "bat_avg": "16.14",
+    "wickets": "31",
+    "bowl_avg": "44.77"
+  },
+  "murali-vijay-237095": {
+    "player_id": "3626",
+    "name": "M Vijay",
+    "teams": "CSK, DDV, KXI",
+    "matches": "106",
+    "runs": "2619",
+    "bat_avg": "25.93",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "murugan-ashwin-528067": {
+    "player_id": "4556",
+    "name": "M Ashwin",
+    "teams": "RPS, RCB, KXI, MIN, RRO",
+    "matches": "44",
+    "runs": "35",
+    "bat_avg": "3.89",
+    "wickets": "35",
+    "bowl_avg": "33.20"
+  },
+  "musavir-khote-30220": {
+    "player_id": "4144",
+    "name": "M  Khote",
+    "teams": "MIN",
+    "matches": "4",
+    "runs": "24",
+    "bat_avg": "12.00",
+    "wickets": "2",
+    "bowl_avg": "25.50"
+  },
+  "musheer-khan-1316430": {
+    "player_id": "8308",
+    "name": "M Khan",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "1",
+    "bowl_avg": "27.00"
+  },
+  "mustafizur-rahman-330902": {
+    "player_id": "4414",
+    "name": "Mustafizur Rahman",
+    "teams": "SUN, MIN, RRO, DDV, CSK",
+    "matches": "60",
+    "runs": "13",
+    "bat_avg": "6.50",
+    "wickets": "65",
+    "bowl_avg": "28.45"
+  },
+  "naman-dhir-1287032": {
+    "player_id": "7761",
+    "name": "Naman Dhir",
+    "teams": "MIN",
+    "matches": "23",
+    "runs": "392",
+    "bat_avg": "28.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "naman-ojha-32102": {
+    "player_id": "3789",
+    "name": "N V Ojha",
+    "teams": "RRO, DDV, SUN",
+    "matches": "113",
+    "runs": "1554",
+    "bat_avg": "20.72",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nandre-burger-971349": {
+    "player_id": "7644",
+    "name": "N Burger",
+    "teams": "RRO",
+    "matches": "6",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "7",
+    "bowl_avg": "20.71"
+  },
+  "narayan-jagadeesan-1048813": {
+    "player_id": "4751",
+    "name": "N Jagadeesan",
+    "teams": "CSK, KKR",
+    "matches": "13",
+    "runs": "162",
+    "bat_avg": "18.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nathan-coulter-nile-261354": {
+    "player_id": "4001",
+    "name": "N M Coulter-Nile",
+    "teams": "MIN, DDV, KKR, RRO",
+    "matches": "39",
+    "runs": "82",
+    "bat_avg": "7.45",
+    "wickets": "48",
+    "bowl_avg": "22.92"
+  },
+  "nathan-ellis-826915": {
+    "player_id": "6082",
+    "name": "N Ellis",
+    "teams": "KXI, CSK",
+    "matches": "17",
+    "runs": "19",
+    "bat_avg": "4.75",
+    "wickets": "19",
+    "bowl_avg": "28.74"
+  },
+  "nathan-mccullum-37749": {
+    "player_id": "3685",
+    "name": "N L McCullum",
+    "teams": "PWI",
+    "matches": "2",
+    "runs": "26",
+    "bat_avg": "26.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nathan-rimmington-7443": {
+    "player_id": "4199",
+    "name": "N J  Rimmington",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nathu-singh-853259": {
+    "player_id": "4555",
+    "name": "N B Singh",
+    "teams": "GUJ",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "15.00"
+  },
+  "navdeep-saini-700167": {
+    "player_id": "4047",
+    "name": "N  Saini",
+    "teams": "KXI",
+    "matches": "10",
+    "runs": "140",
+    "bat_avg": "14.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "naveen-ul-haq-793447": {
+    "player_id": "4590",
+    "name": "Naveen-ul-Haq",
+    "teams": "LSG",
+    "matches": "18",
+    "runs": "18",
+    "bat_avg": "18.00",
+    "wickets": "25",
+    "bowl_avg": "23.64"
+  },
+  "nayan-doshi-12440": {
+    "player_id": "4195",
+    "name": "N D  Doshi",
+    "teams": "RCB, RRO",
+    "matches": "4",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "2",
+    "bowl_avg": "39.50"
+  },
+  "nehal-wadhera-1151273": {
+    "player_id": "7224",
+    "name": "N Wadhera",
+    "teams": "MIN, KXI",
+    "matches": "36",
+    "runs": "719",
+    "bat_avg": "26.63",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nic-maddinson-333780": {
+    "player_id": "4244",
+    "name": "N J Maddinson",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "20",
+    "bat_avg": "6.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nicholas-pooran-604302": {
+    "player_id": "4587",
+    "name": "N Pooran",
+    "teams": "KXI, SUN, LSG",
+    "matches": "90",
+    "runs": "2293",
+    "bat_avg": "34.22",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nikhil-naik-554700": {
+    "player_id": "4392",
+    "name": "N S Naik",
+    "teams": "KXI, KKR",
+    "matches": "4",
+    "runs": "31",
+    "bat_avg": "7.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "niraj-patel-32240": {
+    "player_id": "4147",
+    "name": "N K  Patel",
+    "teams": "RRO",
+    "matches": "9",
+    "runs": "121",
+    "bat_avg": "30.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nitin-saini-274785": {
+    "player_id": "4047",
+    "name": "N  Saini",
+    "teams": "KXI",
+    "matches": "10",
+    "runs": "140",
+    "bat_avg": "14.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "nitish-rana-604527": {
+    "player_id": "4400",
+    "name": "N Rana",
+    "teams": "MIN, KKR, RRO",
+    "matches": "118",
+    "runs": "2853",
+    "bat_avg": "27.97",
+    "wickets": "10",
+    "bowl_avg": "27.00"
+  },
+  "noor-ahmad-1182529": {
+    "player_id": "6536",
+    "name": "Noor Ahmad",
+    "teams": "GTI, CSK",
+    "matches": "37",
+    "runs": "20",
+    "bat_avg": "2.50",
+    "wickets": "48",
+    "bowl_avg": "22.23"
+  },
+  "nuwan-kulasekara-49535": {
+    "player_id": "3147",
+    "name": "K M D N Kulasekara",
+    "teams": "CSK",
+    "matches": "6",
+    "runs": "5",
+    "bat_avg": "",
+    "wickets": "5",
+    "bowl_avg": "24.00"
+  },
+  "nuwan-zoysa-51050": {
+    "player_id": "2095",
+    "name": "D N T Zoysa",
+    "teams": "DCH",
+    "matches": "3",
+    "runs": "11",
+    "bat_avg": "11.00",
+    "wickets": "2",
+    "bowl_avg": "49.50"
+  },
+  "obed-mccoy-906783": {
+    "player_id": "4825",
+    "name": "O C McCoy",
+    "teams": "RRO",
+    "matches": "8",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "11",
+    "bowl_avg": "22.73"
+  },
+  "odean-smith-820691": {
+    "player_id": "4748",
+    "name": "O F Smith",
+    "teams": "KXI",
+    "matches": "6",
+    "runs": "51",
+    "bat_avg": "17.00",
+    "wickets": "6",
+    "bowl_avg": "29.67"
+  },
+  "owais-shah-20123": {
+    "player_id": "2974",
+    "name": "O A Shah",
+    "teams": "KKR, KTK, RRO",
+    "matches": "23",
+    "runs": "506",
+    "bat_avg": "33.73",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "padmanabhan-prasanth-32211": {
+    "player_id": "4109",
+    "name": "P  Prasanth",
+    "teams": "KTK",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "paidikalva-vijaykumar-272949": {
+    "player_id": "4165",
+    "name": "D P  Vijaykumar",
+    "teams": "DCH",
+    "matches": "9",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "4",
+    "bowl_avg": "49.75"
+  },
+  "palani-amarnath-290629": {
+    "player_id": "4138",
+    "name": "P Amarnath",
+    "teams": "CSK",
+    "matches": "6",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "7",
+    "bowl_avg": "33.71"
+  },
+  "pankaj-dharmani-28067": {
+    "player_id": "2668",
+    "name": "P Dharmani",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "pankaj-singh-32973": {
+    "player_id": "3790",
+    "name": "Pankaj Singh",
+    "teams": "RRO, RCB",
+    "matches": "17",
+    "runs": "7",
+    "bat_avg": "3.50",
+    "wickets": "11",
+    "bowl_avg": "42.55"
+  },
+  "paras-dogra-28160": {
+    "player_id": "4180",
+    "name": "P  Dogra",
+    "teams": "RRO, KXI, KKR",
+    "matches": "13",
+    "runs": "127",
+    "bat_avg": "11.55",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "pardeep-sahu-34155": {
+    "player_id": "4405",
+    "name": "P Sahu",
+    "teams": "KXI",
+    "matches": "5",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "3",
+    "bowl_avg": "48.67"
+  },
+  "parthiv-patel-32242": {
+    "player_id": "3035",
+    "name": "P A Patel",
+    "teams": "CSK, KTK, DCH, SUN, RCB, MIN",
+    "matches": "139",
+    "runs": "2848",
+    "bat_avg": "22.60",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "parvez-rasool-378496": {
+    "player_id": "4311",
+    "name": "Parvez Rasool",
+    "teams": "PWI, SUN, RCB",
+    "matches": "11",
+    "runs": "17",
+    "bat_avg": "8.50",
+    "wickets": "4",
+    "bowl_avg": "67.75"
+  },
+  "parvinder-awana-323131": {
+    "player_id": "3982",
+    "name": "P Awana",
+    "teams": "KXI",
+    "matches": "33",
+    "runs": "5",
+    "bat_avg": "2.50",
+    "wickets": "39",
+    "bowl_avg": "26.38"
+  },
+  "pat-cummins-489889": {
+    "player_id": "3909",
+    "name": "P J Cummins",
+    "teams": "KKR, DDV, SUN",
+    "matches": "72",
+    "runs": "612",
+    "bat_avg": "20.40",
+    "wickets": "79",
+    "bowl_avg": "30.04"
+  },
+  "paul-collingwood-10772": {
+    "player_id": "2973",
+    "name": "P D Collingwood",
+    "teams": "DDV",
+    "matches": "8",
+    "runs": "203",
+    "bat_avg": "40.60",
+    "wickets": "5",
+    "bowl_avg": "20.20"
+  },
+  "paul-valthaty-35630": {
+    "player_id": "4051",
+    "name": "P C  Valthaty",
+    "teams": "RRO, KXI",
+    "matches": "23",
+    "runs": "505",
+    "bat_avg": "22.95",
+    "wickets": "7",
+    "bowl_avg": "29.29"
+  },
+  "pawan-negi-530773": {
+    "player_id": "4038",
+    "name": "P Negi",
+    "teams": "DDV, CSK, RCB",
+    "matches": "50",
+    "runs": "365",
+    "bat_avg": "14.04",
+    "wickets": "34",
+    "bowl_avg": "27.62"
+  },
+  "peter-handscomb-334337": {
+    "player_id": "4558",
+    "name": "P S P Handscomb",
+    "teams": "RPS",
+    "matches": "2",
+    "runs": "6",
+    "bat_avg": "6.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "phil-salt-669365": {
+    "player_id": "6038",
+    "name": "P D Salt",
+    "teams": "DDV, KKR, RCB",
+    "matches": "34",
+    "runs": "1056",
+    "bat_avg": "34.06",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "pinal-shah-34282": {
+    "player_id": "4132",
+    "name": "P R  Shah",
+    "teams": "MIN, RRO",
+    "matches": "16",
+    "runs": "92",
+    "bat_avg": "11.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "piyush-chawla-32966": {
+    "player_id": "3351",
+    "name": "P P Chawla",
+    "teams": "KXI, KKR, CSK, MIN",
+    "matches": "192",
+    "runs": "624",
+    "bat_avg": "11.14",
+    "wickets": "192",
+    "bowl_avg": "26.60"
+  },
+  "pm-sarvesh-kumar-327127": {
+    "player_id": "3514",
+    "name": "P Kumar",
+    "teams": "RCB, KXI, MIN, SUN, GUJ",
+    "matches": "119",
+    "runs": "340",
+    "bat_avg": "8.95",
+    "wickets": "90",
+    "bowl_avg": "36.12"
+  },
+  "prabhsimran-singh-1161024": {
+    "player_id": "4937",
+    "name": "Prabhsimran Singh",
+    "teams": "KXI",
+    "matches": "51",
+    "runs": "1305",
+    "bat_avg": "25.59",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "pradeep-sangwan-279545": {
+    "player_id": "4058",
+    "name": "P J Sangwan",
+    "teams": "DDV, KKR, GUJ, MIN, GTI",
+    "matches": "42",
+    "runs": "26",
+    "bat_avg": "3.25",
+    "wickets": "38",
+    "bowl_avg": "32.63"
+  },
+  "pragyan-ojha-32130": {
+    "player_id": "3574",
+    "name": "P P Ojha",
+    "teams": "DCH, MIN",
+    "matches": "92",
+    "runs": "16",
+    "bat_avg": "1.33",
+    "wickets": "89",
+    "bowl_avg": "26.20"
+  },
+  "prasanth-parameswaran-279562": {
+    "player_id": "4124",
+    "name": "P  Parameswaran",
+    "teams": "KTK, RCB",
+    "matches": "8",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "9",
+    "bowl_avg": "24.89"
+  },
+  "prashant-chopra-500135": {
+    "player_id": "4779",
+    "name": "P Chopra",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "prashant-solanki-1252337": {
+    "player_id": "6508",
+    "name": "P Solanki",
+    "teams": "CSK",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "19.00"
+  },
+  "prasidh-krishna-917159": {
+    "player_id": "4930",
+    "name": "M Prasidh Krishna",
+    "teams": "KKR, RRO, GTI",
+    "matches": "66",
+    "runs": "9",
+    "bat_avg": "3.00",
+    "wickets": "74",
+    "bowl_avg": "29.61"
+  },
+  "praveen-dubey-777515": {
+    "player_id": "4559",
+    "name": "P Dubey",
+    "teams": "DDV, KXI",
+    "matches": "5",
+    "runs": "23",
+    "bat_avg": "23.00",
+    "wickets": "2",
+    "bowl_avg": "55.50"
+  },
+  "praveen-kumar-30732": {
+    "player_id": "3514",
+    "name": "P Kumar",
+    "teams": "RCB, KXI, MIN, SUN, GUJ",
+    "matches": "119",
+    "runs": "340",
+    "bat_avg": "8.95",
+    "wickets": "90",
+    "bowl_avg": "36.12"
+  },
+  "pravin-tambe-587152": {
+    "player_id": "4118",
+    "name": "P V Tambe",
+    "teams": "RRO, GUJ",
+    "matches": "33",
+    "runs": "18",
+    "bat_avg": "9.00",
+    "wickets": "28",
+    "bowl_avg": "30.46"
+  },
+  "prayas-ray-barman-1159712": {
+    "player_id": "4949",
+    "name": "P Ray Barman",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "prerak-mankad-956871": {
+    "player_id": "6527",
+    "name": "P N Mankad",
+    "teams": "KXI, LSG",
+    "matches": "6",
+    "runs": "97",
+    "bat_avg": "32.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "prince-yadav-1350768": {
+    "player_id": "8304",
+    "name": "P Yadav",
+    "teams": "LSG",
+    "matches": "6",
+    "runs": "5",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "75.00"
+  },
+  "prithvi-raj-1121579": {
+    "player_id": "4939",
+    "name": "Y Prithvi Raj",
+    "teams": "KKR",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "57.00"
+  },
+  "prithvi-shaw-1070168": {
+    "player_id": "4759",
+    "name": "P P Shaw",
+    "teams": "DDV",
+    "matches": "79",
+    "runs": "1892",
+    "bat_avg": "23.95",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "priyam-garg-1070180": {
+    "player_id": "5866",
+    "name": "P K Garg",
+    "teams": "SUN, DDV",
+    "matches": "23",
+    "runs": "273",
+    "bat_avg": "15.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "priyansh-arya-1175456": {
+    "player_id": "8307",
+    "name": "P Arya",
+    "teams": "KXI",
+    "matches": "17",
+    "runs": "475",
+    "bat_avg": "27.94",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "quinton-de-kock-379143": {
+    "player_id": "3988",
+    "name": "Q de Kock",
+    "teams": "SUN, DDV, RCB, MIN, LSG, KKR",
+    "matches": "115",
+    "runs": "3309",
+    "bat_avg": "30.64",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rachin-ravindra-959767": {
+    "player_id": "6150",
+    "name": "R Ravindra",
+    "teams": "CSK",
+    "matches": "18",
+    "runs": "413",
+    "bat_avg": "24.29",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "raghav-goyal-1350770": {
+    "player_id": "7227",
+    "name": "R Goyal",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "raghu-sharma-1122621": {
+    "player_id": "3923",
+    "name": "R Sharma",
+    "teams": "DCH, PWI, DDV",
+    "matches": "44",
+    "runs": "66",
+    "bat_avg": "4.71",
+    "wickets": "40",
+    "bowl_avg": "27.15"
+  },
+  "rahmanullah-gurbaz-974087": {
+    "player_id": "5474",
+    "name": "Rahmanullah Gurbaz",
+    "teams": "KKR",
+    "matches": "19",
+    "runs": "363",
+    "bat_avg": "21.35",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rahul-chahar-1064812": {
+    "player_id": "4670",
+    "name": "R D Chahar",
+    "teams": "RPS, MIN, KXI, SUN",
+    "matches": "79",
+    "runs": "129",
+    "bat_avg": "8.06",
+    "wickets": "75",
+    "bowl_avg": "28.67"
+  },
+  "rahul-dravid-28114": {
+    "player_id": "2060",
+    "name": "R Dravid",
+    "teams": "RCB, RRO",
+    "matches": "89",
+    "runs": "2174",
+    "bat_avg": "28.23",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rahul-sharma-272994": {
+    "player_id": "3923",
+    "name": "R Sharma",
+    "teams": "DCH, PWI, DDV",
+    "matches": "44",
+    "runs": "66",
+    "bat_avg": "4.71",
+    "wickets": "40",
+    "bowl_avg": "27.15"
+  },
+  "rahul-shukla-390547": {
+    "player_id": "4100",
+    "name": "R  Shukla",
+    "teams": "MIN, RRO, DDV",
+    "matches": "7",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "5",
+    "bowl_avg": "41.60"
+  },
+  "rahul-tewatia-423838": {
+    "player_id": "4379",
+    "name": "R Tewatia",
+    "teams": "RRO, KXI, DDV, GTI",
+    "matches": "108",
+    "runs": "1112",
+    "bat_avg": "23.17",
+    "wickets": "32",
+    "bowl_avg": "34.72"
+  },
+  "rahul-tripathi-446763": {
+    "player_id": "4679",
+    "name": "R A Tripathi",
+    "teams": "RPS, RRO, KKR, SUN, CSK",
+    "matches": "100",
+    "runs": "2291",
+    "bat_avg": "26.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "raiphi-gomez-28846": {
+    "player_id": "4076",
+    "name": "R V  Gomez",
+    "teams": "KTK, PWI",
+    "matches": "13",
+    "runs": "50",
+    "bat_avg": "10.00",
+    "wickets": "5",
+    "bowl_avg": "25.80"
+  },
+  "raj-bawa-1292502": {
+    "player_id": "6528",
+    "name": "R A Bawa",
+    "teams": "KXI, MIN",
+    "matches": "5",
+    "runs": "19",
+    "bat_avg": "9.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rajagopal-sathish-33870": {
+    "player_id": "4049",
+    "name": "R  Sathish",
+    "teams": "MIN, KXI, KKR",
+    "matches": "34",
+    "runs": "270",
+    "bat_avg": "15.88",
+    "wickets": "3",
+    "bowl_avg": "77.33"
+  },
+  "rajat-bhatia-26907": {
+    "player_id": "4054",
+    "name": "R Bhatia",
+    "teams": "DDV, KKR, RRO, RPS",
+    "matches": "95",
+    "runs": "342",
+    "bat_avg": "11.40",
+    "wickets": "71",
+    "bowl_avg": "28.46"
+  },
+  "rajat-patidar-823703": {
+    "player_id": "5980",
+    "name": "R M Patidar",
+    "teams": "RCB",
+    "matches": "42",
+    "runs": "1111",
+    "bat_avg": "30.86",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rajesh-bishnoi-236766": {
+    "player_id": "4152",
+    "name": "R  Bishnoi",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "19",
+    "bat_avg": "6.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rajesh-pawar-32305": {
+    "player_id": "4175",
+    "name": "R  Pawar",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "raju-bhatkal-27150": {
+    "player_id": "4211",
+    "name": "R R  Bhatkal",
+    "teams": "RCB",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rajvardhan-hangargekar-1175429": {
+    "player_id": "6506",
+    "name": "R Hangargekar",
+    "teams": "CSK, LSG",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "20.00"
+  },
+  "ramandeep-singh-1079470": {
+    "player_id": "6523",
+    "name": "Ramandeep Singh",
+    "teams": "MIN, KKR",
+    "matches": "31",
+    "runs": "217",
+    "bat_avg": "19.73",
+    "wickets": "6",
+    "bowl_avg": "10.50"
+  },
+  "ramesh-powar-32391": {
+    "player_id": "3164",
+    "name": "R R Powar",
+    "teams": "KXI, KTK",
+    "matches": "27",
+    "runs": "67",
+    "bat_avg": "22.33",
+    "wickets": "13",
+    "bowl_avg": "40.54"
+  },
+  "ranadeb-bose-27572": {
+    "player_id": "4158",
+    "name": "R R  Bose",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rashid-khan-793463": {
+    "player_id": "4484",
+    "name": "Rashid Khan",
+    "teams": "SUN, GTI",
+    "matches": "136",
+    "runs": "585",
+    "bat_avg": "13.93",
+    "wickets": "158",
+    "bowl_avg": "23.84"
+  },
+  "rasikh-salam-1161489": {
+    "player_id": "4942",
+    "name": "Rasikh Salam",
+    "teams": "MIN, KKR, DDV, RCB",
+    "matches": "13",
+    "runs": "40",
+    "bat_avg": "8.00",
+    "wickets": "10",
+    "bowl_avg": "40.90"
+  },
+  "rassie-van-der-dussen-337790": {
+    "player_id": "4817",
+    "name": "H E van der Dussen",
+    "teams": "RRO",
+    "matches": "3",
+    "runs": "22",
+    "bat_avg": "11.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ravi-bishnoi-1175441": {
+    "player_id": "4152",
+    "name": "R  Bishnoi",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "19",
+    "bat_avg": "6.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ravi-bopara-10582": {
+    "player_id": "3460",
+    "name": "R S Bopara",
+    "teams": "KXI, SUN",
+    "matches": "24",
+    "runs": "531",
+    "bat_avg": "29.50",
+    "wickets": "11",
+    "bowl_avg": "26.55"
+  },
+  "ravi-rampaul-52912": {
+    "player_id": "3149",
+    "name": "R Rampaul",
+    "teams": "RCB",
+    "matches": "12",
+    "runs": "51",
+    "bat_avg": "10.20",
+    "wickets": "14",
+    "bowl_avg": "21.29"
+  },
+  "ravichandran-ashwin-26421": {
+    "player_id": "3788",
+    "name": "R Ashwin",
+    "teams": "CSK, RPS, KXI, DDV, RRO",
+    "matches": "221",
+    "runs": "833",
+    "bat_avg": "13.02",
+    "wickets": "187",
+    "bowl_avg": "30.22"
+  },
+  "ravikant-shukla-33331": {
+    "player_id": "4100",
+    "name": "R  Shukla",
+    "teams": "MIN, RRO, DDV",
+    "matches": "7",
+    "runs": "19",
+    "bat_avg": "19.00",
+    "wickets": "5",
+    "bowl_avg": "41.60"
+  },
+  "ravindra-jadeja-234675": {
+    "player_id": "3644",
+    "name": "R A Jadeja",
+    "teams": "RRO, KTK, CSK, GUJ",
+    "matches": "254",
+    "runs": "3260",
+    "bat_avg": "27.86",
+    "wickets": "170",
+    "bowl_avg": "30.52"
+  },
+  "reece-topley-461632": {
+    "player_id": "4479",
+    "name": "R J W Topley",
+    "teams": "RCB, MIN",
+    "matches": "6",
+    "runs": "3",
+    "bat_avg": "",
+    "wickets": "5",
+    "bowl_avg": "44.40"
+  },
+  "reetinder-sodhi-34078": {
+    "player_id": "2888",
+    "name": "R S Sodhi",
+    "teams": "KXI",
+    "matches": "3",
+    "runs": "4",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "richard-gleeson-473191": {
+    "player_id": "6729",
+    "name": "R J Gleeson",
+    "teams": "CSK, MIN",
+    "matches": "3",
+    "runs": "2",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "55.00"
+  },
+  "richard-levi-46148": {
+    "player_id": "3939",
+    "name": "R E Levi",
+    "teams": "MIN",
+    "matches": "6",
+    "runs": "83",
+    "bat_avg": "13.83",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ricky-bhui-642531": {
+    "player_id": "4409",
+    "name": "R K Bhui",
+    "teams": "SUN, DDV",
+    "matches": "4",
+    "runs": "10",
+    "bat_avg": "2.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ricky-ponting-7133": {
+    "player_id": "2041",
+    "name": "R T Ponting",
+    "teams": "KKR, MIN",
+    "matches": "10",
+    "runs": "91",
+    "bat_avg": "10.11",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rilee-rossouw-318845": {
+    "player_id": "4321",
+    "name": "R R Rossouw",
+    "teams": "RCB, DDV, KXI",
+    "matches": "22",
+    "runs": "473",
+    "bat_avg": "23.65",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rinku-singh-723105": {
+    "player_id": "4665",
+    "name": "Rinku Singh",
+    "teams": "KKR",
+    "matches": "59",
+    "runs": "1099",
+    "bat_avg": "30.53",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ripal-patel-1201520": {
+    "player_id": "5968",
+    "name": "R V Patel",
+    "teams": "DDV",
+    "matches": "9",
+    "runs": "80",
+    "bat_avg": "16.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rishabh-pant-931581": {
+    "player_id": "4542",
+    "name": "R R Pant",
+    "teams": "DDV, LSG",
+    "matches": "125",
+    "runs": "3553",
+    "bat_avg": "34.16",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rishi-dhawan-290727": {
+    "player_id": "4064",
+    "name": "R Dhawan",
+    "teams": "MIN, KXI",
+    "matches": "39",
+    "runs": "210",
+    "bat_avg": "19.09",
+    "wickets": "25",
+    "bowl_avg": "35.64"
+  },
+  "riyan-parag-1079434": {
+    "player_id": "4943",
+    "name": "R Parag",
+    "teams": "RRO",
+    "matches": "84",
+    "runs": "1566",
+    "bat_avg": "26.10",
+    "wickets": "7",
+    "bowl_avg": "68.14"
+  },
+  "rob-quiney-211854": {
+    "player_id": "3974",
+    "name": "R J Quiney",
+    "teams": "RRO",
+    "matches": "7",
+    "runs": "103",
+    "bat_avg": "14.71",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "robin-minz-1350762": {
+    "player_id": "7754",
+    "name": "R Minz",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "6",
+    "bat_avg": "3.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "robin-peterson-46750": {
+    "player_id": "3049",
+    "name": "R J Peterson",
+    "teams": "MIN",
+    "matches": "5",
+    "runs": "32",
+    "bat_avg": "10.67",
+    "wickets": "3",
+    "bowl_avg": "23.33"
+  },
+  "robin-uthappa-35582": {
+    "player_id": "3355",
+    "name": "R V Uthappa",
+    "teams": "MIN, RCB, PWI, KKR, RRO, CSK",
+    "matches": "205",
+    "runs": "4952",
+    "bat_avg": "27.51",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "roelof-van-der-merwe-47850": {
+    "player_id": "3658",
+    "name": "R E van der Merwe",
+    "teams": "RCB, DDV",
+    "matches": "21",
+    "runs": "159",
+    "bat_avg": "14.45",
+    "wickets": "21",
+    "bowl_avg": "23.71"
+  },
+  "rohan-gavaskar-28792": {
+    "player_id": "3159",
+    "name": "R S Gavaskar",
+    "teams": "KKR",
+    "matches": "2",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rohan-raje-290713": {
+    "player_id": "4133",
+    "name": "R R  Raje",
+    "teams": "MIN",
+    "matches": "10",
+    "runs": "20",
+    "bat_avg": "20.00",
+    "wickets": "6",
+    "bowl_avg": "34.83"
+  },
+  "rohit-sharma-34102": {
+    "player_id": "3923",
+    "name": "R Sharma",
+    "teams": "DCH, PWI, DDV",
+    "matches": "44",
+    "runs": "66",
+    "bat_avg": "4.71",
+    "wickets": "40",
+    "bowl_avg": "27.15"
+  },
+  "romario-shepherd-677077": {
+    "player_id": "5662",
+    "name": "R Shepherd",
+    "teams": "SUN, LSG, MIN, RCB",
+    "matches": "18",
+    "runs": "185",
+    "bat_avg": "26.43",
+    "wickets": "10",
+    "bowl_avg": "40.80"
+  },
+  "ronit-more-424219": {
+    "player_id": "4026",
+    "name": "R G  More",
+    "teams": "CSK",
+    "matches": "2",
+    "runs": "2",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "59.00"
+  },
+  "ross-taylor-38699": {
+    "player_id": "3348",
+    "name": "L R P L Taylor",
+    "teams": "RCB, RRO, DDV, PWI",
+    "matches": "55",
+    "runs": "1017",
+    "bat_avg": "25.43",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "rovman-powell-820351": {
+    "player_id": "4605",
+    "name": "R Powell",
+    "teams": "DDV, RRO, KKR",
+    "matches": "29",
+    "runs": "365",
+    "bat_avg": "18.25",
+    "wickets": "1",
+    "bowl_avg": "35.00"
+  },
+  "rp-singh-35280": {
+    "player_id": "3332",
+    "name": "R P Singh",
+    "teams": "DCH, KTK, MIN, RCB, RPS",
+    "matches": "82",
+    "runs": "52",
+    "bat_avg": "3.47",
+    "wickets": "90",
+    "bowl_avg": "25.98"
+  },
+  "rusty-theron-223642": {
+    "player_id": "3824",
+    "name": "J Theron",
+    "teams": "KXI, DCH, RRO",
+    "matches": "10",
+    "runs": "10",
+    "bat_avg": "5.00",
+    "wickets": "9",
+    "bowl_avg": "32.56"
+  },
+  "ruturaj-gaikwad-1060380": {
+    "player_id": "4931",
+    "name": "R D Gaikwad",
+    "teams": "CSK",
+    "matches": "71",
+    "runs": "2502",
+    "bat_avg": "40.35",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ryan-harris-5779": {
+    "player_id": "3638",
+    "name": "R J Harris",
+    "teams": "DCH, KXI",
+    "matches": "37",
+    "runs": "117",
+    "bat_avg": "9.75",
+    "wickets": "45",
+    "bowl_avg": "23.27"
+  },
+  "ryan-mclaren-46393": {
+    "player_id": "3736",
+    "name": "R McLaren",
+    "teams": "MIN, KXI, KKR",
+    "matches": "18",
+    "runs": "159",
+    "bat_avg": "19.88",
+    "wickets": "12",
+    "bowl_avg": "45.17"
+  },
+  "ryan-ninan-353669": {
+    "player_id": "4200",
+    "name": "R  Ninan",
+    "teams": "RCB",
+    "matches": "2",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "3",
+    "bowl_avg": "21.67"
+  },
+  "ryan-rickelton-605661": {
+    "player_id": "6552",
+    "name": "R D Rickelton",
+    "teams": "MIN",
+    "matches": "14",
+    "runs": "388",
+    "bat_avg": "29.85",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "ryan-ten-doeschate-47660": {
+    "player_id": "3407",
+    "name": "R N ten Doeschate",
+    "teams": "KKR",
+    "matches": "29",
+    "runs": "326",
+    "bat_avg": "23.29",
+    "wickets": "2",
+    "bowl_avg": "47.00"
+  },
+  "s-badrinath-26806": {
+    "player_id": "3608",
+    "name": "S Badrinath",
+    "teams": "CSK",
+    "matches": "95",
+    "runs": "1441",
+    "bat_avg": "30.66",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sachin-baby-432783": {
+    "player_id": "4098",
+    "name": "Sachin Baby",
+    "teams": "RRO, RCB, SUN",
+    "matches": "20",
+    "runs": "144",
+    "bat_avg": "16.00",
+    "wickets": "2",
+    "bowl_avg": "4.00"
+  },
+  "sachin-rana-33757": {
+    "player_id": "4111",
+    "name": "S  Rana",
+    "teams": "PWI, RCB",
+    "matches": "11",
+    "runs": "91",
+    "bat_avg": "22.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sachin-tendulkar-35320": {
+    "player_id": "1735",
+    "name": "S R Tendulkar",
+    "teams": "MIN",
+    "matches": "78",
+    "runs": "2334",
+    "bat_avg": "34.84",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sachithra-senanayake-273439": {
+    "player_id": "3928",
+    "name": "S M S M Senanayake",
+    "teams": "KKR",
+    "matches": "8",
+    "runs": "10",
+    "bat_avg": "10.00",
+    "wickets": "9",
+    "bowl_avg": "23.22"
+  },
+  "sai-sudharsan-1151288": {
+    "player_id": "6535",
+    "name": "Sai Sudharsan",
+    "teams": "GTI",
+    "matches": "40",
+    "runs": "1793",
+    "bat_avg": "49.81",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "salman-butt-42683": {
+    "player_id": "3132",
+    "name": "Salman Butt",
+    "teams": "KKR",
+    "matches": "7",
+    "runs": "193",
+    "bat_avg": "27.57",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sam-billings-297628": {
+    "player_id": "4428",
+    "name": "S W Billings",
+    "teams": "DDV, CSK, KKR",
+    "matches": "30",
+    "runs": "503",
+    "bat_avg": "19.35",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sam-curran-662973": {
+    "player_id": "4787",
+    "name": "S M Curran",
+    "teams": "KXI, CSK",
+    "matches": "64",
+    "runs": "997",
+    "bat_avg": "24.93",
+    "wickets": "59",
+    "bowl_avg": "34.46"
+  },
+  "sameer-rizvi-1175489": {
+    "player_id": "7749",
+    "name": "S Rizvi",
+    "teams": "CSK, DDV",
+    "matches": "13",
+    "runs": "172",
+    "bat_avg": "24.57",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "samuel-badree-51433": {
+    "player_id": "3959",
+    "name": "S Badree",
+    "teams": "RRO, CSK, RCB",
+    "matches": "12",
+    "runs": "13",
+    "bat_avg": "2.60",
+    "wickets": "11",
+    "bowl_avg": "29.00"
+  },
+  "sanath-jayasuriya-49209": {
+    "player_id": "0872",
+    "name": "S T Jayasuriya",
+    "teams": "MIN",
+    "matches": "30",
+    "runs": "768",
+    "bat_avg": "27.43",
+    "wickets": "13",
+    "bowl_avg": "28.54"
+  },
+  "sandeep-lamichhane-960361": {
+    "player_id": "4757",
+    "name": "S Lamichhane",
+    "teams": "DDV",
+    "matches": "9",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "13",
+    "bowl_avg": "22.46"
+  },
+  "sandeep-sharma-438362": {
+    "player_id": "4048",
+    "name": "Sandeep Sharma",
+    "teams": "KXI, SUN, RRO",
+    "matches": "137",
+    "runs": "60",
+    "bat_avg": "10.00",
+    "wickets": "146",
+    "bowl_avg": "27.88"
+  },
+  "sandeep-warrier-592735": {
+    "player_id": "4126",
+    "name": "S Sandeep Warrier",
+    "teams": "KKR, GTI",
+    "matches": "10",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "8",
+    "bowl_avg": "31.63"
+  },
+  "sanjay-bangar-27225": {
+    "player_id": "2999",
+    "name": "S B Bangar",
+    "teams": "DCH, KKR",
+    "matches": "12",
+    "runs": "49",
+    "bat_avg": "7.00",
+    "wickets": "4",
+    "bowl_avg": "54.75"
+  },
+  "sanjay-yadav-1048841": {
+    "player_id": "4667",
+    "name": "R Sanjay Yadav",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sanju-samson-425943": {
+    "player_id": "4099",
+    "name": "S V Samson",
+    "teams": "RRO, DDV",
+    "matches": "177",
+    "runs": "4704",
+    "bat_avg": "30.95",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sanvir-singh-1132219": {
+    "player_id": "7212",
+    "name": "Sanvir Singh",
+    "teams": "SUN",
+    "matches": "6",
+    "runs": "25",
+    "bat_avg": "12.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sarabjit-ladda-317292": {
+    "player_id": "4053",
+    "name": "S Ladda",
+    "teams": "DDV, KKR, GUJ",
+    "matches": "9",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "5",
+    "bowl_avg": "44.80"
+  },
+  "sarfaraz-khan-642525": {
+    "player_id": "4408",
+    "name": "S N Khan",
+    "teams": "RCB, KXI, DDV",
+    "matches": "50",
+    "runs": "585",
+    "bat_avg": "22.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "saurabh-tiwary-35390": {
+    "player_id": "3833",
+    "name": "S S Tiwary",
+    "teams": "MIN, RCB, DDV, RPS",
+    "matches": "93",
+    "runs": "1494",
+    "bat_avg": "28.73",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "saurav-chauhan-1287369": {
+    "player_id": "7770",
+    "name": "Saurav Chauhan",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "18",
+    "bat_avg": "6.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "scott-boland-446548": {
+    "player_id": "4511",
+    "name": "S M Boland",
+    "teams": "RPS",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "27.00"
+  },
+  "scott-kuggeleijn-539548": {
+    "player_id": "4685",
+    "name": "S C Kuggeleijn",
+    "teams": "CSK",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "35.50"
+  },
+  "scott-styris-38407": {
+    "player_id": "2899",
+    "name": "S B Styris",
+    "teams": "DCH, CSK",
+    "matches": "12",
+    "runs": "131",
+    "bat_avg": "18.71",
+    "wickets": "8",
+    "bowl_avg": "34.50"
+  },
+  "sean-abbott-398666": {
+    "player_id": "4331",
+    "name": "S A Abbott",
+    "teams": "RCB, SUN",
+    "matches": "3",
+    "runs": "22",
+    "bat_avg": "7.33",
+    "wickets": "1",
+    "bowl_avg": "104.00"
+  },
+  "sediqullah-atal-1161050": {
+    "player_id": "7195",
+    "name": "Sediqullah Atal",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "22",
+    "bat_avg": "22.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shadab-jakati-29655": {
+    "player_id": "4130",
+    "name": "S B Jakati",
+    "teams": "CSK, RCB, GUJ",
+    "matches": "59",
+    "runs": "28",
+    "bat_avg": "28.00",
+    "wickets": "47",
+    "bowl_avg": "30.87"
+  },
+  "shahbaz-nadeem-31872": {
+    "player_id": "4035",
+    "name": "S Nadeem",
+    "teams": "DDV, SUN",
+    "matches": "72",
+    "runs": "39",
+    "bat_avg": "2.79",
+    "wickets": "48",
+    "bowl_avg": "37.17"
+  },
+  "shahid-afridi-42639": {
+    "player_id": "2152",
+    "name": "Shahid Afridi",
+    "teams": "DCH",
+    "matches": "10",
+    "runs": "81",
+    "bat_avg": "10.13",
+    "wickets": "9",
+    "bowl_avg": "25.00"
+  },
+  "shai-hope-581379": {
+    "player_id": "4417",
+    "name": "S D Hope",
+    "teams": "DDV",
+    "matches": "9",
+    "runs": "183",
+    "bat_avg": "22.88",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shakib-al-hasan-56143": {
+    "player_id": "3426",
+    "name": "Shakib Al Hasan",
+    "teams": "KKR, SUN",
+    "matches": "71",
+    "runs": "793",
+    "bat_avg": "19.83",
+    "wickets": "63",
+    "bowl_avg": "29.19"
+  },
+  "shalabh-srivastava-34245": {
+    "player_id": "4184",
+    "name": "S J  Srivastava",
+    "teams": "KXI",
+    "matches": "14",
+    "runs": "5",
+    "bat_avg": "5.00",
+    "wickets": "14",
+    "bowl_avg": "31.50"
+  },
+  "shamar-joseph-1356971": {
+    "player_id": "7657",
+    "name": "S Joseph",
+    "teams": "LSG",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shams-mulani-1131607": {
+    "player_id": "7223",
+    "name": "S Mulani",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "1",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shane-bond-36326": {
+    "player_id": "2996",
+    "name": "S E Bond",
+    "teams": "KKR",
+    "matches": "8",
+    "runs": "1",
+    "bat_avg": "1.00",
+    "wickets": "9",
+    "bowl_avg": "24.89"
+  },
+  "shane-harwood-5605": {
+    "player_id": "3662",
+    "name": "S M Harwood",
+    "teams": "RRO",
+    "matches": "3",
+    "runs": "9",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "24.33"
+  },
+  "shane-warne-8166": {
+    "player_id": "1856",
+    "name": "S K Warne",
+    "teams": "RRO",
+    "matches": "55",
+    "runs": "198",
+    "bat_avg": "9.90",
+    "wickets": "57",
+    "bowl_avg": "25.39"
+  },
+  "shane-watson-8180": {
+    "player_id": "3017",
+    "name": "S R Watson",
+    "teams": "RRO, RCB, CSK",
+    "matches": "145",
+    "runs": "3874",
+    "bat_avg": "30.99",
+    "wickets": "92",
+    "bowl_avg": "29.15"
+  },
+  "shardul-thakur-475281": {
+    "player_id": "4393",
+    "name": "S N Thakur",
+    "teams": "KXI, RPS, CSK, DDV, KKR, LSG",
+    "matches": "105",
+    "runs": "325",
+    "bat_avg": "11.61",
+    "wickets": "107",
+    "bowl_avg": "30.32"
+  },
+  "shashank-singh-377534": {
+    "player_id": "4657",
+    "name": "Shashank Singh",
+    "teams": "SUN, KXI",
+    "matches": "41",
+    "runs": "773",
+    "bat_avg": "40.68",
+    "wickets": "1",
+    "bowl_avg": "52.00"
+  },
+  "shaun-marsh-6683": {
+    "player_id": "3561",
+    "name": "S E Marsh",
+    "teams": "KXI",
+    "matches": "71",
+    "runs": "2477",
+    "bat_avg": "39.95",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shaun-pollock-46774": {
+    "player_id": "2039",
+    "name": "S M Pollock",
+    "teams": "MIN",
+    "matches": "13",
+    "runs": "147",
+    "bat_avg": "18.38",
+    "wickets": "11",
+    "bowl_avg": "27.36"
+  },
+  "shaun-tait-8076": {
+    "player_id": "3319",
+    "name": "S W Tait",
+    "teams": "RRO",
+    "matches": "21",
+    "runs": "23",
+    "bat_avg": "7.67",
+    "wickets": "23",
+    "bowl_avg": "27.83"
+  },
+  "sheldon-cottrell-495551": {
+    "player_id": "4249",
+    "name": "S S Cottrell",
+    "teams": "KXI",
+    "matches": "6",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "6",
+    "bowl_avg": "29.33"
+  },
+  "sheldon-jackson-237696": {
+    "player_id": "4122",
+    "name": "S P Jackson",
+    "teams": "KKR",
+    "matches": "9",
+    "runs": "61",
+    "bat_avg": "10.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sherfane-rutherford-914541": {
+    "player_id": "4838",
+    "name": "S E Rutherford",
+    "teams": "DDV, RCB, GTI",
+    "matches": "23",
+    "runs": "397",
+    "bat_avg": "24.81",
+    "wickets": "1",
+    "bowl_avg": "59.00"
+  },
+  "shikhar-dhawan-28235": {
+    "player_id": "3832",
+    "name": "S Dhawan",
+    "teams": "DDV, MIN, DCH, SUN, KXI",
+    "matches": "222",
+    "runs": "6769",
+    "bat_avg": "35.26",
+    "wickets": "4",
+    "bowl_avg": "16.50"
+  },
+  "shivalik-sharma-1167965": {
+    "player_id": "7207",
+    "name": "S Sharma",
+    "teams": "KKR, RCB",
+    "matches": "27",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "18",
+    "bowl_avg": "45.22"
+  },
+  "shivam-dube-714451": {
+    "player_id": "4945",
+    "name": "S Dube",
+    "teams": "RCB, RRO, CSK",
+    "matches": "79",
+    "runs": "1859",
+    "bat_avg": "30.48",
+    "wickets": "5",
+    "bowl_avg": "42.60"
+  },
+  "shivam-mavi-1079848": {
+    "player_id": "4768",
+    "name": "Shivam Mavi",
+    "teams": "KKR",
+    "matches": "32",
+    "runs": "51",
+    "bat_avg": "5.67",
+    "wickets": "30",
+    "bowl_avg": "31.40"
+  },
+  "shivam-sharma-717201": {
+    "player_id": "7207",
+    "name": "S Sharma",
+    "teams": "KKR, RCB",
+    "matches": "27",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "18",
+    "bowl_avg": "45.22"
+  },
+  "shivam-singh-1380113": {
+    "player_id": "7205",
+    "name": "Shivam Singh",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "2",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shivil-kaushik-917213": {
+    "player_id": "4545",
+    "name": "S  Kaushik",
+    "teams": "GUJ",
+    "matches": "10",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "6",
+    "bowl_avg": "49.50"
+  },
+  "shivnarine-chanderpaul-51469": {
+    "player_id": "1979",
+    "name": "S Chanderpaul",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "25",
+    "bat_avg": "8.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shoaib-ahmed-317709": {
+    "player_id": "4160",
+    "name": "Shoaib Ahmed",
+    "teams": "DCH",
+    "matches": "8",
+    "runs": "1",
+    "bat_avg": "0.50",
+    "wickets": "5",
+    "bowl_avg": "30.40"
+  },
+  "shoaib-malik-42657": {
+    "player_id": "2879",
+    "name": "Shoaib Malik",
+    "teams": "DDV",
+    "matches": "7",
+    "runs": "52",
+    "bat_avg": "13.00",
+    "wickets": "2",
+    "bowl_avg": "42.50"
+  },
+  "shoaib-shaikh-377437": {
+    "player_id": "4177",
+    "name": "S S  Shaikh",
+    "teams": "KKR",
+    "matches": "2",
+    "runs": "6",
+    "bat_avg": "6.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shreevats-goswami-302579": {
+    "player_id": "4094",
+    "name": "S P Goswami",
+    "teams": "RCB, KKR, RRO, SUN",
+    "matches": "31",
+    "runs": "293",
+    "bat_avg": "14.65",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shreyas-gopal-344580": {
+    "player_id": "4378",
+    "name": "S Gopal",
+    "teams": "MIN, RRO, SUN, CSK",
+    "matches": "52",
+    "runs": "180",
+    "bat_avg": "12.86",
+    "wickets": "52",
+    "bowl_avg": "25.90"
+  },
+  "shreyas-iyer-642519": {
+    "player_id": "4387",
+    "name": "S S Iyer",
+    "teams": "DDV, KKR, KXI",
+    "matches": "133",
+    "runs": "3731",
+    "bat_avg": "34.23",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shrikant-mundhe-279862": {
+    "player_id": "4208",
+    "name": "S S Mundhe",
+    "teams": "PWI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "6.00"
+  },
+  "shrikant-wagh-279552": {
+    "player_id": "4088",
+    "name": "S B  Wagh",
+    "teams": "RRO, PWI",
+    "matches": "8",
+    "runs": "2",
+    "bat_avg": "1.00",
+    "wickets": "5",
+    "bowl_avg": "27.40"
+  },
+  "shubham-agarwal-1079668": {
+    "player_id": "4658",
+    "name": "S Agarwal",
+    "teams": "GUJ",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "42.00"
+  },
+  "shubham-dubey-1252585": {
+    "player_id": "7767",
+    "name": "Shubham Dubey",
+    "teams": "RRO",
+    "matches": "12",
+    "runs": "139",
+    "bat_avg": "23.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "shubman-gill-1070173": {
+    "player_id": "4769",
+    "name": "Shubman Gill",
+    "teams": "KKR, GTI",
+    "matches": "118",
+    "runs": "3866",
+    "bat_avg": "39.45",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "siddarth-kaul-326017": {
+    "player_id": "4034",
+    "name": "S Kaul",
+    "teams": "DDV, SUN, RCB",
+    "matches": "55",
+    "runs": "20",
+    "bat_avg": "5.00",
+    "wickets": "58",
+    "bowl_avg": "29.98"
+  },
+  "siddharth-chitnis-337916": {
+    "player_id": "4042",
+    "name": "S D  Chitnis",
+    "teams": "MIN, RRO, KXI",
+    "matches": "11",
+    "runs": "99",
+    "bat_avg": "14.14",
+    "wickets": "2",
+    "bowl_avg": "30.00"
+  },
+  "siddharth-trivedi-35353": {
+    "player_id": "4102",
+    "name": "S K  Trivedi",
+    "teams": "RRO",
+    "matches": "76",
+    "runs": "42",
+    "bat_avg": "6.00",
+    "wickets": "65",
+    "bowl_avg": "29.29"
+  },
+  "siddhesh-lad-422342": {
+    "player_id": "4398",
+    "name": "S D Lad",
+    "teams": "MIN",
+    "matches": "1",
+    "runs": "15",
+    "bat_avg": "15.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sikandar-raza-299572": {
+    "player_id": "4022",
+    "name": "Sikandar Raza",
+    "teams": "KXI",
+    "matches": "9",
+    "runs": "182",
+    "bat_avg": "26.00",
+    "wickets": "3",
+    "bowl_avg": "47.00"
+  },
+  "simarjeet-singh-1159722": {
+    "player_id": "6509",
+    "name": "Simarjeet Singh",
+    "teams": "CSK, SUN",
+    "matches": "14",
+    "runs": "10",
+    "bat_avg": "3.33",
+    "wickets": "11",
+    "bowl_avg": "36.36"
+  },
+  "simon-katich-6128": {
+    "player_id": "2743",
+    "name": "S M Katich",
+    "teams": "KXI",
+    "matches": "11",
+    "runs": "241",
+    "bat_avg": "24.10",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sisanda-magala-379776": {
+    "player_id": "5985",
+    "name": "S S B Magala",
+    "teams": "CSK",
+    "matches": "2",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "51.00"
+  },
+  "sohail-tanvir-43265": {
+    "player_id": "3502",
+    "name": "Sohail Tanvir",
+    "teams": "RRO",
+    "matches": "11",
+    "runs": "36",
+    "bat_avg": "12.00",
+    "wickets": "22",
+    "bowl_avg": "12.09"
+  },
+  "sourav-ganguly-28779": {
+    "player_id": "2059",
+    "name": "S C Ganguly",
+    "teams": "KKR, PWI",
+    "matches": "59",
+    "runs": "1349",
+    "bat_avg": "25.45",
+    "wickets": "10",
+    "bowl_avg": "36.30"
+  },
+  "spencer-johnson-1123718": {
+    "player_id": "7449",
+    "name": "S H Johnson",
+    "teams": "GTI, KKR",
+    "matches": "9",
+    "runs": "8",
+    "bat_avg": "",
+    "wickets": "5",
+    "bowl_avg": "56.80"
+  },
+  "sreenath-aravind-290632": {
+    "player_id": "4120",
+    "name": "S Aravind",
+    "teams": "RCB",
+    "matches": "38",
+    "runs": "59",
+    "bat_avg": "14.75",
+    "wickets": "45",
+    "bowl_avg": "23.09"
+  },
+  "sreesanth-34274": {
+    "player_id": "3327",
+    "name": "S Sreesanth",
+    "teams": "KXI, KTK, RRO",
+    "matches": "44",
+    "runs": "34",
+    "bat_avg": "8.50",
+    "wickets": "40",
+    "bowl_avg": "29.85"
+  },
+  "sridharan-sriram-34118": {
+    "player_id": "2893",
+    "name": "S Sriram",
+    "teams": "RCB, DDV",
+    "matches": "2",
+    "runs": "31",
+    "bat_avg": "15.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "srikar-bharat-529436": {
+    "player_id": "4384",
+    "name": "K S Bharat",
+    "teams": "RCB, DDV",
+    "matches": "10",
+    "runs": "199",
+    "bat_avg": "28.43",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "srikkanth-anirudha-26798": {
+    "player_id": "4136",
+    "name": "S  Anirudha",
+    "teams": "CSK, SUN",
+    "matches": "20",
+    "runs": "136",
+    "bat_avg": "17.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "stephen-fleming-37000": {
+    "player_id": "1977",
+    "name": "S P Fleming",
+    "teams": "CSK",
+    "matches": "10",
+    "runs": "196",
+    "bat_avg": "21.78",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "steven-smith-267192": {
+    "player_id": "3756",
+    "name": "S P D Smith",
+    "teams": "PWI, RRO, RPS, DDV",
+    "matches": "103",
+    "runs": "2485",
+    "bat_avg": "34.51",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "stuart-binny-27223": {
+    "player_id": "4089",
+    "name": "S T R Binny",
+    "teams": "MIN, RRO, RCB",
+    "matches": "95",
+    "runs": "880",
+    "bat_avg": "19.13",
+    "wickets": "22",
+    "bowl_avg": "34.45"
+  },
+  "sudeep-tyagi-317784": {
+    "player_id": "3743",
+    "name": "S Tyagi",
+    "teams": "CSK",
+    "matches": "14",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "6",
+    "bowl_avg": "49.17"
+  },
+  "sudhesan-midhun-1131619": {
+    "player_id": "4780",
+    "name": "S Midhun",
+    "teams": "RRO",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sumit-kumar-1159734": {
+    "player_id": "7753",
+    "name": "Sumit Kumar",
+    "teams": "DDV",
+    "matches": "4",
+    "runs": "18",
+    "bat_avg": "9.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sumit-narwal-32084": {
+    "player_id": "4183",
+    "name": "S  Narwal",
+    "teams": "RRO, KKR",
+    "matches": "7",
+    "runs": "37",
+    "bat_avg": "12.33",
+    "wickets": "5",
+    "bowl_avg": "40.40"
+  },
+  "sunil-joshi-29725": {
+    "player_id": "2053",
+    "name": "S B Joshi",
+    "teams": "RCB",
+    "matches": "4",
+    "runs": "6",
+    "bat_avg": "3.00",
+    "wickets": "1",
+    "bowl_avg": "82.00"
+  },
+  "sunil-narine-230558": {
+    "player_id": "3922",
+    "name": "S P Narine",
+    "teams": "KKR",
+    "matches": "189",
+    "runs": "1780",
+    "bat_avg": "17.62",
+    "wickets": "192",
+    "bowl_avg": "25.64"
+  },
+  "sunny-gupta-271315": {
+    "player_id": "4213",
+    "name": "Sunny Gupta",
+    "teams": "DDV",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sunny-singh-35282": {
+    "player_id": "4050",
+    "name": "Sunny Singh",
+    "teams": "KXI",
+    "matches": "6",
+    "runs": "43",
+    "bat_avg": "10.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "sunny-sohal-228943": {
+    "player_id": "4127",
+    "name": "S Sohal",
+    "teams": "KXI, DCH",
+    "matches": "22",
+    "runs": "368",
+    "bat_avg": "18.40",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "suresh-raina-33335": {
+    "player_id": "3287",
+    "name": "S K Raina",
+    "teams": "CSK, GUJ",
+    "matches": "205",
+    "runs": "5528",
+    "bat_avg": "32.52",
+    "wickets": "25",
+    "bowl_avg": "45.80"
+  },
+  "suryakumar-yadav-446507": {
+    "player_id": "4073",
+    "name": "S A Yadav",
+    "teams": "MIN, KKR",
+    "matches": "166",
+    "runs": "4311",
+    "bat_avg": "35.05",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "suryansh-shedge-1339698": {
+    "player_id": "8309",
+    "name": "S Shedge",
+    "teams": "KXI",
+    "matches": "5",
+    "runs": "7",
+    "bat_avg": "2.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "suyash-prabhudessai-1083851": {
+    "player_id": "5979",
+    "name": "S S Prabhudessai",
+    "teams": "RCB",
+    "matches": "11",
+    "runs": "126",
+    "bat_avg": "12.60",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "suyash-sharma-1350792": {
+    "player_id": "7207",
+    "name": "S Sharma",
+    "teams": "KKR, RCB",
+    "matches": "27",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "18",
+    "bowl_avg": "45.22"
+  },
+  "swapnil-asnodkar-26782": {
+    "player_id": "4146",
+    "name": "S A  Asnodkar",
+    "teams": "RRO",
+    "matches": "20",
+    "runs": "423",
+    "bat_avg": "21.15",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "swapnil-singh-232292": {
+    "player_id": "4549",
+    "name": "Swapnil Singh",
+    "teams": "KXI, LSG, RCB",
+    "matches": "14",
+    "runs": "51",
+    "bat_avg": "10.20",
+    "wickets": "7",
+    "bowl_avg": "34.43"
+  },
+  "t-natarajan-802575": {
+    "player_id": "4664",
+    "name": "T Natarajan",
+    "teams": "KXI, SUN, DDV",
+    "matches": "63",
+    "runs": "3",
+    "bat_avg": "",
+    "wickets": "67",
+    "bowl_avg": "30.12"
+  },
+  "tabraiz-shamsi-379145": {
+    "player_id": "4562",
+    "name": "T Shamsi",
+    "teams": "RCB, RRO",
+    "matches": "5",
+    "runs": "2",
+    "bat_avg": "",
+    "wickets": "3",
+    "bowl_avg": "60.33"
+  },
+  "tanmay-mishra-24790": {
+    "player_id": "3345",
+    "name": "T Mishra",
+    "teams": "DCH",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tanmay-srivastava-35401": {
+    "player_id": "4156",
+    "name": "T  Srivastava",
+    "teams": "KXI",
+    "matches": "7",
+    "runs": "8",
+    "bat_avg": "8.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tanush-kotian-1125960": {
+    "player_id": "7794",
+    "name": "T K Kotian",
+    "teams": "RRO",
+    "matches": "1",
+    "runs": "24",
+    "bat_avg": "24.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tatenda-taibu-55805": {
+    "player_id": "2975",
+    "name": "T Taibu",
+    "teams": "KKR",
+    "matches": "3",
+    "runs": "31",
+    "bat_avg": "10.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tejas-baroka-1082859": {
+    "player_id": "4663",
+    "name": "T Baroka",
+    "teams": "GUJ",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "thilan-thushara-49677": {
+    "player_id": "3126",
+    "name": "T Thushara",
+    "teams": "CSK",
+    "matches": "6",
+    "runs": "12",
+    "bat_avg": "6.00",
+    "wickets": "8",
+    "bowl_avg": "20.13"
+  },
+  "thisara-perera-233514": {
+    "player_id": "3747",
+    "name": "N L T C Perera",
+    "teams": "CSK, KTK, MIN, SUN, KXI, RPS",
+    "matches": "37",
+    "runs": "422",
+    "bat_avg": "19.18",
+    "wickets": "31",
+    "bowl_avg": "32.77"
+  },
+  "tilak-varma-1170265": {
+    "player_id": "6522",
+    "name": "Tilak Varma",
+    "teams": "MIN",
+    "matches": "54",
+    "runs": "1499",
+    "bat_avg": "37.48",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tillakaratne-dilshan-48472": {
+    "player_id": "2197",
+    "name": "T M Dilshan",
+    "teams": "DDV, RCB",
+    "matches": "52",
+    "runs": "1153",
+    "bat_avg": "26.81",
+    "wickets": "5",
+    "bowl_avg": "69.60"
+  },
+  "tim-david-892749": {
+    "player_id": "5332",
+    "name": "T H David",
+    "teams": "RCB, MIN",
+    "matches": "50",
+    "runs": "846",
+    "bat_avg": "32.54",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tim-paine-7252": {
+    "player_id": "3725",
+    "name": "T D Paine",
+    "teams": "PWI",
+    "matches": "2",
+    "runs": "10",
+    "bat_avg": "5.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tim-seifert-625964": {
+    "player_id": "4732",
+    "name": "T L Seifert",
+    "teams": "KKR, DDV",
+    "matches": "3",
+    "runs": "26",
+    "bat_avg": "8.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tim-southee-232364": {
+    "player_id": "3542",
+    "name": "T G Southee",
+    "teams": "CSK, RRO, MIN, RCB, KKR",
+    "matches": "54",
+    "runs": "120",
+    "bat_avg": "9.23",
+    "wickets": "47",
+    "bowl_avg": "37.06"
+  },
+  "tirumalasetti-suman-34281": {
+    "player_id": "4086",
+    "name": "T L  Suman",
+    "teams": "DCH, MIN, PWI",
+    "matches": "43",
+    "runs": "676",
+    "bat_avg": "21.13",
+    "wickets": "6",
+    "bowl_avg": "37.17"
+  },
+  "tom-banton-877051": {
+    "player_id": "5660",
+    "name": "T Banton",
+    "teams": "KKR",
+    "matches": "2",
+    "runs": "18",
+    "bat_avg": "9.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "tom-curran-550235": {
+    "player_id": "4693",
+    "name": "T K Curran",
+    "teams": "KKR, RRO, DDV",
+    "matches": "13",
+    "runs": "127",
+    "bat_avg": "25.40",
+    "wickets": "13",
+    "bowl_avg": "33.08"
+  },
+  "tom-kohler-cadmore-470633": {
+    "player_id": "7768",
+    "name": "Tom Kohler-Cadmore",
+    "teams": "RRO",
+    "matches": "4",
+    "runs": "48",
+    "bat_avg": "16.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "travis-birt-4292": {
+    "player_id": "3757",
+    "name": "T R Birt",
+    "teams": "DDV",
+    "matches": "5",
+    "runs": "75",
+    "bat_avg": "15.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "travis-head-530011": {
+    "player_id": "4386",
+    "name": "T M Head",
+    "teams": "RCB, SUN",
+    "matches": "38",
+    "runs": "1146",
+    "bat_avg": "34.73",
+    "wickets": "2",
+    "bowl_avg": "56.50"
+  },
+  "trent-boult-277912": {
+    "player_id": "3924",
+    "name": "T A Boult",
+    "teams": "SUN, KKR, DDV, MIN, RRO",
+    "matches": "120",
+    "runs": "85",
+    "bat_avg": "9.44",
+    "wickets": "143",
+    "bowl_avg": "26.20"
+  },
+  "tristan-stubbs-595978": {
+    "player_id": "6607",
+    "name": "T Stubbs",
+    "teams": "MIN, DDV",
+    "matches": "32",
+    "runs": "705",
+    "bat_avg": "41.47",
+    "wickets": "4",
+    "bowl_avg": "17.25"
+  },
+  "tushar-deshpande-822553": {
+    "player_id": "5849",
+    "name": "T U Deshpande",
+    "teams": "DDV, CSK, RRO",
+    "matches": "46",
+    "runs": "28",
+    "bat_avg": "14.00",
+    "wickets": "51",
+    "bowl_avg": "31.04"
+  },
+  "tymal-mills-459257": {
+    "player_id": "4567",
+    "name": "T S Mills",
+    "teams": "RCB, MIN",
+    "matches": "10",
+    "runs": "8",
+    "bat_avg": "2.00",
+    "wickets": "11",
+    "bowl_avg": "31.18"
+  },
+  "tyron-henderson-45434": {
+    "player_id": "3679",
+    "name": "T Henderson",
+    "teams": "RRO",
+    "matches": "2",
+    "runs": "11",
+    "bat_avg": "5.50",
+    "wickets": "1",
+    "bowl_avg": "40.00"
+  },
+  "uday-kaul-30235": {
+    "player_id": "4168",
+    "name": "U  Kaul",
+    "teams": "KXI",
+    "matches": "5",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "udit-birla-262533": {
+    "player_id": "4075",
+    "name": "U A  Birla",
+    "teams": "PWI",
+    "matches": "2",
+    "runs": "7",
+    "bat_avg": "7.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "udit-patel-32388": {
+    "player_id": "7202",
+    "name": "U Patel",
+    "teams": "CSK",
+    "matches": "3",
+    "runs": "68",
+    "bat_avg": "22.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "umar-gul-43524": {
+    "player_id": "3100",
+    "name": "Umar Gul",
+    "teams": "KKR",
+    "matches": "6",
+    "runs": "39",
+    "bat_avg": "13.00",
+    "wickets": "12",
+    "bowl_avg": "15.33"
+  },
+  "umesh-yadav-376116": {
+    "player_id": "3786",
+    "name": "U T Yadav",
+    "teams": "DDV, KKR, RCB, GTI",
+    "matches": "148",
+    "runs": "208",
+    "bat_avg": "9.90",
+    "wickets": "144",
+    "bowl_avg": "29.83"
+  },
+  "umran-malik-1246528": {
+    "player_id": "6204",
+    "name": "Umran Malik",
+    "teams": "SUN, KKR",
+    "matches": "26",
+    "runs": "23",
+    "bat_avg": "11.50",
+    "wickets": "29",
+    "bowl_avg": "26.62"
+  },
+  "unmukt-chand-446499": {
+    "player_id": "4030",
+    "name": "U B T Chand",
+    "teams": "DDV, RRO, MIN",
+    "matches": "21",
+    "runs": "300",
+    "bat_avg": "15.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "urvil-patel-1131570": {
+    "player_id": "7202",
+    "name": "U Patel",
+    "teams": "CSK",
+    "matches": "3",
+    "runs": "68",
+    "bat_avg": "22.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "usman-khawaja-215155": {
+    "player_id": "3842",
+    "name": "U T Khawaja",
+    "teams": "RPS",
+    "matches": "6",
+    "runs": "127",
+    "bat_avg": "21.17",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "varun-aaron-360911": {
+    "player_id": "3916",
+    "name": "V R Aaron",
+    "teams": "DDV, RCB, KXI, RRO, GTI",
+    "matches": "52",
+    "runs": "50",
+    "bat_avg": "10.00",
+    "wickets": "44",
+    "bowl_avg": "33.66"
+  },
+  "varun-chakravarthy-1108375": {
+    "player_id": "4938",
+    "name": "C V Varun",
+    "teams": "KXI, KKR",
+    "matches": "84",
+    "runs": "26",
+    "bat_avg": "6.50",
+    "wickets": "100",
+    "bowl_avg": "23.85"
+  },
+  "veer-pratap-singh-528967": {
+    "player_id": "4110",
+    "name": "V  Pratap Singh",
+    "teams": "DCH",
+    "matches": "9",
+    "runs": "0",
+    "bat_avg": "0.00",
+    "wickets": "10",
+    "bowl_avg": "29.60"
+  },
+  "venkatesh-iyer-851403": {
+    "player_id": "5971",
+    "name": "V R Iyer",
+    "teams": "KKR",
+    "matches": "62",
+    "runs": "1468",
+    "bat_avg": "29.96",
+    "wickets": "3",
+    "bowl_avg": "47.67"
+  },
+  "venugopal-rao-35805": {
+    "player_id": "3288",
+    "name": "Y Venugopal Rao",
+    "teams": "DCH, DDV, SUN",
+    "matches": "65",
+    "runs": "985",
+    "bat_avg": "22.39",
+    "wickets": "6",
+    "bowl_avg": "56.17"
+  },
+  "vidwath-kaverappa-1155262": {
+    "player_id": "7206",
+    "name": "V Kaverappa",
+    "teams": "KXI",
+    "matches": "1",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "2",
+    "bowl_avg": "18.00"
+  },
+  "vidyut-sivaramakrishnan-35619": {
+    "player_id": "4163",
+    "name": "S  Vidyut",
+    "teams": "CSK",
+    "matches": "9",
+    "runs": "145",
+    "bat_avg": "18.13",
+    "wickets": "1",
+    "bowl_avg": "22.00"
+  },
+  "vignesh-puthur-1460388": {
+    "player_id": "8295",
+    "name": "V Puthur",
+    "teams": "MIN",
+    "matches": "5",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "6",
+    "bowl_avg": "18.17"
+  },
+  "vijay-zol-554699": {
+    "player_id": "4129",
+    "name": "V H  Zol",
+    "teams": "RCB",
+    "matches": "3",
+    "runs": "29",
+    "bat_avg": "14.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "vijayakanth-viyaskanth-1153149": {
+    "player_id": "7543",
+    "name": "Vijayakanth Viyaskanth",
+    "teams": "SUN",
+    "matches": "3",
+    "runs": "7",
+    "bat_avg": "",
+    "wickets": "1",
+    "bowl_avg": "86.00"
+  },
+  "vijaykumar-vyshak-777815": {
+    "player_id": "7237",
+    "name": "Vijaykumar Vyshak",
+    "teams": "RCB, KXI",
+    "matches": "16",
+    "runs": "14",
+    "bat_avg": "7.00",
+    "wickets": "17",
+    "bowl_avg": "33.88"
+  },
+  "vikramjeet-malik-31738": {
+    "player_id": "4096",
+    "name": "V S  Malik",
+    "teams": "KXI, RRO",
+    "matches": "13",
+    "runs": "7",
+    "bat_avg": "7.00",
+    "wickets": "6",
+    "bowl_avg": "43.50"
+  },
+  "vikrant-yeligati-307448": {
+    "player_id": "4148",
+    "name": "V S  Yeligati",
+    "teams": "MIN",
+    "matches": "2",
+    "runs": "2",
+    "bat_avg": "2.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "vinay-kumar-35731": {
+    "player_id": "3782",
+    "name": "R Vinay Kumar",
+    "teams": "RCB, KTK, KKR, MIN",
+    "matches": "105",
+    "runs": "310",
+    "bat_avg": "11.07",
+    "wickets": "105",
+    "bowl_avg": "28.25"
+  },
+  "vipraj-nigam-1449074": {
+    "player_id": "8298",
+    "name": "V Nigam",
+    "teams": "DDV",
+    "matches": "14",
+    "runs": "142",
+    "bat_avg": "20.29",
+    "wickets": "11",
+    "bowl_avg": "32.36"
+  },
+  "virat-kohli-253802": {
+    "player_id": "3600",
+    "name": "V Kohli",
+    "teams": "RCB",
+    "matches": "267",
+    "runs": "8661",
+    "bat_avg": "39.55",
+    "wickets": "4",
+    "bowl_avg": "92.00"
+  },
+  "virat-singh-720465": {
+    "player_id": "5865",
+    "name": "Virat Singh",
+    "teams": "SUN",
+    "matches": "3",
+    "runs": "15",
+    "bat_avg": "7.50",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "virender-sehwag-35263": {
+    "player_id": "2878",
+    "name": "V Sehwag",
+    "teams": "DDV, KXI",
+    "matches": "104",
+    "runs": "2728",
+    "bat_avg": "27.56",
+    "wickets": "6",
+    "bowl_avg": "39.17"
+  },
+  "vishnu-vinod-732293": {
+    "player_id": "4678",
+    "name": "Vishnu Vinod",
+    "teams": "RCB, MIN, KXI",
+    "matches": "6",
+    "runs": "56",
+    "bat_avg": "9.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "vivrant-sharma-1252370": {
+    "player_id": "7210",
+    "name": "V Sharma",
+    "teams": "SUN",
+    "matches": "3",
+    "runs": "69",
+    "bat_avg": "69.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "vvs-laxman-30750": {
+    "player_id": "2079",
+    "name": "V V S Laxman",
+    "teams": "DCH, KTK",
+    "matches": "20",
+    "runs": "282",
+    "bat_avg": "15.67",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "wanindu-hasaranga-784379": {
+    "player_id": "4696",
+    "name": "P W H de Silva",
+    "teams": "RCB, RRO",
+    "matches": "37",
+    "runs": "81",
+    "bat_avg": "5.40",
+    "wickets": "46",
+    "bowl_avg": "24.33"
+  },
+  "washington-sundar-719715": {
+    "player_id": "4684",
+    "name": "Washington Sundar",
+    "teams": "RPS, RCB, SUN, GTI",
+    "matches": "66",
+    "runs": "511",
+    "bat_avg": "15.97",
+    "wickets": "39",
+    "bowl_avg": "36.82"
+  },
+  "wasim-jaffer-29646": {
+    "player_id": "2208",
+    "name": "W Jaffer",
+    "teams": "RCB",
+    "matches": "8",
+    "runs": "130",
+    "bat_avg": "16.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "wayne-parnell-265564": {
+    "player_id": "3642",
+    "name": "W D Parnell",
+    "teams": "PWI, DDV, RCB",
+    "matches": "33",
+    "runs": "65",
+    "bat_avg": "6.50",
+    "wickets": "35",
+    "bowl_avg": "26.77"
+  },
+  "wiaan-mulder-698189": {
+    "player_id": "4707",
+    "name": "P W A Mulder",
+    "teams": "SUN",
+    "matches": "1",
+    "runs": "9",
+    "bat_avg": "9.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "wilkin-mota-31041": {
+    "player_id": "4140",
+    "name": "W A  Mota",
+    "teams": "KXI",
+    "matches": "12",
+    "runs": "56",
+    "bat_avg": "9.33",
+    "wickets": "4",
+    "bowl_avg": "24.25"
+  },
+  "will-jacks-897549": {
+    "player_id": "6922",
+    "name": "W G Jacks",
+    "teams": "RCB, MIN",
+    "matches": "21",
+    "runs": "463",
+    "bat_avg": "27.24",
+    "wickets": "8",
+    "bowl_avg": "27.50"
+  },
+  "wriddhiman-saha-279810": {
+    "player_id": "3759",
+    "name": "W P Saha",
+    "teams": "KKR, CSK, KXI, SUN, GTI",
+    "matches": "170",
+    "runs": "2934",
+    "bat_avg": "24.25",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "xavier-bartlett-1050545": {
+    "player_id": "7663",
+    "name": "X C Bartlett",
+    "teams": "KXI",
+    "matches": "4",
+    "runs": "11",
+    "bat_avg": "11.00",
+    "wickets": "2",
+    "bowl_avg": "48.00"
+  },
+  "yash-dayal-1159720": {
+    "player_id": "6537",
+    "name": "Y Dayal",
+    "teams": "GTI, RCB",
+    "matches": "43",
+    "runs": "4",
+    "bat_avg": "1.33",
+    "wickets": "41",
+    "bowl_avg": "33.90"
+  },
+  "yash-dhull-1292498": {
+    "player_id": "6516",
+    "name": "Y V Dhull",
+    "teams": "DDV",
+    "matches": "4",
+    "runs": "16",
+    "bat_avg": "5.33",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "yash-thakur-1070196": {
+    "player_id": "7229",
+    "name": "Y Thakur",
+    "teams": "LSG, KXI",
+    "matches": "21",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "25",
+    "bowl_avg": "30.80"
+  },
+  "yashasvi-jaiswal-1151278": {
+    "player_id": "5857",
+    "name": "Y B K Jaiswal",
+    "teams": "RRO",
+    "matches": "67",
+    "runs": "2166",
+    "bat_avg": "34.38",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "yashpal-singh-36130": {
+    "player_id": "4153",
+    "name": "Yashpal Singh",
+    "teams": "KKR",
+    "matches": "8",
+    "runs": "47",
+    "bat_avg": "11.75",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "yo-mahesh-31732": {
+    "player_id": "4145",
+    "name": "V Y  Mahesh",
+    "teams": "DDV, CSK",
+    "matches": "18",
+    "runs": "15",
+    "bat_avg": "7.50",
+    "wickets": "21",
+    "bowl_avg": "23.76"
+  },
+  "yogesh-nagar-317786": {
+    "player_id": "4036",
+    "name": "Y  Nagar",
+    "teams": "DDV",
+    "matches": "26",
+    "runs": "285",
+    "bat_avg": "20.36",
+    "wickets": "4",
+    "bowl_avg": "31.25"
+  },
+  "yogesh-takawale-35357": {
+    "player_id": "4166",
+    "name": "Y V  Takawale",
+    "teams": "MIN, RCB",
+    "matches": "16",
+    "runs": "192",
+    "bat_avg": "24.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "younis-khan-43652": {
+    "player_id": "2211",
+    "name": "Younis Khan",
+    "teams": "RRO",
+    "matches": "1",
+    "runs": "3",
+    "bat_avg": "3.00",
+    "wickets": "0",
+    "bowl_avg": ""
+  },
+  "yudhvir-singh-1206052": {
+    "player_id": "5973",
+    "name": "Yudhvir Singh",
+    "teams": "LSG, RRO",
+    "matches": "9",
+    "runs": "22",
+    "bat_avg": "5.50",
+    "wickets": "8",
+    "bowl_avg": "31.63"
+  },
+  "yusuf-abdulla-224367": {
+    "player_id": "3694",
+    "name": "Y A Abdulla",
+    "teams": "KXI",
+    "matches": "11",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "15",
+    "bowl_avg": "20.47"
+  },
+  "yusuf-pathan-32498": {
+    "player_id": "3550",
+    "name": "Y K Pathan",
+    "teams": "RRO, KKR, SUN",
+    "matches": "174",
+    "runs": "3204",
+    "bat_avg": "29.13",
+    "wickets": "42",
+    "bowl_avg": "33.02"
+  },
+  "yuvraj-singh-36084": {
+    "player_id": "2949",
+    "name": "Yuvraj Singh",
+    "teams": "KXI, PWI, RCB, DDV, SUN, MIN",
+    "matches": "132",
+    "runs": "2750",
+    "bat_avg": "24.77",
+    "wickets": "36",
+    "bowl_avg": "29.92"
+  },
+  "yuzvendra-chahal-430246": {
+    "player_id": "4063",
+    "name": "Y S Chahal",
+    "teams": "MIN, RCB, RRO, KXI",
+    "matches": "174",
+    "runs": "37",
+    "bat_avg": "5.29",
+    "wickets": "221",
+    "bowl_avg": "22.77"
+  },
+  "zaheer-khan-30102": {
+    "player_id": "2245",
+    "name": "Z Khan",
+    "teams": "RCB, MIN, DDV",
+    "matches": "100",
+    "runs": "117",
+    "bat_avg": "8.36",
+    "wickets": "102",
+    "bowl_avg": "27.27"
+  },
+  "zahir-khan-712219": {
+    "player_id": "2245",
+    "name": "Z Khan",
+    "teams": "RCB, MIN, DDV",
+    "matches": "100",
+    "runs": "117",
+    "bat_avg": "8.36",
+    "wickets": "102",
+    "bowl_avg": "27.27"
+  },
+  "zeeshan-ansari-942371": {
+    "player_id": "8291",
+    "name": "Z Ansari",
+    "teams": "SUN",
+    "matches": "10",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "6",
+    "bowl_avg": "55.50"
+  },
+  "dwayne-bravo-51439":   {
+    "player_id": "3166",
+    "name": "D J J Bravo",
+    "teams": "MIN, CSK, GUJ",
+    "matches": "161",
+    "runs": "1560",
+    "bat_avg": "22.61",
+    "wickets": "183",
+    "bowl_avg": "23.83"
+  },
+  "finn-allen-959759":   {
+    "player_id": "4826",
+    "name": "F A Allen",
+    "teams": "KXI, MIN",
+    "matches": "5",
+    "runs": "14",
+    "bat_avg": "7.00",
+    "wickets": "2",
+    "bowl_avg": "68.00"
+  },
+  "harshit-rana-1312645":   {
+    "player_id": "6570",
+    "name": "H P Rana",
+    "teams": "KKR",
+    "matches": "34",
+    "runs": "59",
+    "bat_avg": "9.83",
+    "wickets": "40",
+    "bowl_avg": "25.73"
+  },
+  "jean-paul-duminy-44932":   {
+    "player_id": "3208",
+    "name": "J-P Duminy",
+    "teams": "MIN, DCH, DDV",
+    "matches": "83",
+    "runs": "2029",
+    "bat_avg": "39.78",
+    "wickets": "23",
+    "bowl_avg": "36.26"
+  },
+  "maheesh-theekshana-1138316":   {
+    "player_id": "6178",
+    "name": "M M Theekshana",
+    "teams": "CSK, RRO",
+    "matches": "38",
+    "runs": "17",
+    "bat_avg": "5.67",
+    "wickets": "36",
+    "bowl_avg": "33.53"
+  },
+  "nitish-kumar-reddy-1175496":   {
+    "player_id": "7209",
+    "name": "N K Reddy",
+    "teams": "SUN",
+    "matches": "28",
+    "runs": "485",
+    "bat_avg": "28.53",
+    "wickets": "5",
+    "bowl_avg": "50.80"
+  },
+  "nuwan-thushara-955235":   {
+    "player_id": "6475",
+    "name": "I D N Thushara",
+    "teams": "MIN, RCB",
+    "matches": "8",
+    "runs": "0",
+    "bat_avg": "",
+    "wickets": "9",
+    "bowl_avg": "31.44"
+  },
+  "sai-kishore-1048739":   {
+    "player_id": "5846",
+    "name": "R S Kishore",
+    "teams": "GTI",
+    "matches": "25",
+    "runs": "18",
+    "bat_avg": "4.50",
+    "wickets": "32",
+    "bowl_avg": "20.34"
+  },
+  "shimron-hetmyer-670025":   {
+    "player_id": "4681",
+    "name": "S O Hetmeyer",
+    "teams": "RCB, DDV, RRO",
+    "matches": "86",
+    "runs": "1482",
+    "bat_avg": "29.06",
+    "wickets": "0",
+    "bowl_avg": ""
+  }
+
+}
+

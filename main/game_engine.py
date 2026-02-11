@@ -9,6 +9,8 @@ from typing import Dict, List, Optional, Literal
 from dataclasses import dataclass, field
 import json
 
+from main.config import path
+
 
 @dataclass
 class GameState:
@@ -215,7 +217,7 @@ def resolve_round(
 
 def load_franchise_data() -> Dict[str, Dict[str, List[str]]]:
     """Load franchise-year-players data for validation."""
-    with open("/Users/surya/Desktop/toy_projects/howisstat/data/team2year2player_ids.json", "r") as f:
+    with open(path("data", "filtered_team2year2player_ids.json"), "r") as f:
         return json.load(f)
 
 

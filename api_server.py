@@ -10,21 +10,27 @@ import os
 import json
 import uuid
 import traceback
+import base64
 
 # Add project root to path
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, PROJECT_ROOT)
+_repo_root = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, _repo_root)
 
 from dotenv import load_dotenv
-load_dotenv(os.path.join(PROJECT_ROOT, "secrets", ".env"))
+load_dotenv(os.path.join(_repo_root, "secrets", ".env"))
 
 try:
-    from flask import Flask, request, jsonify
+    from flask import Flask, request, jsonify, Response
     from flask_cors import CORS
 except ImportError:
     print("Missing dependencies. Install with:")
     print("  pip install flask flask-cors")
     sys.exit(1)
+
+try:
+    from sarvamai import SarvamAI
+except ImportError:
+    SarvamAI = None
 
 from main.game_engine import (
     GameState, RoundResult,
@@ -39,6 +45,19 @@ app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 # ═══════════════════════════════════════════════════════════════
+# Optional: SarvamAI TTS client
+# ═══════════════════════════════════════════════════════════════
+
+SARVAM_API_KEY = os.getenv("SARVAM_API_KEY")
+tts_client = None
+if SarvamAI is not None and SARVAM_API_KEY:
+    try:
+        tts_client = SarvamAI(api_subscription_key=SARVAM_API_KEY)
+    except Exception:
+        traceback.print_exc()
+        tts_client = None
+
+# ═══════════════════════════════════════════════════════════════
 # In-memory session storage
 # ═══════════════════════════════════════════════════════════════
 sessions = {}
@@ -49,18 +68,62 @@ sessions = {}
 
 COUNTRY_FLAGS = {
     "IND": "🇮🇳", "AUS": "🇦🇺", "ENG": "🇬🇧", "SA": "🇿🇦", "NZ": "🇳🇿",
-    "PAK": "🇵🇰", "SL": "🇱🇰", "BAN": "🇧🇩", "AFG": "🇦🇫", "WI": "🏴‍☠️",
+    "PAK": "🇵🇰", "SL": "🇱🇰", "BAN": "🇧🇩", "AFG": "🇦🇫", "WI": "🌴",
     "ZIM": "🇿🇼", "IRE": "🇮🇪", "SCO": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "NED": "🇳🇱", "UAE": "🇦🇪",
     "USA": "🇺🇸", "CAN": "🇨🇦", "KEN": "🇰🇪", "UKN": "",
     # Full names
     "India": "🇮🇳", "Australia": "🇦🇺", "England": "🇬🇧", "South Africa": "🇿🇦",
     "New Zealand": "🇳🇿", "Pakistan": "🇵🇰", "Sri Lanka": "🇱🇰", "Bangladesh": "🇧🇩",
-    "Afghanistan": "🇦🇫", "West Indies": "🏴‍☠️", "Zimbabwe": "🇿🇼", "Ireland": "🇮🇪",
+    "Afghanistan": "🇦🇫", "West Indies": "🌴", "Zimbabwe": "🇿🇼", "Ireland": "🇮🇪",
     "Scotland": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "Netherlands": "🇳🇱",
 }
 
 DIFFICULTY_NAMES = {"G": "Gully", "D": "Domestic", "S": "Sachin Mode"}
 CONFIDENCE_EMOJIS = {"high": "🔥", "medium": "⚡", "low": "🤞"}
+
+
+# ═══════════════════════════════════════════════════════════════
+# Usage stats (games, rounds)
+# ═══════════════════════════════════════════════════════════════
+
+def _stats_path():
+    from main.config import path
+    return path("data", "usage_stats.json")
+
+
+def _load_stats():
+    """Load stats from file. Returns {games: 0, rounds: 0} if missing."""
+    p = _stats_path()
+    if not os.path.exists(p):
+        return {"games": 0, "rounds": 0}
+    try:
+        with open(p, "r") as f:
+            data = json.load(f)
+        return {"games": int(data.get("games", 0)), "rounds": int(data.get("rounds", 0))}
+    except (json.JSONDecodeError, IOError):
+        return {"games": 0, "rounds": 0}
+
+
+def _save_stats(games, rounds):
+    """Write stats atomically (temp + rename)."""
+    p = _stats_path()
+    tmp = p + ".tmp"
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(tmp, "w") as f:
+        json.dump({"games": games, "rounds": rounds}, f, indent=2)
+    os.replace(tmp, p)
+
+
+def _increment_games():
+    s = _load_stats()
+    s["games"] += 1
+    _save_stats(s["games"], s["rounds"])
+
+
+def _increment_rounds():
+    s = _load_stats()
+    s["rounds"] += 1
+    _save_stats(s["games"], s["rounds"])
 
 
 def player_to_card(player_info, index):
@@ -74,6 +137,7 @@ def player_to_card(player_info, index):
         "role": player_info.get("role", ""),
         "batting_style": player_info.get("batting_style"),
         "bowling_style": player_info.get("bowling_style"),
+        "suggestion": player_info.get("suggestion"),
     }
 
 
@@ -119,6 +183,59 @@ def health():
     return jsonify({"status": "ok"})
 
 
+@app.route('/api/stats')
+def stats():
+    s = _load_stats()
+    return jsonify({"games": s["games"], "rounds": s["rounds"]})
+
+
+@app.route('/')
+def root_health():
+    return jsonify({"status": "ok"})
+
+
+@app.route('/api/tts', methods=['POST'])
+def tts_commentary():
+    """
+    Convert judge commentary text to speech using SarvamAI.
+    Returns an MP3 audio stream.
+    """
+    if tts_client is None:
+        return jsonify({"error": "TTS not configured"}), 503
+
+    print("TTS request received")
+    data = request.json or {}
+    text = (data.get("text") or "").strip()
+    
+
+    if not text:
+        return jsonify({"error": "Missing 'text'"}), 400
+
+    try:
+        # SarvamAI text_to_speech.convert returns JSON with base64-encoded audio]
+        
+        result = tts_client.text_to_speech.convert(
+            text=text,
+            target_language_code=data.get("target_language_code", "en-IN"),
+            speaker=data.get("speaker", "aayan"),
+            pace=float(data.get("pace", 1.1)),
+            speech_sample_rate=int(data.get("speech_sample_rate", 22050)),
+            enable_preprocessing=bool(data.get("enable_preprocessing", True)),
+            model=data.get("model", "bulbul:v3"),
+            temperature=float(data.get("temperature", 1)),
+        )
+
+        audios = result.audios
+        if not audios:
+            return jsonify({"error": "TTS service returned no audio"}), 502
+
+        audio_bytes = base64.b64decode(audios[0])
+        return Response(audio_bytes, mimetype="audio/mpeg")
+    except Exception as e:
+        traceback.print_exc()
+        return jsonify({"error": f"TTS error: {e}"}), 500
+
+
 @app.route('/api/game', methods=['POST'])
 def game_action():
     try:
@@ -162,6 +279,7 @@ def init_game():
     """Create new game session, return welcome screen."""
     sid = str(uuid.uuid4())
     franchises = get_available_franchises()
+    _increment_games()
 
     sessions[sid] = {
         "phase": "awaiting_self_franchise",
@@ -347,7 +465,12 @@ def start_round(session):
         })
 
         session["phase"] = "round_awaiting_stat"
-        prompt = {"type": "text", "label": "Declare your stat", "placeholder": "e.g., Most runs in IPL by a batter..."}
+
+        suggestion = top_info.get("suggestion") if isinstance(top_info.get("suggestion"), str) else None
+        placeholder = suggestion if suggestion else "not found suggestion"
+        prompt = {"type": "text", "label": "Declare your stat", "placeholder": placeholder}
+        if suggestion:
+            prompt["suggestion"] = suggestion
 
     else:
         # AI is challenger — run AI, then prompt user for defender
@@ -385,14 +508,26 @@ def start_round(session):
     return messages, prompt
 
 
+def _declare_stat_prompt(gs, retry=False):
+    """Build prompt for declare-stat phase, with optional suggestion from current top card."""
+    top_pid = gs.user_deck[0] if gs.user_deck else None
+    top_info = gs.player_id2player_info.get(top_pid, {}) if top_pid else {}
+    suggestion = top_info.get("suggestion") if isinstance(top_info.get("suggestion"), str) else None
+    label = "Declare your stat (retry)" if retry else "Declare your stat"
+    placeholder = suggestion if suggestion else ("Try a different stat..." if retry else "e.g., Most runs in IPL by a batter...")
+    prompt = {"type": "text", "label": label, "placeholder": placeholder}
+    if suggestion:
+        prompt["suggestion"] = suggestion
+    return prompt
+
+
 def handle_user_stat(sid, session, inp):
     """User declared a stat (user is challenger)."""
+    gs = session["game_state"]
     if not inp:
         return respond(sid, session,
             [{"type": "error", "content": "Please enter a stat description."}],
-            {"type": "text", "label": "Declare your stat", "placeholder": "e.g., Most runs in IPL by a batter..."})
-
-    gs = session["game_state"]
+            _declare_stat_prompt(gs))
 
     messages = [{"type": "text", "content": f'Your stat: "{inp}"', "style": "accent"}]
     messages.append({"type": "text", "content": "AI is choosing defender...", "style": "ai_thinking"})
@@ -402,8 +537,7 @@ def handle_user_stat(sid, session, inp):
         defense_choice = get_defense_choice(inp, gs.ai_deck, gs.player_id2player_info)
     except Exception as e:
         messages.append({"type": "error", "content": f"AI defender failed: {str(e)}"})
-        return respond(sid, session, messages,
-            {"type": "text", "label": "Declare your stat (retry)", "placeholder": "Try a different stat..."})
+        return respond(sid, session, messages, _declare_stat_prompt(gs, retry=True))
 
     defender_pid = defense_choice["chosen_player_id"]
     defender_info = gs.player_id2player_info[defender_pid]
@@ -427,15 +561,14 @@ def handle_user_stat(sid, session, inp):
         new_state, result = resolve_round(gs, inp, defender_pid)
     except Exception as e:
         messages.append({"type": "error", "content": f"Resolution failed: {str(e)}. Try a different stat."})
-        return respond(sid, session, messages,
-            {"type": "text", "label": "Declare your stat (retry)", "placeholder": "Try a different stat..."})
+        return respond(sid, session, messages, _declare_stat_prompt(gs, retry=True))
 
     if not result.success:
         messages.append({"type": "error", "content": result.error_message})
         messages.append({"type": "text", "content": "Please try a different stat.", "style": "hint"})
-        return respond(sid, session, messages,
-            {"type": "text", "label": "Declare your stat (retry)", "placeholder": "Try a different stat..."})
+        return respond(sid, session, messages, _declare_stat_prompt(gs, retry=True))
 
+    _increment_rounds()
     session["game_state"] = new_state
     messages.append({"type": "result", "data": build_result_data(result, new_state)})
 
@@ -486,6 +619,7 @@ def handle_user_defender(sid, session, inp):
         session["phase"] = "round_awaiting_continue"
         return respond(sid, session, messages, {"type": "continue", "label": "Press Enter to continue..."})
 
+    _increment_rounds()
     session["game_state"] = new_state
     messages.append({"type": "result", "data": build_result_data(result, new_state)})
 
@@ -546,6 +680,6 @@ def build_result_data(result, new_state):
 if __name__ == '__main__':
     print("=" * 60)
     print("  HowisStat API Server")
-    print("  http://localhost:5050/api/game")
+    print("  http://localhost:5050/api/health")
     print("=" * 60)
-    app.run(host='0.0.0.0', port=5050, debug=True)
+    app.run(host="0.0.0.0", port=5050, debug=True)

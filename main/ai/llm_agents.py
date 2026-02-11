@@ -6,12 +6,11 @@ from google.genai import types
 from pydantic import BaseModel
 class GeminiAgent:
     def __init__(self, model_name: str):
-        assert model_name in ["gemini-flash-latest"] 
+        assert model_name in ["gemini-flash-latest", "gemini-3-pro-preview", "gemini-3-flash-preview"] 
         self.model = model_name 
         self.client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY")) 
         self.temperature = 0 
         self.thinking_budget = 0  
-
 
     def get_structured_output(self, system_instruction: str, input_text: str, response_obj: BaseModel) -> dict:
         """ 
@@ -45,4 +44,4 @@ class GeminiAgent:
         return response_out.model_dump()
 
 # To run this code you need to install the following dependencies:
-# 
+
