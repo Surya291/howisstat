@@ -291,13 +291,17 @@ def prompt_year(franchise: str) -> list:
     
     print(f"\n{Colors.CREAM}Available years for {Colors.BOLD}{franchise}{Colors.RESET}{Colors.CREAM}:{Colors.RESET}")
     print(f"  {Colors.CREAM}" + ", ".join(years) + f"{Colors.RESET}")
-    print(f"  {Colors.HERMES_ORANGE}(You can enter multiple years separated by commas){Colors.RESET}")
+    print(f"  {Colors.HERMES_ORANGE}(Enter at least 3 years, separated by commas){Colors.RESET}")
     
     while True:
         year_input = input(f"\n{Colors.TAN}Enter year(s): {Colors.RESET}").strip()
         
         # Parse comma-separated years
         selected_years = [y.strip() for y in year_input.split(",")]
+        
+        if len(selected_years) < 3:
+            print(f"{Colors.BURNT_ORANGE}Please enter at least 3 years (e.g., 2022, 2023, 2024).{Colors.RESET}")
+            continue
         
         # Validate all years
         invalid_years = [y for y in selected_years if y not in years]

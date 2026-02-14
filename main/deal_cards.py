@@ -78,7 +78,7 @@ def get_player_info(player_id):
 
     style_list = player_info["style"] 
     try: 
-        suggestion = player_info["suggestion"]["casual_stat_description"]
+        suggestion = player_info["suggestion"]["stat_description"]
     except:
         suggestion = None
     batting_style_list = []

@@ -315,10 +315,8 @@
     "uid": "s:200~a:5334",
     "suggestion": {
       "player_id": "aaron-finch-5334",
-      "casual_stat_description": "Batter with most runs in T20 Internationals",
-      "casual_reason": "A true legend of the shortest format.",
-      "competitive_stat_description": "Highest individual score in a T20 International innings",
-      "competitive_reason": "That massive score is still untouchable today."
+      "stat_description": "Batter with Highest score in an innings in T20Is",
+      "reason": "He owns the record books while you own nothing."
     }
   },
   "aaron-hardie-1124283": {
@@ -753,10 +751,8 @@
     "uid": "s:200~a:44936",
     "suggestion": {
       "player_id": "ab-de-villiers-44936",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Mr. 360 makes hitting sixes look easy.",
-      "competitive_stat_description": "Fastest century in an ODI innings",
-      "competitive_reason": "Pure genius at work, blink and you miss."
+      "stat_description": "Batter with strike rate in IPL (min 1000 runs)",
+      "reason": "Mr. 360 makes your player look like a statue."
     }
   },
   "abdul-samad-1175485": {
@@ -840,10 +836,8 @@
     "uid": "s:200~a:1175485",
     "suggestion": {
       "player_id": "abdul-samad-1175485",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Young gun with some serious hitting power.",
-      "competitive_stat_description": "Highest strike rate in an IPL innings",
-      "competitive_reason": "He finishes games before you even notice."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits bombs; your guy just hits the dirt."
     }
   },
   "abdulahad-malek-290721": {
@@ -1304,10 +1298,8 @@
     "uid": "s:200~a:1449085",
     "suggestion": {
       "player_id": "abhinandan-singh-1449085",
-      "casual_stat_description": "Bowler with most wickets in a domestic match",
-      "casual_reason": "Starting strong with some solid wicket-taking ability.",
-      "competitive_stat_description": "Best bowling figures in a domestic T20 match",
-      "competitive_reason": "A rising star making his mark early."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Good luck finding a stat for this unknown rookie."
     }
   },
   "abhinav-kumar-26167": {
@@ -1472,10 +1464,8 @@
     "uid": "s:200~a:778963",
     "suggestion": {
       "player_id": "abhinav-manohar-778963",
-      "casual_stat_description": "Batter with most boundaries in an IPL innings",
-      "casual_reason": "Clean striker who loves finding the fence.",
-      "competitive_stat_description": "Highest strike rate as a finisher in IPL",
-      "competitive_reason": "The ultimate impact player in the death overs."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "Pure power. Your player is just a defensive liability."
     }
   },
   "abhinav-mukund-302582": {
@@ -1696,10 +1686,8 @@
     "uid": "s:200~a:29702",
     "suggestion": {
       "player_id": "abhishek-jhunjhunwala-29702",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "A reliable name from the early days.",
-      "competitive_stat_description": "Highest score as a middle order batter in IPL",
-      "competitive_reason": "Stepped up when the top order failed."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "A vintage pick to expose your lack of history."
     }
   },
   "abhishek-nayar-32091": {
@@ -1807,10 +1795,8 @@
     "uid": "s:200~a:32091",
     "suggestion": {
       "player_id": "abhishek-nayar-32091",
-      "casual_stat_description": "Allrounder with most wickets in IPL",
-      "casual_reason": "The veteran who could do it all.",
-      "competitive_stat_description": "Most runs as a lower order batter in IPL",
-      "competitive_reason": "A gritty fighter who never gave up."
+      "stat_description": "Allrounder with No. of wickets in IPL",
+      "reason": "Domestic legend. Your player wouldn't make his bench."
     }
   },
   "abhishek-sharma-1070183": {
@@ -1921,10 +1907,8 @@
     "uid": "s:200~a:1070183",
     "suggestion": {
       "player_id": "abhishek-sharma-1070183",
-      "casual_stat_description": "Batter with most sixes in an IPL season",
-      "casual_reason": "Absolute carnage at the top of the order.",
-      "competitive_stat_description": "Highest strike rate in the Powerplay in IPL",
-      "competitive_reason": "He destroys bowling attacks in the first six."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He\u2019s painting the stands with sixes lately. Watch out."
     }
   },
   "abid-mushtaq-1201536": {
@@ -2080,10 +2064,8 @@
     "uid": "s:200~a:1277545",
     "suggestion": {
       "player_id": "abishek-porel-1277545",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "Showing great promise with the willow lately.",
-      "competitive_stat_description": "Highest strike rate in an IPL innings as a substitute",
-      "competitive_reason": "Came in and changed the game instantly."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "Safe hands. Your player drops more than he catches."
     }
   },
   "abrar-kazi-422106": {
@@ -2393,10 +2375,8 @@
     "uid": "s:200~a:5390",
     "suggestion": {
       "player_id": "adam-gilchrist-5390",
-      "casual_stat_description": "Batter with most centuries in IPL",
-      "casual_reason": "The original wicketkeeper-batter who dominated everyone.",
-      "competitive_stat_description": "Most runs as an opener in a World Cup",
-      "competitive_reason": "The definition of a big-match player."
+      "stat_description": "Wicketkeeper with No. of dismissals in Tests",
+      "reason": "The GOAT keeper. Your guy is just a spectator."
     }
   },
   "adam-milne-450860": {
@@ -2829,10 +2809,8 @@
     "uid": "s:200~a:379504",
     "suggestion": {
       "player_id": "adam-zampa-379504",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "Spin king in the shortest format.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL innings",
-      "competitive_reason": "Absolute destruction in a single spell."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Leg-spin wizardry that leaves your batters looking absolutely clueless."
     }
   },
   "adil-rashid-244497": {
@@ -3348,10 +3326,8 @@
     "uid": "s:200~a:333904",
     "suggestion": {
       "player_id": "aditya-tare-333904",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Solid domestic legend with IPL flair.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Remember that six? Pure clutch energy."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "Safe hands while your keeper is busy dropping sitters."
     }
   },
   "adrian-barath-274926": {
@@ -3795,10 +3771,8 @@
     "uid": "s:200~a:600498",
     "suggestion": {
       "player_id": "aiden-markram-600498",
-      "casual_stat_description": "Batter with most runs in T20Is",
-      "casual_reason": "Classy batter with a smooth touch.",
-      "competitive_stat_description": "Batter with most centuries in an ODI innings",
-      "competitive_reason": "Dominating the middle order with ease."
+      "stat_description": "Batter with No. of centuries in T20Is",
+      "reason": "Pure class. He scores tons while others struggle for singles."
     }
   },
   "ajantha-mendis-268739": {
@@ -4123,10 +4097,8 @@
     "uid": "s:200~a:26184",
     "suggestion": {
       "player_id": "ajit-agarkar-26184",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "A genuine wicket-taking machine back then.",
-      "competitive_stat_description": "Batter with fastest fifty in an ODI innings",
-      "competitive_reason": "Surprise! He holds a lightning-fast record."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Speed and swing that your tailenders can't even see."
     }
   },
   "ajit-chandila-27783": {
@@ -5643,10 +5615,8 @@
     "uid": "s:200~a:46248",
     "suggestion": {
       "player_id": "albie-morkel-46248",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "The original big-hitting finisher.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "Dangerous with both bat and ball."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them out of the park for fun."
     }
   },
   "alex-carey-326434": {
@@ -6470,10 +6440,8 @@
     "uid": "s:200~a:670031",
     "suggestion": {
       "player_id": "alzarri-joseph-670031",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "Raw pace and pure talent.",
-      "competitive_stat_description": "Bowler with best bowling figures on IPL debut",
-      "competitive_reason": "The greatest debut spell in history."
+      "stat_description": "Bowler with best bowling figures in an innings in IPL",
+      "reason": "A record-breaking spell that would ruin any batter's career."
     }
   },
   "am-ghazanfar-1326798": {
@@ -6812,10 +6780,8 @@
     "uid": "s:200~a:253804",
     "suggestion": {
       "player_id": "amanpreet-singh-253804",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Giving the local talent a shout.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "Keeping it tight under pressure."
+      "stat_description": "Bowler with economy rate in IPL (min 5 overs)",
+      "reason": "Stingier than a miser. You won't get a run here."
     }
   },
   "ambati-rayudu-33141": {
@@ -6998,10 +6964,8 @@
     "uid": "s:200~a:33141",
     "suggestion": {
       "player_id": "ambati-rayudu-33141",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A true veteran of the league.",
-      "competitive_stat_description": "Batter with most centuries in an IPL innings",
-      "competitive_reason": "Big game player with massive hundreds."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "A certified trophy magnet with the runs to match."
     }
   },
   "amit-mishra-31107": {
@@ -7154,10 +7118,8 @@
     "uid": "s:200~a:31107",
     "suggestion": {
       "player_id": "amit-mishra-31107",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The legendary leg-spinner of the IPL.",
-      "competitive_stat_description": "Bowler with most hat-tricks in IPL history",
-      "competitive_reason": "Three hat-tricks? Nobody else is close."
+      "stat_description": "Bowler with No. of hat-tricks in IPL",
+      "reason": "He takes three in a row while you struggle for one."
     }
   },
   "amit-mishra-604550": {
@@ -7244,10 +7206,8 @@
     "uid": "s:200~a:604550",
     "suggestion": {
       "player_id": "amit-mishra-604550",
-      "casual_stat_description": "Bowler with most wickets in T20s",
-      "casual_reason": "Steady bowler with consistent lines.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 match",
-      "competitive_reason": "Hard to score off this guy."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Consistency is king, and your player is just a peasant."
     }
   },
   "amit-paunikar-324444": {
@@ -7415,10 +7375,8 @@
     "uid": "s:200~a:26789",
     "suggestion": {
       "player_id": "amit-singh-26789",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "A hidden gem with a golden arm.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL innings",
-      "competitive_reason": "Pure pace and precision at its finest."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He actually took wickets while your guy just took space."
     }
   },
   "amit-uniyal-35586": {
@@ -7653,10 +7611,8 @@
     "uid": "s:200~a:482315",
     "suggestion": {
       "player_id": "amitoze-singh-482315",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "Solid middle-order presence for any team.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "He can accelerate when the pressure is on."
+      "stat_description": "Batter with strike rate in IPL (min 50 runs)",
+      "reason": "He hits it harder than your player's career ever did."
     }
   },
   "anand-rajan-26797": {
@@ -8071,10 +8027,8 @@
     "uid": "s:200~a:276298",
     "suggestion": {
       "player_id": "andre-russell-276298",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Muscle power that clears every boundary easily.",
-      "competitive_stat_description": "Batter with highest strike rate in IPL career",
-      "competitive_reason": "The ultimate finisher in the shortest format."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He clears the stadium while your player clears the bench."
     }
   },
   "andrew-flintoff-12856": {
@@ -8422,10 +8376,8 @@
     "uid": "s:200~a:7702",
     "suggestion": {
       "player_id": "andrew-symonds-7702",
-      "casual_stat_description": "Batter with most centuries in IPL",
-      "casual_reason": "A true legend of the white-ball game.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a middle-order batter",
-      "competitive_reason": "Dominance personified in the middle overs."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "A total beast. Your player is just a gentle kitten."
     }
   },
   "andrew-tye-459508": {
@@ -8590,10 +8542,8 @@
     "uid": "s:200~a:459508",
     "suggestion": {
       "player_id": "andrew-tye-459508",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "The master of the knuckle ball.",
-      "competitive_stat_description": "Bowler with most hat-tricks in IPL",
-      "competitive_reason": "Taking wickets in clusters is his specialty."
+      "stat_description": "Bowler with No. of four-wicket hauls in T20Is",
+      "reason": "Knuckleballs that make your batter look like a confused amateur."
     }
   },
   "aneeshwar-gautam-1292513": {
@@ -8847,10 +8797,8 @@
     "uid": "s:200~a:49764",
     "suggestion": {
       "player_id": "angelo-mathews-49764",
-      "casual_stat_description": "Allrounder with most runs in IPL",
-      "casual_reason": "Reliable as a rock in any situation.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "Keeping it tight is what he does best."
+      "stat_description": "Allrounder with No. of wickets in ODIs",
+      "reason": "He carries the team while your player carries the drinks."
     }
   },
   "angkrish-raghuvanshi-1292495": {
@@ -8946,10 +8894,8 @@
     "uid": "s:200~a:1292495",
     "suggestion": {
       "player_id": "angkrish-raghuvanshi-1292495",
-      "casual_stat_description": "Batter with most fifties in IPL",
-      "casual_reason": "The young gun making a huge impact.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as an opener",
-      "competitive_reason": "Fearless at the top of the order."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "The kid is faster than your player's retirement plans."
     }
   },
   "aniket-choudhary-527299": {
@@ -9229,10 +9175,8 @@
     "uid": "s:200~a:30176",
     "suggestion": {
       "player_id": "anil-kumble-30176",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The legendary jumbo of Indian spin.",
-      "competitive_stat_description": "Bowler with most five-wicket hauls in IPL",
-      "competitive_reason": "A masterclass in leg-spin bowling every time."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "Ten wickets in an innings. Your player can't even get one."
     }
   },
   "aniruddha-joshi-420644": {
@@ -9726,10 +9670,8 @@
     "uid": "s:200~a:591650",
     "suggestion": {
       "player_id": "ankit-rajpoot-591650",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Tall, fast, and very effective.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL innings as a domestic player",
-      "competitive_reason": "He dismantled the best lineups single-handedly."
+      "stat_description": "Bowler with No. of five-wicket hauls in IPL",
+      "reason": "A rare IPL five-for. Your player is just rare talent."
     }
   },
   "ankit-sharma-422992": {
@@ -9822,10 +9764,8 @@
     "uid": "s:200~a:422992",
     "suggestion": {
       "player_id": "ankit-sharma-422992",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Crafty left-arm spin that gets results.",
-      "competitive_stat_description": "Bowler with most dot balls in an IPL powerplay",
-      "competitive_reason": "Accuracy is his biggest weapon in matches."
+      "stat_description": "Bowler with economy rate in IPL (min 20 overs)",
+      "reason": "He's tighter than your player's grip on a failing career."
     }
   },
   "ankit-soni-1083128": {
@@ -10258,10 +10198,8 @@
     "uid": "s:200~a:481979",
     "suggestion": {
       "player_id": "anrich-nortje-481979",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Pure pace and wickets. A total beast!",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL innings",
-      "competitive_reason": "Speed kills early on. Nobody handles this heat."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "Pure pace that leaves your batter's stumps in splinters."
     }
   },
   "ansh-patel-1216149": {
@@ -10569,10 +10507,8 @@
     "uid": "s:200~a:1123073",
     "suggestion": {
       "player_id": "anuj-rawat-1123073",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Young talent ready to explode. Watch out!",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings as opener",
-      "competitive_reason": "Clean striker of the ball. Pure timing."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "He actually catches things, unlike your butter-fingered player."
     }
   },
   "anukul-roy-1079839": {
@@ -10755,10 +10691,8 @@
     "uid": "s:200~a:1159816",
     "suggestion": {
       "player_id": "anunay-singh-1159816",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The underdog pick. Could surprise everyone!",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL match",
-      "competitive_reason": "One good spell is all it takes."
+      "stat_description": "Bowler with economy rate in IPL (min 2 overs)",
+      "reason": "Keeping it tight while your player leaks like a tap."
     }
   },
   "anup-revandkar-284355": {
@@ -10967,10 +10901,8 @@
     "uid": "s:200~a:376324",
     "suggestion": {
       "player_id": "anureet-singh-376324",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Consistent performer with a very smooth action.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in an IPL innings",
-      "competitive_reason": "Cool under pressure when the game is tight."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A domestic workhorse who outshines your benchwarmer easily."
     }
   },
   "anustup-majumdar-31750": {
@@ -11948,10 +11880,8 @@
     "uid": "s:200~a:1125976",
     "suggestion": {
       "player_id": "arshdeep-singh-1125976",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The king of death bowling. Simply elite.",
-      "competitive_stat_description": "Bowler with most wickets in the final over of a T20I innings",
-      "competitive_reason": "Ice in his veins. He owns the finish."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "The death-over specialist your team desperately wishes they had."
     }
   },
   "arshin-kulkarni-1403153": {
@@ -12609,10 +12539,8 @@
     "uid": "s:200~a:31820",
     "suggestion": {
       "player_id": "ashish-nehra-31820",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "A legend of the game. Pure class.",
-      "competitive_stat_description": "Bowler with most six-wicket hauls in an ODI match",
-      "competitive_reason": "Vintage Nehra. Unplayable on his best day."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "A legend of the game making your player look amateur."
     }
   },
   "ashish-reddy-389605": {
@@ -12696,10 +12624,8 @@
     "uid": "s:200~a:389605",
     "suggestion": {
       "player_id": "ashish-reddy-389605",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Handy with the bat and the ball.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Quick runs when the team needs them most."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "He hits harder than your player's best day."
     }
   },
   "ashley-noffke-6938": {
@@ -12944,10 +12870,8 @@
     "uid": "s:200~a:227712",
     "suggestion": {
       "player_id": "ashok-dinda-227712",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "That high jump and pace. Iconic bowler!",
-      "competitive_stat_description": "Bowler with most wickets in an IPL match as a pacer",
-      "competitive_reason": "Gives it his all every single delivery."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The leap alone is more iconic than your player's career."
     }
   },
   "ashok-menaria-371150": {
@@ -13058,10 +12982,8 @@
     "uid": "s:200~a:371150",
     "suggestion": {
       "player_id": "ashok-menaria-371150",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Solid middle-order presence. Very reliable player.",
-      "competitive_stat_description": "Batter with most fifties in an IPL innings at number four",
-      "competitive_reason": "The anchor who keeps the innings together."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Clearing the boundary while your guy struggles to rotate strike."
     }
   },
   "ashok-sharma-1299879": {
@@ -13934,10 +13856,8 @@
     "uid": "s:200~a:694211",
     "suggestion": {
       "player_id": "avesh-khan-694211",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Serious pace and a wicket-taking knack.",
-      "competitive_stat_description": "Bowler with most wickets in the middle overs in an IPL innings",
-      "competitive_reason": "Breaks partnerships for fun. A captain's dream."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Fast, furious, and far better than your selection."
     }
   },
   "avinash-singh-1350765": {
@@ -14005,10 +13925,8 @@
     "uid": "s:200~a:1350765",
     "suggestion": {
       "player_id": "avinash-singh-1350765",
-      "casual_stat_description": "Bowler with fastest delivery in a domestic match",
-      "casual_reason": "Pure raw pace. Speed guns love him!",
-      "competitive_stat_description": "Bowler with most wickets in a single domestic T20 innings",
-      "competitive_reason": "Speed is good, but wickets are better."
+      "stat_description": "Bowler with economy rate in IPL (min 1 over)",
+      "reason": "He's so fresh, your batter hasn't even seen him."
     }
   },
   "axar-patel-554691": {
@@ -14146,10 +14064,8 @@
     "uid": "s:200~a:554691",
     "suggestion": {
       "player_id": "axar-patel-554691",
-      "casual_stat_description": "Bowler with most wickets in a Test series",
-      "casual_reason": "He makes batters dance to his tunes.",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings at number seven",
-      "competitive_reason": "A proper finisher who clears the ropes easily."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "Spinning webs while your player is stuck in the mud."
     }
   },
   "ayush-badoni-1151270": {
@@ -14251,10 +14167,8 @@
     "uid": "s:200~a:1151270",
     "suggestion": {
       "player_id": "ayush-badoni-1151270",
-      "casual_stat_description": "Batter with most runs in an IPL debut innings",
-      "casual_reason": "Talk about making a grand entrance!",
-      "competitive_stat_description": "Batter with most fifties in IPL as a middle order finisher",
-      "competitive_reason": "Cool under pressure, a real young star."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Small frame, but hits bigger than your entire lineup."
     }
   },
   "ayush-mhatre-1452455": {
@@ -14582,10 +14496,8 @@
     "uid": "s:200~a:39024",
     "suggestion": {
       "player_id": "azhar-mahmood-39024",
-      "casual_stat_description": "Allrounder with most wickets in T20 leagues",
-      "casual_reason": "A global veteran who knows every trick.",
-      "competitive_stat_description": "Batter with most runs in a T20 innings at number eight",
-      "competitive_reason": "Power hitting from the tail? That is him."
+      "stat_description": "Batter with No. of centuries in ODIs",
+      "reason": "A classic masterclass that your player couldn't even dream of."
     }
   },
   "azmatullah-omarzai-819429": {
@@ -15329,10 +15241,8 @@
     "uid": "s:200~a:537126",
     "suggestion": {
       "player_id": "barinder-sran-537126",
-      "casual_stat_description": "Bowler with best bowling figures on ODI debut",
-      "casual_reason": "What a way to start your career!",
-      "competitive_stat_description": "Bowler with most wickets in an IPL powerplay innings",
-      "competitive_reason": "Left-arm swing is always a nightmare early on."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Left-arm heat that makes your top order look amateur."
     }
   },
   "bavanaka-sandeep-427484": {
@@ -15601,10 +15511,8 @@
     "uid": "s:200~a:230371",
     "suggestion": {
       "player_id": "ben-cutting-230371",
-      "casual_stat_description": "Batter with highest strike rate in an IPL final",
-      "casual_reason": "Big game player with massive hits.",
-      "competitive_stat_description": "Allrounder with most wickets and runs in a T20 match",
-      "competitive_reason": "The ultimate utility man for any team."
+      "stat_description": "Batter with strike rate in IPL (min 200 runs)",
+      "reason": "He hits them so hard they stay hit. Pure violence."
     }
   },
   "ben-dunk-388678": {
@@ -16359,10 +16267,8 @@
     "uid": "s:200~a:311158",
     "suggestion": {
       "player_id": "ben-stokes-311158",
-      "casual_stat_description": "Batter with most runs in a Test match innings",
-      "casual_reason": "The ultimate clutch player in world cricket.",
-      "competitive_stat_description": "Batter with most centuries in a successful Test run chase",
-      "competitive_reason": "He wins games from impossible situations."
+      "stat_description": "Batter with Highest score in an innings in Tests",
+      "reason": "A literal giant. Your player is just a background extra."
     }
   },
   "benny-howell-211748": {
@@ -17098,10 +17004,8 @@
     "uid": "s:200~a:27685",
     "suggestion": {
       "player_id": "bharat-chipli-27685",
-      "casual_stat_description": "Batter with most runs in a domestic T20 season",
-      "casual_reason": "A local hero who dominated the circuit.",
-      "competitive_stat_description": "Batter with most boundaries in an IPL powerplay innings",
-      "competitive_reason": "He loved taking on the new ball."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "Finding gaps while your player finds the fielder's hands."
     }
   },
   "bhargav-bhatt-433410": {
@@ -17328,10 +17232,8 @@
     "uid": "s:200~a:326016",
     "suggestion": {
       "player_id": "bhuvneshwar-kumar-326016",
-      "casual_stat_description": "Bowler with most dot balls in IPL history",
-      "casual_reason": "The king of swing and control.",
-      "competitive_stat_description": "Bowler with most wickets in the first over of T20 innings",
-      "competitive_reason": "Nobody strikes earlier than this man."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The king of swing. Your batter is already walking back."
     }
   },
   "billy-stanlake-533042": {
@@ -17653,10 +17555,8 @@
     "uid": "s:200~a:35928",
     "suggestion": {
       "player_id": "bipul-sharma-35928",
-      "casual_stat_description": "Allrounder with most wickets in a domestic T20 tournament",
-      "casual_reason": "Reliable with both bat and ball.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL knockout match",
-      "competitive_reason": "Delivered the goods when the trophy was near."
+      "stat_description": "Bowler with economy rate in IPL (min 20 overs)",
+      "reason": "Stingier than a miser. You won't get a run here."
     }
   },
   "blessing-muzarabani-827051": {
@@ -18279,10 +18179,8 @@
     "uid": "s:200~a:5674",
     "suggestion": {
       "player_id": "brad-hodge-5674",
-      "casual_stat_description": "Batter with most runs in T20 cricket",
-      "casual_reason": "A true pioneer of the shortest format.",
-      "competitive_stat_description": "Batter with highest individual score in a Test innings",
-      "competitive_reason": "That double century was pure class and dominance."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "A T20 pioneer who makes your player look amateur."
     }
   },
   "brad-hogg-5681": {
@@ -18402,10 +18300,8 @@
     "uid": "s:200~a:5681",
     "suggestion": {
       "player_id": "brad-hogg-5681",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "The chinaman wizard who never aged.",
-      "competitive_stat_description": "Bowler with most wickets in a single World Cup tournament",
-      "competitive_reason": "Spinning webs around the best on the biggest stage."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "That tongue-out wizardry will leave your batter clueless."
     }
   },
   "brendan-taylor-55814": {
@@ -18700,10 +18596,8 @@
     "uid": "s:200~a:37737",
     "suggestion": {
       "player_id": "brendon-mccullum-37737",
-      "casual_stat_description": "Batter with most sixes in Test cricket",
-      "casual_reason": "Pure aggression, no matter the format.",
-      "competitive_stat_description": "Batter with fastest century in a Test innings",
-      "competitive_reason": "Blink and you missed this historic demolition."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He started the IPL fire while you were still sleeping."
     }
   },
   "brett-geeves-5472": {
@@ -18930,10 +18824,8 @@
     "uid": "s:200~a:6278",
     "suggestion": {
       "player_id": "brett-lee-6278",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "Speed, rhythm, and a deadly yorker.",
-      "competitive_stat_description": "Bowler with most hat-tricks in ODI cricket",
-      "competitive_reason": "Taking wickets in clusters is his specialty."
+      "stat_description": "Bowler with No. of five-wicket hauls in ODIs",
+      "reason": "Pure pace that shatters stumps and your player's ego."
     }
   },
   "brydon-carse-596417": {
@@ -19637,10 +19529,8 @@
     "uid": "s:200~a:1076713",
     "suggestion": {
       "player_id": "cameron-green-1076713",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "The young giant making a massive impact.",
-      "competitive_stat_description": "Batter with most centuries in an IPL innings as a middle-order batter",
-      "competitive_reason": "Power and poise from a future legend."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "The giant who hits harder than your entire lineup."
     }
   },
   "cameron-white-8291": {
@@ -19778,10 +19668,8 @@
     "uid": "s:200~a:8291",
     "suggestion": {
       "player_id": "cameron-white-8291",
-      "casual_stat_description": "Batter with most sixes in T20 cricket",
-      "casual_reason": "Clean striker who cleared ropes for fun.",
-      "competitive_stat_description": "Batter with most fifties in an IPL innings as captain",
-      "competitive_reason": "Leading from the front with heavy hitting."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "Middle-order muscle that your team can only dream of."
     }
   },
   "carlos-brathwaite-457249": {
@@ -21464,10 +21352,8 @@
     "uid": "s:200~a:32540",
     "suggestion": {
       "player_id": "cheteshwar-pujara-32540",
-      "casual_stat_description": "Batter with most runs in Test cricket",
-      "casual_reason": "The ultimate wall of modern cricket.",
-      "competitive_stat_description": "Batter with most balls faced in a single Test innings",
-      "competitive_reason": "Patience is a virtue, and he owns it."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "He bats for days while your player barely lasts overs."
     }
   },
   "chidhambaram-gautam-302208": {
@@ -22102,10 +21988,8 @@
     "uid": "s:200~a:51880",
     "suggestion": {
       "player_id": "chris-gayle-51880",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "The Universe Boss needs no introduction.",
-      "competitive_stat_description": "Batter with highest individual score in a T20 innings",
-      "competitive_reason": "That 175 is a record for the ages."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "The Universe Boss doesn't even recognize your player's existence."
     }
   },
   "chris-green-787073": {
@@ -22246,10 +22130,8 @@
     "uid": "s:200~a:787073",
     "suggestion": {
       "player_id": "chris-green-787073",
-      "casual_stat_description": "Bowler with most wickets in T20 cricket",
-      "casual_reason": "The ultimate T20 specialist for hire.",
-      "competitive_stat_description": "Bowler with best economy rate in the Powerplay in T20 matches",
-      "competitive_reason": "Hard to hit and even harder to score."
+      "stat_description": "Bowler with economy rate in IPL (min 10 overs)",
+      "reason": "He's tighter with runs than a locked vault."
     }
   },
   "chris-hurley-1273859": {
@@ -22467,10 +22349,8 @@
     "uid": "s:200~a:288992",
     "suggestion": {
       "player_id": "chris-jordan-288992",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The death overs specialist with the golden arm.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in a T20 innings",
-      "competitive_reason": "Cool under pressure when the game is tight."
+      "stat_description": "Fielder with No. of catches in T20Is",
+      "reason": "He catches everything, unlike your player's failing career."
     }
   },
   "chris-lynn-326637": {
@@ -22665,10 +22545,8 @@
     "uid": "s:200~a:326637",
     "suggestion": {
       "player_id": "chris-lynn-326637",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Pure power hitter. He clears the ropes easily.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Fast and furious, he destroys the bowling attack."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them into orbit while you play defense."
     }
   },
   "chris-morris-439952": {
@@ -22818,10 +22696,8 @@
     "uid": "s:200~a:439952",
     "suggestion": {
       "player_id": "chris-morris-439952",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "The ultimate death overs specialist. Wickets galore!",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings as a finisher",
-      "competitive_reason": "Clutch hitting at the end. Pure gold."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The most expensive player for a reason. Pure class."
     }
   },
   "chris-woakes-247235": {
@@ -22995,10 +22871,8 @@
     "uid": "s:200~a:247235",
     "suggestion": {
       "player_id": "chris-woakes-247235",
-      "casual_stat_description": "Bowler with most wickets in a Test match",
-      "casual_reason": "A master of swing and seam movement.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL innings",
-      "competitive_reason": "Early breakthroughs are his specialty. Watch him go."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "A master of swing. Your batter is already walking."
     }
   },
   "clint-mckay-6903": {
@@ -23276,10 +23150,8 @@
     "uid": "s:200~a:55395",
     "suggestion": {
       "player_id": "colin-de-grandhomme-55395",
-      "casual_stat_description": "Batter with most runs in a Test innings",
-      "casual_reason": "Big man, big hits, and solid runs.",
-      "competitive_stat_description": "Batter with highest strike rate in a Test innings",
-      "competitive_reason": "He plays Test cricket like it is T20."
+      "stat_description": "Batter with strike rate in Tests (min 1000 runs)",
+      "reason": "He scores faster than your player can even blink."
     }
   },
   "colin-ingram-45705": {
@@ -23915,10 +23787,8 @@
     "uid": "s:200~a:277662",
     "suggestion": {
       "player_id": "corey-anderson-277662",
-      "casual_stat_description": "Batter with fastest century in an ODI innings",
-      "casual_reason": "A world record holder. Absolute carnage!",
-      "competitive_stat_description": "Batter with most sixes in an ODI innings",
-      "competitive_reason": "When he hits them, they stay hit."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "He broke the world record. You are just a footnote."
     }
   },
   "d-arcy-short-308798": {
@@ -24205,10 +24075,8 @@
     "uid": "s:200~a:47492",
     "suggestion": {
       "player_id": "dale-steyn-47492",
-      "casual_stat_description": "Bowler with most wickets in Test cricket",
-      "casual_reason": "The greatest fast bowler of his generation.",
-      "competitive_stat_description": "Bowler with best strike rate in Test innings",
-      "competitive_reason": "He takes wickets faster than anyone else."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "The Phalaborwa Express will leave your stumps in ruins."
     }
   },
   "damien-martyn-6513": {
@@ -24483,10 +24351,8 @@
     "uid": "s:200~a:4864",
     "suggestion": {
       "player_id": "dan-christian-4864",
-      "casual_stat_description": "Allrounder with most wickets in T20 matches",
-      "casual_reason": "A veteran who knows how to win.",
-      "competitive_stat_description": "Batter with most sixes in a T20 innings at number seven",
-      "competitive_reason": "The ultimate utility player for any situation."
+      "stat_description": "Fielder with No. of catches in T20Is",
+      "reason": "Safe hands while your player drops everything but weight."
     }
   },
   "daniel-harris-5583": {
@@ -24850,10 +24716,8 @@
     "uid": "s:200~a:38710",
     "suggestion": {
       "player_id": "daniel-vettori-38710",
-      "casual_stat_description": "Bowler with most wickets in ODI cricket",
-      "casual_reason": "The spin wizard with incredible control.",
-      "competitive_stat_description": "Allrounder with most runs and wickets in Test cricket",
-      "competitive_reason": "A true legend of the game's longest format."
+      "stat_description": "Bowler with economy rate in ODIs (min 100 overs)",
+      "reason": "He is tighter than a locked vault. No runs here."
     }
   },
   "daren-sammy-53115": {
@@ -25006,10 +24870,8 @@
     "uid": "s:200~a:53115",
     "suggestion": {
       "player_id": "daren-sammy-53115",
-      "casual_stat_description": "Batter with most sixes in T20 Internationals",
-      "casual_reason": "The captain who leads with massive hits.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 World Cup match",
-      "competitive_reason": "Pressure doesn't bother this champion at all."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "Two-time World Champ power. Your guy is a spectator."
     }
   },
   "darren-bravo-277472": {
@@ -25784,10 +25646,8 @@
     "uid": "s:200~a:5766",
     "suggestion": {
       "player_id": "david-hussey-5766",
-      "casual_stat_description": "Batter with most runs in T20 cricket",
-      "casual_reason": "A pioneer of the shortest format.",
-      "competitive_stat_description": "Batter with most fifties in T20 innings as a middle order batter",
-      "competitive_reason": "Consistency is his middle name in T20s."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "A T20 pioneer. Your player is still in preschool."
     }
   },
   "david-miller-321777": {
@@ -25985,10 +25845,8 @@
     "uid": "s:200~a:321777",
     "suggestion": {
       "player_id": "david-miller-321777",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Killer Miller is a certified boundary machine.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a middle-order batter",
-      "competitive_reason": "Finishing games is an art he mastered."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Killer Miller hits them into the next zip code."
     }
   },
   "david-warner-219889": {
@@ -26180,10 +26038,8 @@
     "uid": "s:200~a:219889",
     "suggestion": {
       "player_id": "david-warner-219889",
-      "casual_stat_description": "Batter with most fifties in IPL",
-      "casual_reason": "Consistency is his middle name. Pure class.",
-      "competitive_stat_description": "Batter with most runs in IPL as an opener",
-      "competitive_reason": "The ultimate powerhouse at the top order."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "He scores half-centuries while your player is still blinking."
     }
   },
   "david-wiese-221140": {
@@ -26869,10 +26725,8 @@
     "uid": "s:200~a:328163",
     "suggestion": {
       "player_id": "debabrata-das-328163",
-      "casual_stat_description": "Batter with most matches played in IPL",
-      "casual_reason": "A familiar face from the early days.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "He could swing it when needed most."
+      "stat_description": "Batter with strike rate in IPL (min 200 runs)",
+      "reason": "A cameo king who makes your anchor look glacial."
     }
   },
   "deepak-chahar-447261": {
@@ -26992,10 +26846,8 @@
     "uid": "s:200~a:447261",
     "suggestion": {
       "player_id": "deepak-chahar-447261",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Swing king making early breakthroughs easily.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "Nobody owns the new ball like him."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "He swings it more than your player swings a bat."
     }
   },
   "deepak-chougule-27651": {
@@ -27216,10 +27068,8 @@
     "uid": "s:200~a:497121",
     "suggestion": {
       "player_id": "deepak-hooda-497121",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Solid all-rounder with a heavy bat.",
-      "competitive_stat_description": "Batter with most centuries in T20 Internationals",
-      "competitive_reason": "Elite company in the hundred club."
+      "stat_description": "Batter with No. of centuries in T20Is",
+      "reason": "A rare T20 ton. Your player can only dream."
     }
   },
   "deepak-punia-807791": {
@@ -27440,10 +27290,8 @@
     "uid": "s:200~a:1119026",
     "suggestion": {
       "player_id": "devdutt-padikkal-1119026",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The young stylish southpaw is special.",
-      "competitive_stat_description": "Batter with most centuries in an IPL innings as opener",
-      "competitive_reason": "Pure elegance and big scores combined."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "Pure class. He finds gaps you didn't know existed."
     }
   },
   "devon-conway-379140": {
@@ -27581,10 +27429,8 @@
     "uid": "s:200~a:379140",
     "suggestion": {
       "player_id": "devon-conway-379140",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "The Kiwi run-machine is super reliable.",
-      "competitive_stat_description": "Batter with highest batting average in IPL",
-      "competitive_reason": "Hard to get out, harder to stop."
+      "stat_description": "Batter with batting average in Tests (min 10 matches)",
+      "reason": "Consistency is a foreign concept to your chosen player."
     }
   },
   "devraj-patil-32389": {
@@ -27946,10 +27792,8 @@
     "uid": "s:200~a:277955",
     "suggestion": {
       "player_id": "dhawal-kulkarni-277955",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A veteran who knows every trick.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "When he finds rhythm, he is lethal."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A domestic legend who actually knows how to bowl."
     }
   },
   "dheeraj-jadhav-29637": {
@@ -28156,10 +28000,8 @@
     "uid": "s:200~a:1175488",
     "suggestion": {
       "player_id": "dhruv-jurel-1175488",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "The new kid on the block.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings as a finisher",
-      "competitive_reason": "Ice in his veins during chases."
+      "stat_description": "Wicketkeeper with No. of catches in Tests",
+      "reason": "Safe hands. Your player couldn't catch a cold."
     }
   },
   "dhruv-shorey-590327": {
@@ -29159,10 +29001,8 @@
     "uid": "s:200~a:30045",
     "suggestion": {
       "player_id": "dinesh-karthik-30045",
-      "casual_stat_description": "Batter with most matches played in IPL",
-      "casual_reason": "The ultimate survivor of the league.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a lower-order batter",
-      "competitive_reason": "The specialist finisher who never quits."
+      "stat_description": "Batter with strike rate in IPL (min 1000 runs)",
+      "reason": "The ultimate finisher. Your guy is just a starter."
     }
   },
   "dinesh-salunkhe-278482": {
@@ -29383,10 +29223,8 @@
     "uid": "s:200~a:6981",
     "suggestion": {
       "player_id": "dirk-nannes-6981",
-      "casual_stat_description": "Bowler with most wickets in T20 matches",
-      "casual_reason": "A true pioneer of the T20 format.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in T20 innings",
-      "competitive_reason": "He strikes early when the pressure is highest."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "Pure pace that leaves your batter's stumps in ruins."
     }
   },
   "dishant-yagnik-36071": {
@@ -29468,10 +29306,8 @@
     "uid": "s:200~a:36071",
     "suggestion": {
       "player_id": "dishant-yagnik-36071",
-      "casual_stat_description": "Batter with most runs in IPL as a wicketkeeper",
-      "casual_reason": "Solid contributor behind the stumps and with bat.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Quick fire cameos are his specialty."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "He catches everything while your player drops the game."
     }
   },
   "doddapaneni-kalyankrishna-30719": {
@@ -30089,10 +29925,8 @@
     "uid": "s:200~a:4508",
     "suggestion": {
       "player_id": "doug-bollinger-4508",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The left-arm pace that everyone feared.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL match",
-      "competitive_reason": "Hard to score against, even harder to hit."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "He's tighter than your budget on a Friday night."
     }
   },
   "doug-bracewell-362541": {
@@ -30721,10 +30555,8 @@
     "uid": "s:200~a:237701",
     "suggestion": {
       "player_id": "dwaraka-ravi-teja-237701",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A reliable name in the early league days.",
-      "competitive_stat_description": "Batter with most catches as a fielder in an IPL match",
-      "competitive_reason": "Safe hands in the deep, never misses."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "Finding gaps is easy when the bowling is this mid."
     }
   },
   "dwayne-bravo-51439": {
@@ -30958,10 +30790,8 @@
     "uid": "s:200~a:51439",
     "suggestion": {
       "player_id": "dwayne-bravo-51439",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The ultimate champion of the death overs.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "competitive_reason": "Nobody handles the pressure better than him."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The ultimate champion. Your player is just a spectator."
     }
   },
   "dwayne-smith-53118": {
@@ -31114,10 +30944,8 @@
     "uid": "s:200~a:53118",
     "suggestion": {
       "player_id": "dwayne-smith-53118",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Pure Caribbean power at its finest.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as opener",
-      "competitive_reason": "Setting the tone right from ball one."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them out of the stadium, unlike your guy."
     }
   },
   "eklak-ahmid-269174": {
@@ -31449,10 +31277,8 @@
     "uid": "s:200~a:24598",
     "suggestion": {
       "player_id": "eoin-morgan-24598",
-      "casual_stat_description": "Batter with most sixes in an ODI innings",
-      "casual_reason": "World class captain and a brutal hitter.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a middle order batter",
-      "competitive_reason": "The ultimate finisher in the middle overs."
+      "stat_description": "Batter with No. of centuries in ODIs",
+      "reason": "A captain's knock that your player can only dream of."
     }
   },
   "eshan-malinga-1306214": {
@@ -31734,10 +31560,8 @@
     "uid": "s:200~a:431901",
     "suggestion": {
       "player_id": "evin-lewis-431901",
-      "casual_stat_description": "Batter with most centuries in T20 Internationals",
-      "casual_reason": "When he hits them, they stay hit.",
-      "competitive_stat_description": "Batter with most sixes in a T20 International innings",
-      "competitive_reason": "A boundary machine in the shortest format."
+      "stat_description": "Batter with Highest score in an innings in T20Is",
+      "reason": "One innings from him outscores your player's entire month."
     }
   },
   "fabian-allen-670013": {
@@ -32126,10 +31950,8 @@
     "uid": "s:200~a:44828",
     "suggestion": {
       "player_id": "faf-du-plessis-44828",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "Consistency is his middle name.",
-      "competitive_stat_description": "Batter with most fifties in IPL as an opener",
-      "competitive_reason": "The definition of a reliable top-order anchor."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "Consistency is a talent your player clearly lacks."
     }
   },
   "faiz-fazal-28671": {
@@ -33469,10 +33291,8 @@
     "uid": "s:200~a:28763",
     "suggestion": {
       "player_id": "gautam-gambhir-28763",
-      "casual_stat_description": "Batter with most fifties in IPL",
-      "casual_reason": "The man for the big occasions.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as captain",
-      "competitive_reason": "Leading from the front with the bat."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "He delivers in finals while your player just watches."
     }
   },
   "george-bailey-4451": {
@@ -33616,10 +33436,8 @@
     "uid": "s:200~a:4451",
     "suggestion": {
       "player_id": "george-bailey-4451",
-      "casual_stat_description": "Batter with most runs in an ODI series",
-      "casual_reason": "Always playing with a smile and runs.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a middle order batter",
-      "competitive_reason": "Cool under pressure in the death overs."
+      "stat_description": "Batter with strike rate in ODIs (min 1000 runs)",
+      "reason": "He scores faster than your player can even blink."
     }
   },
   "george-garton-643433": {
@@ -34040,10 +33858,8 @@
     "uid": "s:200~a:325026",
     "suggestion": {
       "player_id": "glenn-maxwell-325026",
-      "casual_stat_description": "Batter with most sixes in a T20I innings",
-      "casual_reason": "Pure entertainment! He clears the ropes for fun.",
-      "competitive_stat_description": "Batter with highest strike rate in a World Cup innings",
-      "competitive_reason": "Absolute carnage when he gets going, right?"
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "He hits boundaries while your player is still blinking."
     }
   },
   "glenn-mcgrath-6565": {
@@ -34526,10 +34342,8 @@
     "uid": "s:200~a:47270",
     "suggestion": {
       "player_id": "graeme-smith-47270",
-      "casual_stat_description": "Batter with most runs as captain in Test matches",
-      "casual_reason": "The ultimate leader. Built for the long haul.",
-      "competitive_stat_description": "Batter with most centuries in the fourth innings of a Test",
-      "competitive_reason": "Clutch under pressure. A true fourth-innings specialist."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "A captain's knock that makes your player look amateur."
     }
   },
   "graham-napier-17991": {
@@ -35068,10 +34882,8 @@
     "uid": "s:200~a:537124",
     "suggestion": {
       "player_id": "gurkeerat-singh-mann-537124",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "Solid middle-order presence. Always reliable.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Sneaky power that catches the bowlers off guard."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "He finds gaps your player didn't even know existed."
     }
   },
   "gurnoor-brar-1287033": {
@@ -35465,10 +35277,8 @@
     "uid": "s:200~a:452044",
     "suggestion": {
       "player_id": "hanuma-vihari-452044",
-      "casual_stat_description": "Batter with most runs in a Test match",
-      "casual_reason": "Technically sound and tough to get out.",
-      "competitive_stat_description": "Batter with most balls faced in a Test innings",
-      "competitive_reason": "He can bat all day. Pure grit."
+      "stat_description": "Batter with No. of runs in Tests",
+      "reason": "Pure class and grit, unlike your flashy benchwarmer."
     }
   },
   "hardik-pandya-625371": {
@@ -35579,10 +35389,8 @@
     "uid": "s:200~a:625371",
     "suggestion": {
       "player_id": "hardik-pandya-625371",
-      "casual_stat_description": "Allrounder with most wickets in IPL",
-      "casual_reason": "The perfect balance. He does it all!",
-      "competitive_stat_description": "Batter with most sixes in the death overs of an IPL innings",
-      "competitive_reason": "Finishing games is his bread and butter."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "He clears the stadium; your guy barely clears the circle."
     }
   },
   "hardus-viljoen-375126": {
@@ -35966,10 +35774,8 @@
     "uid": "s:200~a:391128",
     "suggestion": {
       "player_id": "harmeet-singh-391128",
-      "casual_stat_description": "Bowler with most wickets in a domestic season",
-      "casual_reason": "Consistent wicket-taker. Keeps the pressure on.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 match",
-      "competitive_reason": "Hard to score off. He keeps it tight."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Taking wickets is a habit, not a fluke like yours."
     }
   },
   "harmeet-singh-422847": {
@@ -36116,10 +35922,8 @@
     "uid": "s:200~a:422847",
     "suggestion": {
       "player_id": "harmeet-singh-422847",
-      "casual_stat_description": "Bowler with most wickets in an Under-19 World Cup",
-      "casual_reason": "Early prodigy with a golden arm.",
-      "competitive_stat_description": "Bowler with most maidens in a T20 innings",
-      "competitive_reason": "Control is his middle name. Simply unplayable."
+      "stat_description": "Bowler with economy rate in T20Is (min 20 overs)",
+      "reason": "Stingier than a billionaire at a local charity auction."
     }
   },
   "harnoor-singh-1292496": {
@@ -36304,10 +36108,8 @@
     "uid": "s:200~a:1168641",
     "suggestion": {
       "player_id": "harpreet-brar-1168641",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "He loves the big stage. Giant killer!",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL innings",
-      "competitive_reason": "When he finds his rhythm, wickets tumble."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He hunts big fish while your player catches colds."
     }
   },
   "harpreet-singh-340854": {
@@ -36992,10 +36794,8 @@
     "uid": "s:200~a:390481",
     "suggestion": {
       "player_id": "harshal-patel-390481",
-      "casual_stat_description": "Bowler with most wickets in a single IPL season",
-      "casual_reason": "The Purple Cap king. Wickets in heaps!",
-      "competitive_stat_description": "Bowler with most wickets in the death overs of an IPL season",
-      "competitive_reason": "Master of the slower ball. Death over specialist."
+      "stat_description": "Bowler with No. of five-wicket hauls in IPL",
+      "reason": "Purple cap energy that your player can only dream of."
     }
   },
   "harshit-rana-1312645": {
@@ -37112,10 +36912,8 @@
     "uid": "s:200~a:1312645",
     "suggestion": {
       "player_id": "harshit-rana-1312645",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "Pure pace and aggression on display.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "Striking early is his specialty, watch out."
+      "stat_description": "Bowler with economy rate in IPL (min 10 overs)",
+      "reason": "He\u2019s tighter than your budget. Good luck scoring."
     }
   },
   "harvik-desai-1070195": {
@@ -37503,10 +37301,8 @@
     "uid": "s:200~a:436757",
     "suggestion": {
       "player_id": "heinrich-klaasen-436757",
-      "casual_stat_description": "Batter with most runs in an ODI innings",
-      "casual_reason": "Cleanest hitter in the game right now.",
-      "competitive_stat_description": "Batter with highest strike rate in a T20 innings as a middle-order batter",
-      "competitive_reason": "Spin or pace, he destroys them both."
+      "stat_description": "Wicketkeeper with No. of sixes in T20Is",
+      "reason": "He destroys attacks while your keeper just watches."
     }
   },
   "hemang-badani-26802": {
@@ -37739,10 +37535,8 @@
     "uid": "s:200~a:45224",
     "suggestion": {
       "player_id": "herschelle-gibbs-45224",
-      "casual_stat_description": "Batter with most sixes in an ODI innings",
-      "casual_reason": "Pure power hitting at its finest.",
-      "competitive_stat_description": "Batter with most runs in an ODI innings as opener",
-      "competitive_reason": "Setting the tone from ball one."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "He hits sixes for fun while you just watch."
     }
   },
   "himanshu-sharma-1350761": {
@@ -38368,10 +38162,8 @@
     "uid": "s:200~a:40618",
     "suggestion": {
       "player_id": "imran-tahir-40618",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The marathon celebration says it all!",
-      "competitive_stat_description": "Bowler with most wickets in a T20 match",
-      "competitive_reason": "Spinning webs around every single batter."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "His celebration run is longer than your player's career."
     }
   },
   "imtiaz-ahmed-340939": {
@@ -38568,10 +38360,8 @@
     "uid": "s:200~a:277237",
     "suggestion": {
       "player_id": "iqbal-abdulla-277237",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Solid domestic hero with great control.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "Tight lines that nobody can handle."
+      "stat_description": "Bowler with economy rate in IPL (min 20 overs)",
+      "reason": "He's tighter with runs than a locked vault."
     }
   },
   "iresh-saxena-327129": {
@@ -38786,10 +38576,8 @@
     "uid": "s:200~a:32685",
     "suggestion": {
       "player_id": "irfan-pathan-32685",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The swing king of the early days.",
-      "competitive_stat_description": "Bowler with most wickets in a Test match innings",
-      "competitive_reason": "That hat-trick energy is hard to beat."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "Swinging it past your batter before they even blink."
     }
   },
   "ish-sodhi-559066": {
@@ -39087,10 +38875,8 @@
     "uid": "s:200~a:720471",
     "suggestion": {
       "player_id": "ishan-kishan-720471",
-      "casual_stat_description": "Batter with most runs in an ODI innings",
-      "casual_reason": "Double century vibes for the pocket dynamo.",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings",
-      "competitive_reason": "Small frame, but massive hitting power."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "A double century? Your player can't even dream that."
     }
   },
   "ishan-malhotra-31088": {
@@ -39522,10 +39308,8 @@
     "uid": "s:200~a:236779",
     "suggestion": {
       "player_id": "ishant-sharma-236779",
-      "casual_stat_description": "Bowler with most wickets in Test matches",
-      "casual_reason": "A true workhorse of the long format.",
-      "competitive_stat_description": "Bowler with most wickets in a Test innings as a pacer",
-      "competitive_reason": "Tall, fast, and absolutely relentless."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "A decade of dominance while your guy is bench-warming."
     }
   },
   "ishwar-pandey-447439": {
@@ -39621,10 +39405,8 @@
     "uid": "s:200~a:447439",
     "suggestion": {
       "player_id": "ishwar-pandey-447439",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Reliable medium pace for any captain.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL match",
-      "competitive_reason": "When he finds his rhythm, he's lethal."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Domestic king, making your international stars look like amateurs."
     }
   },
   "isuru-udana-328026": {
@@ -40248,10 +40030,8 @@
     "uid": "s:200~a:45789",
     "suggestion": {
       "player_id": "jacques-kallis-45789",
-      "casual_stat_description": "Batter with most runs in Test matches",
-      "casual_reason": "The greatest all-rounder to ever play.",
-      "competitive_stat_description": "Batter with most fifties in Test innings",
-      "competitive_reason": "Consistency is his middle name."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "The GOAT. Your player isn't even in the conversation."
     }
   },
   "jagadeesh-arunkumar-26291": {
@@ -40436,10 +40216,8 @@
     "uid": "s:200~a:527663",
     "suggestion": {
       "player_id": "jagadeesha-suchith-527663",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A handy spinner for the middle overs.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 innings",
-      "competitive_reason": "Keeping it quiet when the pressure is on."
+      "stat_description": "Fielder with No. of catches in IPL",
+      "reason": "Safe hands. Your player couldn't catch a cold."
     }
   },
   "jake-fraser-mcgurk-1168049": {
@@ -40897,10 +40675,8 @@
     "uid": "s:200~a:270484",
     "suggestion": {
       "player_id": "james-faulkner-270484",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "The ultimate finisher with the ball.",
-      "competitive_stat_description": "Bowler with most five-wicket hauls in IPL matches",
-      "competitive_reason": "Clutch performer in the shortest format."
+      "stat_description": "Bowler with No. of five-wicket hauls in ODIs",
+      "reason": "The finisher who actually finishes your entire batting lineup."
     }
   },
   "james-franklin-37004": {
@@ -41148,10 +40924,8 @@
     "uid": "s:200~a:5702",
     "suggestion": {
       "player_id": "james-hopes-5702",
-      "casual_stat_description": "Allrounder with most runs in an IPL match",
-      "casual_reason": "A classic utility man who delivered.",
-      "competitive_stat_description": "Batter with most fours in an IPL innings as opener",
-      "competitive_reason": "He loved finding the gaps early on."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "A cult hero who hits boundaries while you sleep."
     }
   },
   "james-neesham-355269": {
@@ -42156,10 +41930,8 @@
     "uid": "s:200~a:391485",
     "suggestion": {
       "player_id": "jason-holder-391485",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The tall man always finds the breakthrough.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "Height and bounce make him a nightmare."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "He towers over your player's pathetic career stats."
     }
   },
   "jason-roy-298438": {
@@ -42343,10 +42115,8 @@
     "uid": "s:200~a:298438",
     "suggestion": {
       "player_id": "jason-roy-298438",
-      "casual_stat_description": "Batter with most runs in an ODI innings",
-      "casual_reason": "Pure aggression at the top of the order.",
-      "competitive_stat_description": "Batter with most sixes in an ODI innings",
-      "competitive_reason": "When he gets going, the ball stays hit."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "He destroys attacks; your guy just survives them."
     }
   },
   "jasprit-bumrah-625383": {
@@ -42466,10 +42236,8 @@
     "uid": "s:200~a:625383",
     "suggestion": {
       "player_id": "jasprit-bumrah-625383",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The gold standard of modern fast bowling.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL match",
-      "competitive_reason": "Unplayable at the start and the end."
+      "stat_description": "Bowler with economy rate in T20Is (min 50 overs)",
+      "reason": "Good luck scoring; he is a human brick wall."
     }
   },
   "jatin-saxena-34349": {
@@ -43106,10 +42874,8 @@
     "uid": "s:200~a:390484",
     "suggestion": {
       "player_id": "jaydev-unadkat-390484",
-      "casual_stat_description": "Bowler with most five-wicket hauls in IPL",
-      "casual_reason": "He has a knack for taking bundles.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings as a left-arm seamer",
-      "competitive_reason": "Left-arm angles that batters just can't read."
+      "stat_description": "Bowler with No. of five-wicket hauls in IPL",
+      "reason": "He owns the IPL while your player watches."
     }
   },
   "jean-paul-duminy-44932": {
@@ -43250,10 +43016,8 @@
     "uid": "s:200~a:44932",
     "suggestion": {
       "player_id": "jean-paul-duminy-44932",
-      "casual_stat_description": "Batter with most runs in T20 Internationals",
-      "casual_reason": "A reliable veteran with class.",
-      "competitive_stat_description": "Batter with most fifties in T20 Internationals as a middle-order batter",
-      "competitive_reason": "The backbone of the middle order."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "Pure class. He scores runs while your guy struggles to guard."
     }
   },
   "jeevan-mendis-49700": {
@@ -43656,10 +43420,8 @@
     "uid": "s:200~a:38373",
     "suggestion": {
       "player_id": "jesse-ryder-38373",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "A heavy hitter who cleared the ropes.",
-      "competitive_stat_description": "Batter with most fifties in an IPL match as an opener",
-      "competitive_reason": "Pure natural talent at the crease."
+      "stat_description": "Batter with strike rate in ODIs (min 1000 runs)",
+      "reason": "Pure power. Your player's strike rate is a joke."
     }
   },
   "jhathavedh-subramanyan-919531": {
@@ -44044,10 +43806,8 @@
     "uid": "s:200~a:721867",
     "suggestion": {
       "player_id": "jitesh-sharma-721867",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "The new-age finisher with serious power.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "He doesn't waste any time, does he?"
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "Safe hands. Your player couldn't catch a cold."
     }
   },
   "joe-denly-12454": {
@@ -44801,10 +44561,8 @@
     "uid": "s:200~a:44149",
     "suggestion": {
       "player_id": "johan-botha-44149",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The ultimate tactical spinner for any side.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL match as a spinner",
-      "competitive_reason": "Smart, subtle, and always in the game."
+      "stat_description": "Bowler with economy rate in IPL (min 30 overs)",
+      "reason": "Stingier than a billionaire. You can't buy runs here."
     }
   },
   "johan-van-der-wath-47693": {
@@ -45470,10 +45228,8 @@
     "uid": "s:200~a:297433",
     "suggestion": {
       "player_id": "jonny-bairstow-297433",
-      "casual_stat_description": "Batter with most centuries in IPL",
-      "casual_reason": "A run machine when he finds rhythm.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as opener",
-      "competitive_reason": "Destructive power from the very first ball."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "Elite pedigree. Your player is strictly second division."
     }
   },
   "jos-buttler-308967": {
@@ -45645,10 +45401,8 @@
     "uid": "s:200~a:308967",
     "suggestion": {
       "player_id": "jos-buttler-308967",
-      "casual_stat_description": "Batter with most centuries in an IPL season",
-      "casual_reason": "Simply the best white-ball batter around.",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings as opener",
-      "competitive_reason": "He makes world-class bowling look like practice."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He clears the stadium; your guy clears the infield."
     }
   },
   "josh-hazlewood-288284": {
@@ -45810,10 +45564,8 @@
     "uid": "s:200~a:288284",
     "suggestion": {
       "player_id": "josh-hazlewood-288284",
-      "casual_stat_description": "Bowler with most wickets in Test matches",
-      "casual_reason": "Pure line and length. A total machine!",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "He owns the new ball. Good luck scoring."
+      "stat_description": "Bowler with economy rate in T20Is (min 50 overs)",
+      "reason": "He is tighter than your player's defense will ever be."
     }
   },
   "josh-inglis-662235": {
@@ -46679,10 +46431,8 @@
     "uid": "s:200~a:550215",
     "suggestion": {
       "player_id": "kagiso-rabada-550215",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Speed kills, and he has plenty of it.",
-      "competitive_stat_description": "Bowler with best strike rate in IPL innings",
-      "competitive_reason": "He takes wickets faster than anyone else."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A pure pace merchant who collects wickets for fun."
     }
   },
   "kamindu-mendis-784373": {
@@ -47517,10 +47267,8 @@
     "uid": "s:200~a:277906",
     "suggestion": {
       "player_id": "kane-williamson-277906",
-      "casual_stat_description": "Batter with most runs in Test matches",
-      "casual_reason": "The ultimate gentleman and a run machine.",
-      "competitive_stat_description": "Batter with most fifties in a single IPL season",
-      "competitive_reason": "Consistency is his middle name. Pure class."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "Class is permanent, unlike your player's spot in the team."
     }
   },
   "kanishk-seth-849737": {
@@ -47708,10 +47456,8 @@
     "uid": "s:200~a:28997",
     "suggestion": {
       "player_id": "karan-goel-28997",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "An early IPL regular. Remember the name?",
-      "competitive_stat_description": "Batter with most catches in an IPL match",
-      "competitive_reason": "Safe hands in the field. Never drops them."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He actually has IPL runs, unlike your benchwarmer."
     }
   },
   "karan-sharma-1246518": {
@@ -48164,10 +47910,8 @@
     "uid": "s:200~a:30288",
     "suggestion": {
       "player_id": "karn-sharma-30288",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The lucky charm with a golden arm.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL final match",
-      "competitive_reason": "Big game player. He delivers under pressure."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The lucky charm with more trophies than your entire squad."
     }
   },
   "kartik-tyagi-1122918": {
@@ -48424,10 +48168,8 @@
     "uid": "s:200~a:398439",
     "suggestion": {
       "player_id": "karun-nair-398439",
-      "casual_stat_description": "Batter with most runs in Test matches",
-      "casual_reason": "Member of the elite triple-century club!",
-      "competitive_stat_description": "Batter with most runs in a Test innings number 1",
-      "competitive_reason": "Once he starts, he just doesn't stop."
+      "stat_description": "Batter with Highest score in an innings in Tests",
+      "reason": "Triple century club. Your player can't even reach double digits."
     }
   },
   "kc-cariappa-777537": {
@@ -48732,10 +48474,8 @@
     "uid": "s:200~a:290716",
     "suggestion": {
       "player_id": "kedar-jadhav-290716",
-      "casual_stat_description": "Batter with most runs in ODIs",
-      "casual_reason": "That side-arm action is just legendary.",
-      "competitive_stat_description": "Batter with most runs in the death overs in IPL",
-      "competitive_reason": "He finds the gaps when it matters."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "He wins games while your player just watches from mid-on."
     }
   },
   "keemo-paul-677081": {
@@ -49150,10 +48890,8 @@
     "uid": "s:200~a:19296",
     "suggestion": {
       "player_id": "kevin-pietersen-19296",
-      "casual_stat_description": "Batter with most runs in T20Is",
-      "casual_reason": "The original switch-hit master. Pure entertainment.",
-      "competitive_stat_description": "Batter with most centuries in Test innings number 2",
-      "competitive_reason": "A genius who dominated every single format."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "The original switch-hit king makes your player look amateur."
     }
   },
   "kevon-cooper-371814": {
@@ -49252,10 +48990,8 @@
     "uid": "s:200~a:371814",
     "suggestion": {
       "player_id": "kevon-cooper-371814",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The mystery man from the Caribbean.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "competitive_reason": "His variations are impossible to pick late."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A T20 specialist who actually knows how to bowl."
     }
   },
   "khaleel-ahmed-942645": {
@@ -49390,10 +49126,8 @@
     "uid": "s:200~a:942645",
     "suggestion": {
       "player_id": "khaleel-ahmed-942645",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Left-arm pace is always a huge threat.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "Swinging it early is his specialty."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Left-arm heat that will leave your batter clueless."
     }
   },
   "kieron-pollard-230559": {
@@ -49600,10 +49334,8 @@
     "uid": "s:200~a:230559",
     "suggestion": {
       "player_id": "kieron-pollard-230559",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Pure muscle power. Nobody clears the ropes better.",
-      "competitive_stat_description": "Most catches by a non-wicketkeeper in IPL",
-      "competitive_reason": "Safe hands and big hits. A true legend."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them into orbit while you hit the dirt."
     }
   },
   "kishore-kamath-919241": {
@@ -49870,10 +49602,8 @@
     "uid": "s:200~a:422108",
     "suggestion": {
       "player_id": "kl-rahul-422108",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "Consistency is his middle name. Run machine!",
-      "competitive_stat_description": "Fastest fifty by a batter in IPL",
-      "competitive_reason": "Pure class and speed. He owns the clock."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "Consistency is a concept your player clearly hasn't met."
     }
   },
   "km-asif-1083030": {
@@ -50450,10 +50180,8 @@
     "uid": "s:200~a:424377",
     "suggestion": {
       "player_id": "krishnappa-gowtham-424377",
-      "casual_stat_description": "Bowler with most wickets in a domestic T20 match",
-      "casual_reason": "A handy spinner who can really turn games.",
-      "competitive_stat_description": "Highest strike rate for a batter in an IPL innings",
-      "competitive_reason": "He swings hard and finds the boundary fast."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "He scores faster than your player can even blink."
     }
   },
   "krunal-pandya-471342": {
@@ -50576,10 +50304,8 @@
     "uid": "s:200~a:471342",
     "suggestion": {
       "player_id": "krunal-pandya-471342",
-      "casual_stat_description": "Allrounder with most wickets in IPL",
-      "casual_reason": "The elder brother always delivers under pressure.",
-      "competitive_stat_description": "Most economical spell by a bowler in an IPL final",
-      "competitive_reason": "Big match player. He keeps it tight."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "Stingier than a billionaire at a local charity auction."
     }
   },
   "kshitiz-sharma-625380": {
@@ -50969,10 +50695,8 @@
     "uid": "s:200~a:559235",
     "suggestion": {
       "player_id": "kuldeep-yadav-559235",
-      "casual_stat_description": "Bowler with most hat-tricks in ODIs",
-      "casual_reason": "Magic fingers! He picks wickets in clusters.",
-      "competitive_stat_description": "Most wickets by a left-arm wrist-spinner in IPL",
-      "competitive_reason": "Unique and lethal. They can't read him."
+      "stat_description": "Bowler with No. of four-wicket hauls in ODIs",
+      "reason": "Spinning webs that your batter will never escape from."
     }
   },
   "kuldip-yadav-1206495": {
@@ -51484,10 +51208,8 @@
     "uid": "s:200~a:50710",
     "suggestion": {
       "player_id": "kumar-sangakkara-50710",
-      "casual_stat_description": "Batter with most runs in Test cricket",
-      "casual_reason": "Elegant left-hander. A true master of the game.",
-      "competitive_stat_description": "Most consecutive centuries by a batter in ODIs",
-      "competitive_reason": "Unstoppable momentum. He was in the zone."
+      "stat_description": "Wicketkeeper with No. of dismissals in Tests",
+      "reason": "Pure class behind the stumps, unlike your clumsy amateur."
     }
   },
   "kunal-singh-rathore-1339031": {
@@ -52734,10 +52456,8 @@
     "uid": "s:200~a:26829",
     "suggestion": {
       "player_id": "lakshmipathy-balaji-26829",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "That famous smile and those deadly slower balls.",
-      "competitive_stat_description": "First bowler to take a hat-trick in IPL",
-      "competitive_reason": "A pioneer of the game. History maker."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "That smile hides a lethal wicket-taking machine."
     }
   },
   "lalit-yadav-930189": {
@@ -52824,10 +52544,8 @@
     "uid": "s:200~a:930189",
     "suggestion": {
       "player_id": "lalit-yadav-930189",
-      "casual_stat_description": "Allrounder with most runs in a domestic T20 season",
-      "casual_reason": "Reliable middle-order man. Always chips in.",
-      "competitive_stat_description": "Best bowling economy in an IPL innings",
-      "competitive_reason": "Hard to get away. He bowls smart."
+      "stat_description": "Bowler with economy rate in IPL (min 20 overs)",
+      "reason": "Keeping it tight while your guy leaks like a faucet."
     }
   },
   "lasith-malinga-49758": {
@@ -53001,10 +52719,8 @@
     "uid": "s:200~a:49758",
     "suggestion": {
       "player_id": "lasith-malinga-49758",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The king of yorkers. Simply the best.",
-      "competitive_stat_description": "Most wickets by a bowler in consecutive balls in ODIs",
-      "competitive_reason": "Four in four? Only the GOAT does that."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The king of yorkers makes your player look like a toddler."
     }
   },
   "laxmi-shukla-34019": {
@@ -53100,10 +52816,8 @@
     "uid": "s:200~a:34019",
     "suggestion": {
       "player_id": "laxmi-shukla-34019",
-      "casual_stat_description": "Allrounder with most runs in domestic cricket",
-      "casual_reason": "A domestic giant who knows how to win.",
-      "competitive_stat_description": "Most wickets by a medium pacer in a domestic T20 match",
-      "competitive_reason": "Old school grit. He gets the job done."
+      "stat_description": "Allrounder with No. of wickets in IPL",
+      "reason": "A domestic legend who actually knows how to contribute."
     }
   },
   "lee-carseldine-4541": {
@@ -53372,10 +53086,8 @@
     "uid": "s:200~a:53116",
     "suggestion": {
       "player_id": "lendl-simmons-53116",
-      "casual_stat_description": "Batter with most runs in T20 World Cup matches",
-      "casual_reason": "A Caribbean legend who loves the big stage.",
-      "competitive_stat_description": "Batter with most fifties in T20 World Cup knockout matches",
-      "competitive_reason": "He always delivers when the pressure is highest."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "He carries teams while your guy just carries the drinks."
     }
   },
   "lhuan-dre-pretorius-1385640": {
@@ -53641,10 +53353,8 @@
     "uid": "s:200~a:403902",
     "suggestion": {
       "player_id": "liam-livingstone-403902",
-      "casual_stat_description": "Batter with most sixes in a T20 International innings",
-      "casual_reason": "Pure power. He clears every boundary easily.",
-      "competitive_stat_description": "Batter with highest strike rate in a T20 International innings",
-      "competitive_reason": "Absolute carnage from the first ball he faces."
+      "stat_description": "Batter with strike rate in T20Is (min 20 innings)",
+      "reason": "He hits them harder than your player hits the gym."
     }
   },
   "liam-plunkett-19264": {
@@ -54241,10 +53951,8 @@
     "uid": "s:200~a:493773",
     "suggestion": {
       "player_id": "lockie-ferguson-493773",
-      "casual_stat_description": "Bowler with most wickets in a T20 International match",
-      "casual_reason": "Genuine pace that leaves batters totally clueless.",
-      "competitive_stat_description": "Bowler with most maiden overs in a T20 International match",
-      "competitive_reason": "Speed and precision combined for total dominance."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Pure pace that makes your batter's knees tremble uncontrollably."
     }
   },
   "loots-bosman-44098": {
@@ -55423,10 +55131,8 @@
     "uid": "s:200~a:1138316",
     "suggestion": {
       "player_id": "maheesh-theekshana-1138316",
-      "casual_stat_description": "Bowler with most wickets in T20 Internationals",
-      "casual_reason": "That carrom ball is a nightmare.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in T20 Internationals",
-      "competitive_reason": "He shuts down the openers instantly."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "Mystery spin that makes your lineup look like amateurs."
     }
   },
   "mahela-jayawardene-49289": {
@@ -55570,10 +55276,8 @@
     "uid": "s:200~a:49289",
     "suggestion": {
       "player_id": "mahela-jayawardene-49289",
-      "casual_stat_description": "Batter with most runs in T20 World Cup history",
-      "casual_reason": "Class personified. A true master of the game.",
-      "competitive_stat_description": "Batter with most centuries in World Cup knockout matches",
-      "competitive_reason": "Big match temperament is simply in his DNA."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "Class is permanent, unlike your player's spot in the team."
     }
   },
   "mahesh-rawat-33440": {
@@ -55774,10 +55478,8 @@
     "uid": "s:200~a:853265",
     "suggestion": {
       "player_id": "mahipal-lomror-853265",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "A young talent with a very bright future.",
-      "competitive_stat_description": "Batter with highest strike rate in the death overs of an IPL innings",
-      "competitive_reason": "He finishes games with incredible power and poise."
+      "stat_description": "Batter with strike rate in IPL (min 200 runs)",
+      "reason": "A domestic powerhouse who would feast on your weak bowling."
     }
   },
   "makhaya-ntini-46592": {
@@ -56108,10 +55810,8 @@
     "uid": "s:200~a:532856",
     "suggestion": {
       "player_id": "manan-vohra-532856",
-      "casual_stat_description": "Batter with most runs in an IPL match as opener",
-      "casual_reason": "Stylish opener who makes batting look so easy.",
-      "competitive_stat_description": "Batter with most fours in an IPL innings as opener",
-      "competitive_reason": "Timing and placement are his greatest weapons."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "One big knock is more than your player's entire highlight reel."
     }
   },
   "manav-suthar-1175426": {
@@ -56344,10 +56044,8 @@
     "uid": "s:200~a:398506",
     "suggestion": {
       "player_id": "mandeep-singh-398506",
-      "casual_stat_description": "Batter with most runs in IPL career",
-      "casual_reason": "A consistent performer across many seasons.",
-      "competitive_stat_description": "Batter with most catches as a fielder in an IPL match",
-      "competitive_reason": "Safe hands and lightning quick in the field."
+      "stat_description": "Fielder with No. of catches in IPL",
+      "reason": "He actually catches things, unlike your butter-fingered amateur."
     }
   },
   "manimaran-siddharth-1151286": {
@@ -56610,10 +56308,8 @@
     "uid": "s:200~a:290630",
     "suggestion": {
       "player_id": "manish-pandey-290630",
-      "casual_stat_description": "First Indian batter to score a century in IPL",
-      "casual_reason": "A pioneer who made history very early on.",
-      "competitive_stat_description": "Batter with most runs in an IPL final innings",
-      "competitive_reason": "He knows exactly how to win the trophy."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "Consistency is a foreign concept to your bench-warmer."
     }
   },
   "manjot-kalra-1079842": {
@@ -56899,10 +56595,8 @@
     "uid": "s:200~a:317293",
     "suggestion": {
       "player_id": "manpreet-gony-317293",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "A heavy ball bowler who hits the deck.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay of an IPL match",
-      "competitive_reason": "He strikes early to put the opposition back."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "An OG wicket-taker who would dismantle your fragile lineup."
     }
   },
   "manprit-juneja-390480": {
@@ -57069,10 +56763,8 @@
     "uid": "s:200~a:1392186",
     "suggestion": {
       "player_id": "manvanth-kumar-1392186",
-      "casual_stat_description": "Allrounder with most wickets in a domestic T20 match",
-      "casual_reason": "A rising star with a very versatile skillset.",
-      "competitive_stat_description": "Bowler with best bowling figures in a domestic T20 innings",
-      "competitive_reason": "Watch out, this youngster is a wicket-taking machine."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "The future is here, and it\u2019s already better than your player."
     }
   },
   "manvinder-bisla-27280": {
@@ -57187,10 +56879,8 @@
     "uid": "s:200~a:27280",
     "suggestion": {
       "player_id": "manvinder-bisla-27280",
-      "casual_stat_description": "Batter with most runs in an IPL final",
-      "casual_reason": "Big game player. He owned that night!",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL final innings",
-      "competitive_reason": "Pure aggression when the trophy was on the line."
+      "stat_description": "Wicketkeeper with No. of stumpings in IPL",
+      "reason": "He's faster behind the stumps than your player's reflexes."
     }
   },
   "manzoor-dar-1080203": {
@@ -57557,10 +57247,8 @@
     "uid": "s:200~a:696401",
     "suggestion": {
       "player_id": "marco-jansen-696401",
-      "casual_stat_description": "Bowler with most wickets in the Powerplay in T20s",
-      "casual_reason": "Tall, fast, and lethal with the new ball.",
-      "competitive_stat_description": "Bowler with most wickets in a single ODI innings",
-      "competitive_reason": "A wicket-taking machine in the middle overs."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "Tall, fast, and lethal. Your batter is just target practice."
     }
   },
   "marcus-stoinis-325012": {
@@ -57758,10 +57446,8 @@
     "uid": "s:200~a:325012",
     "suggestion": {
       "player_id": "marcus-stoinis-325012",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Absolute muscle power. Nobody clears ropes better.",
-      "competitive_stat_description": "Batter with highest individual score in an IPL run chase",
-      "competitive_reason": "The ultimate finisher. He finishes games alone."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "The Hulk smashes scores your player can only dream of."
     }
   },
   "mark-boucher-44111": {
@@ -57887,10 +57573,8 @@
     "uid": "s:200~a:44111",
     "suggestion": {
       "player_id": "mark-boucher-44111",
-      "casual_stat_description": "Batter with most runs in Test cricket",
-      "casual_reason": "A legend who stayed at the crease forever.",
-      "competitive_stat_description": "Batter with most fifties in the second innings of Tests",
-      "competitive_reason": "Tough as nails when the pitch is crumbling."
+      "stat_description": "Wicketkeeper with No. of catches in Tests",
+      "reason": "The gold standard. He catches everything, unlike your butterfingers."
     }
   },
   "mark-wood-351588": {
@@ -58618,10 +58302,8 @@
     "uid": "s:200~a:1194795",
     "suggestion": {
       "player_id": "matheesha-pathirana-1194795",
-      "casual_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "casual_reason": "That slingy action is a nightmare for batters.",
-      "competitive_stat_description": "Bowler with most wickets in a single T20 innings",
-      "competitive_reason": "Unplayable at the end. Pure toe-crushing yorkers."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Baby Malinga's yorkers will leave your player's toes bruised."
     }
   },
   "matt-henry-506612": {
@@ -58986,10 +58668,8 @@
     "uid": "s:200~a:5616",
     "suggestion": {
       "player_id": "matthew-hayden-5616",
-      "casual_stat_description": "Batter with most runs in an ODI World Cup",
-      "casual_reason": "The Mongoose bat era was just unfair.",
-      "competitive_stat_description": "Batter with highest individual score in a Test innings",
-      "competitive_reason": "He bullied bowlers for days. A true giant."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "A literal giant who bullied bowlers for breakfast."
     }
   },
   "matthew-short-605575": {
@@ -59482,10 +59162,8 @@
     "uid": "s:200~a:398438",
     "suggestion": {
       "player_id": "mayank-agarwal-398438",
-      "casual_stat_description": "Batter with most centuries in Test cricket",
-      "casual_reason": "Classic technique. He loves the long format.",
-      "competitive_stat_description": "Batter with most double centuries in a Test series",
-      "competitive_reason": "Once he starts, he just doesn't stop scoring."
+      "stat_description": "Batter with No. of double centuries in Tests",
+      "reason": "He goes big while your player struggles to reach double digits."
     }
   },
   "mayank-dagar-942367": {
@@ -59712,10 +59390,8 @@
     "uid": "s:200~a:1081442",
     "suggestion": {
       "player_id": "mayank-markande-1081442",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "Spin king! He bamboozled the best batters.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL match",
-      "competitive_reason": "A magical spell that nobody could read."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "His googlies leave batters looking like confused tourists."
     }
   },
   "mayank-tehlan-35392": {
@@ -60417,10 +60093,8 @@
     "uid": "s:200~a:5939",
     "suggestion": {
       "player_id": "michael-hussey-5939",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "Mr. Consistent. He never seems to fail.",
-      "competitive_stat_description": "Batter with most fifties as an opener in T20s",
-      "competitive_reason": "The gold standard for reliability at the top."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "Mr. Cricket doesn't fail. Your player is a walking wicket."
     }
   },
   "michael-klinger-6161": {
@@ -60874,10 +60548,8 @@
     "uid": "s:200~a:451947",
     "suggestion": {
       "player_id": "milind-kumar-451947",
-      "casual_stat_description": "Batter with most runs in a domestic T20 tournament",
-      "casual_reason": "A local hero with a massive run tally.",
-      "competitive_stat_description": "Allrounder with most wickets and runs in a match",
-      "competitive_reason": "Doing it all. A true utility player."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "He\u2019s in the books. Your player is just a footnote."
     }
   },
   "milind-tandon-969381": {
@@ -61184,10 +60856,8 @@
     "uid": "s:200~a:6033",
     "suggestion": {
       "player_id": "mitchell-johnson-6033",
-      "casual_stat_description": "Bowler with most wickets in Test cricket",
-      "casual_reason": "Pure pace and intimidation. A total legend!",
-      "competitive_stat_description": "Bowler with most wickets in a single Test series",
-      "competitive_reason": "When he gets going, nobody survives the heat."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "He broke spirits while your player was still warming up."
     }
   },
   "mitchell-marsh-272450": {
@@ -61373,10 +61043,8 @@
     "uid": "s:200~a:272450",
     "suggestion": {
       "player_id": "mitchell-marsh-272450",
-      "casual_stat_description": "Batter with most runs in T20 Internationals",
-      "casual_reason": "Big hitting Mitch is always a threat!",
-      "competitive_stat_description": "Batter with most runs in a T20 World Cup final",
-      "competitive_reason": "The ultimate big-match player for the big stage."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "Pure power. Your player couldn't even reach the inner circle."
     }
   },
   "mitchell-mcclenaghan-319439": {
@@ -61529,10 +61197,8 @@
     "uid": "s:200~a:319439",
     "suggestion": {
       "player_id": "mitchell-mcclenaghan-319439",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A wicket-taking machine in the shortest format.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "Striking early is his specialty. Pure aggression."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A franchise beast. Your player is just a benchwarmer."
     }
   },
   "mitchell-owen-1213979": {
@@ -61789,10 +61455,8 @@
     "uid": "s:200~a:502714",
     "suggestion": {
       "player_id": "mitchell-santner-502714",
-      "casual_stat_description": "Bowler with most wickets in T20 Internationals",
-      "casual_reason": "The spin wizard who keeps it tight.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 International innings",
-      "competitive_reason": "Good luck trying to score off this guy."
+      "stat_description": "Bowler with economy rate in T20Is (min 50 overs)",
+      "reason": "He's tighter than your player's grip on a failing career."
     }
   },
   "mitchell-starc-311592": {
@@ -61933,10 +61597,8 @@
     "uid": "s:200~a:311592",
     "suggestion": {
       "player_id": "mitchell-starc-311592",
-      "casual_stat_description": "Bowler with most wickets in ODI World Cups",
-      "casual_reason": "The king of the white-ball yorker!",
-      "competitive_stat_description": "Bowler with most five-wicket hauls in ODI World Cups",
-      "competitive_reason": "He owns the biggest stage in cricket."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "The king of the world stage. Bow down to greatness."
     }
   },
   "mithun-manhas-31001": {
@@ -62047,10 +61709,8 @@
     "uid": "s:200~a:31001",
     "suggestion": {
       "player_id": "mithun-manhas-31001",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A solid veteran of the domestic circuit.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings batting at number five",
-      "competitive_reason": "The middle-order anchor you can always trust."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "Domestic legend. Your player is just a footnote in history."
     }
   },
   "moeen-ali-8917": {
@@ -62260,10 +61920,8 @@
     "uid": "s:200~a:8917",
     "suggestion": {
       "player_id": "moeen-ali-8917",
-      "casual_stat_description": "Allrounder with most runs and wickets in Test cricket",
-      "casual_reason": "A true versatile star for any format.",
-      "competitive_stat_description": "Batter with most sixes in a single Test innings",
-      "competitive_reason": "Elegant but destructive when he wants to be."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "He scores faster than your player can read the scoreboard."
     }
   },
   "mohammad-ashraful-55988": {
@@ -62859,10 +62517,8 @@
     "uid": "s:200~a:29990",
     "suggestion": {
       "player_id": "mohammad-kaif-29990",
-      "casual_stat_description": "Batter with most runs in ODI cricket",
-      "casual_reason": "The original master of the middle order.",
-      "competitive_stat_description": "Batter with most runs in an ODI innings batting at number six",
-      "competitive_reason": "The ultimate finisher before it was cool."
+      "stat_description": "Fielder with No. of catches in ODIs",
+      "reason": "He catches everything. Your player can't even catch a break."
     }
   },
   "mohammad-nabi-25913": {
@@ -63102,10 +62758,8 @@
     "uid": "s:200~a:25913",
     "suggestion": {
       "player_id": "mohammad-nabi-25913",
-      "casual_stat_description": "Allrounder with most wickets in T20 Internationals",
-      "casual_reason": "The President of consistency in global leagues.",
-      "competitive_stat_description": "Allrounder with most wickets and runs in a single T20 International match",
-      "competitive_reason": "Doing it all by himself. A one-man army."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "The President of wickets. Your player is barely a citizen."
     }
   },
   "mohammed-arif-304737": {
@@ -63386,10 +63040,8 @@
     "uid": "s:200~a:940973",
     "suggestion": {
       "player_id": "mohammed-siraj-940973",
-      "casual_stat_description": "Bowler with most wickets in ODI cricket",
-      "casual_reason": "Miyan Magic is taking over the world!",
-      "competitive_stat_description": "Bowler with most wickets in a single ODI Powerplay",
-      "competitive_reason": "He destroys top orders for fun. Absolute fire."
+      "stat_description": "Bowler with No. of wickets in an innings in ODIs",
+      "reason": "One spell from him ends your player's entire career."
     }
   },
   "mohit-rathee-1349361": {
@@ -63583,10 +63235,8 @@
     "uid": "s:200~a:537119",
     "suggestion": {
       "player_id": "mohit-sharma-537119",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "Purple cap winner, he knows how to strike!",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in an IPL innings",
-      "competitive_reason": "Cool under pressure when the game is tight."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He collects wickets while your player collects bench time."
     }
   },
   "mohnish-mishra-31028": {
@@ -63905,10 +63555,8 @@
     "uid": "s:200~a:5961",
     "suggestion": {
       "player_id": "moises-henriques-5961",
-      "casual_stat_description": "Allrounder with most fifties in IPL",
-      "casual_reason": "Solid with the bat, a true team player.",
-      "competitive_stat_description": "Allrounder with most wickets as a medium pacer in T20 matches",
-      "competitive_reason": "The ultimate utility man for any situation."
+      "stat_description": "Batter with No. of fifties in T20Is",
+      "reason": "A seasoned pro who actually knows how to score."
     }
   },
   "monu-kumar-694209": {
@@ -64004,10 +63652,8 @@
     "uid": "s:200~a:694209",
     "suggestion": {
       "player_id": "monu-kumar-694209",
-      "casual_stat_description": "Bowler with most wickets in domestic T20 matches",
-      "casual_reason": "A local hero with plenty of potential.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 innings",
-      "competitive_reason": "Hard to score against when he finds rhythm."
+      "stat_description": "Bowler with economy rate in IPL (min 1 over)",
+      "reason": "Good luck finding a stat where he actually played."
     }
   },
   "morne-morkel-46538": {
@@ -64151,10 +63797,8 @@
     "uid": "s:200~a:46538",
     "suggestion": {
       "player_id": "morne-morkel-46538",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A tall fast bowler who dominated batters.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL matches",
-      "competitive_reason": "Pure pace and bounce that nobody wanted."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "This giant would bounce your batter into next week."
     }
   },
   "morne-van-wyk-47711": {
@@ -64417,10 +64061,8 @@
     "uid": "s:200~a:28081",
     "suggestion": {
       "player_id": "ms-dhoni-28081",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "The ultimate finisher. Nobody does it better.",
-      "competitive_stat_description": "Batter with most runs in the 20th over of IPL innings",
-      "competitive_reason": "The king of the final over. Unmatched."
+      "stat_description": "Wicketkeeper with No. of stumpings in IPL",
+      "reason": "Faster hands than a magician; you're already out."
     }
   },
   "mujeeb-ur-rahman-974109": {
@@ -64805,10 +64447,8 @@
     "uid": "s:200~a:926851",
     "suggestion": {
       "player_id": "mukesh-kumar-926851",
-      "casual_stat_description": "Bowler with most wickets in a Test match",
-      "casual_reason": "A consistent performer in the longest format.",
-      "competitive_stat_description": "Bowler with most wickets in the first innings of a Test match",
-      "competitive_reason": "Setting the tone early with precise bowling."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "The new blood making your veterans look like amateurs."
     }
   },
   "munaf-patel-32965": {
@@ -64946,10 +64586,8 @@
     "uid": "s:200~a:32965",
     "suggestion": {
       "player_id": "munaf-patel-32965",
-      "casual_stat_description": "Bowler with most wickets in ODI World Cup matches",
-      "casual_reason": "World Cup winner with a golden arm.",
-      "competitive_stat_description": "Bowler with most maiden overs in an IPL career",
-      "competitive_reason": "Accuracy was his middle name. Simply clinical."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "World Cup winner. Your player is just a participant."
     }
   },
   "murali-kartik-30049": {
@@ -65081,10 +64719,8 @@
     "uid": "s:200~a:30049",
     "suggestion": {
       "player_id": "murali-kartik-30049",
-      "casual_stat_description": "Bowler with most wickets in an ODI innings",
-      "casual_reason": "Spin wizard who could bamboozle the best.",
-      "competitive_stat_description": "Bowler with best bowling figures in a domestic one-day match",
-      "competitive_reason": "A masterclass in left-arm orthodox spin."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Spinning webs while your player is stuck in one."
     }
   },
   "murali-vijay-237095": {
@@ -65240,10 +64876,8 @@
     "uid": "s:200~a:237095",
     "suggestion": {
       "player_id": "murali-vijay-237095",
-      "casual_stat_description": "Batter with most centuries in IPL",
-      "casual_reason": "Classy opener who made batting look easy.",
-      "competitive_stat_description": "Batter with most runs in an IPL final innings",
-      "competitive_reason": "Big game player who loved the spotlight."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "Monk-like focus that your player clearly lacks."
     }
   },
   "murugan-ashwin-528067": {
@@ -65363,10 +64997,8 @@
     "uid": "s:200~a:528067",
     "suggestion": {
       "player_id": "murugan-ashwin-528067",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Tricky leg-spinner with a dangerous googly.",
-      "competitive_stat_description": "Bowler with most dot balls in a T20 innings",
-      "competitive_reason": "Keeping it tight and frustrating the batters."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Leg-spin wizardry that leaves your batter looking clueless."
     }
   },
   "musavir-khote-30220": {
@@ -65703,10 +65335,8 @@
     "uid": "s:200~a:330902",
     "suggestion": {
       "player_id": "mustafizur-rahman-330902",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "The Fizz is just too cold with those cutters.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in an IPL innings",
-      "competitive_reason": "He owns the final overs. Pure ice in his veins."
+      "stat_description": "Bowler with No. of five-wicket hauls in ODIs",
+      "reason": "His cutters leave batters searching for their dignity."
     }
   },
   "muthiah-muralidaran-49636": {
@@ -65912,10 +65542,8 @@
     "uid": "s:200~a:1287032",
     "suggestion": {
       "player_id": "naman-dhir-1287032",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Clean striker of the ball. Watch it fly!",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings as a middle-order batter",
-      "competitive_reason": "He brings the heat when the pressure is on."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "He hits it harder than your player's career peak."
     }
   },
   "naman-ojha-32102": {
@@ -66024,10 +65652,8 @@
     "uid": "s:200~a:32102",
     "suggestion": {
       "player_id": "naman-ojha-32102",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "A domestic legend who knows how to score big.",
-      "competitive_stat_description": "Batter with most centuries in a domestic T20 tournament",
-      "competitive_reason": "Class is permanent, and his record proves it."
+      "stat_description": "Wicketkeeper with No. of dismissals in IPL",
+      "reason": "Safe hands while your keeper is busy dropping games."
     }
   },
   "nandre-burger-971349": {
@@ -66603,10 +66229,8 @@
     "uid": "s:200~a:261354",
     "suggestion": {
       "player_id": "nathan-coulter-nile-261354",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "A genuine wicket-taker with serious pace.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL match",
-      "competitive_reason": "When he finds his rhythm, batters just crumble."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Pure pace that makes your lineup look like amateurs."
     }
   },
   "nathan-ellis-826915": {
@@ -67526,10 +67150,8 @@
     "uid": "s:200~a:1151273",
     "suggestion": {
       "player_id": "nehal-wadhera-1151273",
-      "casual_stat_description": "Batter with most fifties in an IPL season",
-      "casual_reason": "The young gun is making a huge name.",
-      "competitive_stat_description": "Batter with most runs in the death overs as a left-hander in IPL",
-      "competitive_reason": "Finishing games like a seasoned pro already."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Clearing ropes is a habit, not a fluke here."
     }
   },
   "neravanda-aiyappa-26198": {
@@ -67932,10 +67554,8 @@
     "uid": "s:200~a:604302",
     "suggestion": {
       "player_id": "nicholas-pooran-604302",
-      "casual_stat_description": "Batter with most sixes in T20 Internationals",
-      "casual_reason": "Pure Caribbean power. No ground is big enough.",
-      "competitive_stat_description": "Batter with highest strike rate in a T20 innings with minimum fifty runs",
-      "competitive_reason": "He doesn't just hit them; he destroys them."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "He hits them out of the stadium, not just the park."
     }
   },
   "nikhil-naik-554700": {
@@ -68381,10 +68001,8 @@
     "uid": "s:200~a:1175496",
     "suggestion": {
       "player_id": "nitish-kumar-reddy-1175496",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "The rising star of the league.",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings as a middle-order batter",
-      "competitive_reason": "Clean hitting is just in his DNA."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "He hits it harder than your player hits the bench."
     }
   },
   "nitish-rana-604527": {
@@ -68502,10 +68120,8 @@
     "uid": "s:200~a:604527",
     "suggestion": {
       "player_id": "nitish-rana-604527",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Consistent performer who always delivers the goods.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as a captain",
-      "competitive_reason": "Leading from the front with total authority."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "Consistency is a concept your player clearly hasn't met."
     }
   },
   "noor-ahmad-1182529": {
@@ -68679,10 +68295,8 @@
     "uid": "s:200~a:1182529",
     "suggestion": {
       "player_id": "noor-ahmad-1182529",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "That mystery spin is impossible to read!",
-      "competitive_stat_description": "Bowler with most wickets in the middle overs of a T20 match",
-      "competitive_reason": "He chokes the runs and takes the poles."
+      "stat_description": "Bowler with economy rate in IPL (min 20 overs)",
+      "reason": "Good luck scoring when he's spinning webs around you."
     }
   },
   "nuwan-kulasekara-49535": {
@@ -69728,10 +69342,8 @@
     "uid": "s:200~a:20123",
     "suggestion": {
       "player_id": "owais-shah-20123",
-      "casual_stat_description": "Batter with most runs in T20 Internationals",
-      "casual_reason": "A classic batter with a very smooth technique.",
-      "competitive_stat_description": "Batter with most fifties in a T20 tournament as a middle-order batter",
-      "competitive_reason": "The ultimate anchor for any T20 side."
+      "stat_description": "Batter with Highest score in an innings in T20Is",
+      "reason": "A masterclass in batting that your player couldn't replicate."
     }
   },
   "padmanabhan-prasanth-32211": {
@@ -70680,10 +70292,8 @@
     "uid": "s:200~a:32242",
     "suggestion": {
       "player_id": "parthiv-patel-32242",
-      "casual_stat_description": "Batter with most runs in IPL as an opener",
-      "casual_reason": "Small in stature, but a giant at the top.",
-      "competitive_stat_description": "Batter with most fours in the Powerplay of an IPL innings",
-      "competitive_reason": "He finds the gaps before the field spreads."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "He\u2019s been catching wins since before you were relevant."
     }
   },
   "parvez-rasool-378496": {
@@ -70907,10 +70517,8 @@
     "uid": "s:200~a:323131",
     "suggestion": {
       "player_id": "parvinder-awana-323131",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A solid pace option for any squad.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "He can really tear through a lineup."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He actually took wickets while your guy just watched."
     }
   },
   "pat-cummins-489889": {
@@ -71042,10 +70650,8 @@
     "uid": "s:200~a:489889",
     "suggestion": {
       "player_id": "pat-cummins-489889",
-      "casual_stat_description": "Bowler with most wickets in Test matches",
-      "casual_reason": "The captain leads from the front always.",
-      "competitive_stat_description": "Batter with fastest fifty in an IPL innings",
-      "competitive_reason": "Surprise! He hits them long and fast."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "A world-class captain who actually wins real trophies."
     }
   },
   "paul-collingwood-10772": {
@@ -71266,10 +70872,8 @@
     "uid": "s:200~a:35630",
     "suggestion": {
       "player_id": "paul-valthaty-35630",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "One-season wonder? Maybe, but what a knock!",
-      "competitive_stat_description": "Batter with most centuries in an IPL innings as opener",
-      "competitive_reason": "Pure dominance at the top of the order."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "One legendary night that your player could never replicate."
     }
   },
   "pavan-deshpande-422104": {
@@ -71484,10 +71088,8 @@
     "uid": "s:200~a:530773",
     "suggestion": {
       "player_id": "pawan-negi-530773",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The left-arm spin that everyone wanted.",
-      "competitive_stat_description": "Bowler with most five-wicket hauls in a T20 match",
-      "competitive_reason": "When he finds his rhythm, he is lethal."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "Stingier than your player's chances of winning this round."
     }
   },
   "pawan-suyal-431213": {
@@ -71849,10 +71451,8 @@
     "uid": "s:200~a:669365",
     "suggestion": {
       "player_id": "phil-salt-669365",
-      "casual_stat_description": "Batter with most runs in T20 Internationals",
-      "casual_reason": "Aggressive at the top, no doubt.",
-      "competitive_stat_description": "Batter with most centuries in T20 International innings",
-      "competitive_reason": "He scores big and he scores fast."
+      "stat_description": "Batter with strike rate in T20Is (min 200 runs)",
+      "reason": "He hits it harder than your player hits the bench."
     }
   },
   "phillip-hughes-272364": {
@@ -72269,10 +71869,8 @@
     "uid": "s:200~a:32966",
     "suggestion": {
       "player_id": "piyush-chawla-32966",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A true veteran of the spin game.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "Experience counts when the field is up."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The veteran's wicket tally is higher than your IQ."
     }
   },
   "pm-sarvesh-kumar-327127": {
@@ -72353,10 +71951,8 @@
     "uid": "s:200~a:327127",
     "suggestion": {
       "player_id": "pm-sarvesh-kumar-327127",
-      "casual_stat_description": "Bowler with most wickets in T20 matches",
-      "casual_reason": "Keeping it simple with the medium pace.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 innings",
-      "competitive_reason": "Hard to get away when he is bowling."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "Even a single run beats your player's non-existent stats."
     }
   },
   "prabhsimran-singh-1161024": {
@@ -72456,10 +72052,8 @@
     "uid": "s:200~a:1161024",
     "suggestion": {
       "player_id": "prabhsimran-singh-1161024",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Young talent with a bright future ahead.",
-      "competitive_stat_description": "Batter with most centuries in an IPL innings",
-      "competitive_reason": "He showed everyone how to play big."
+      "stat_description": "Wicketkeeper with No. of sixes in IPL",
+      "reason": "He clears the fence while your keeper drops sitters."
     }
   },
   "pradeep-sangwan-279545": {
@@ -72564,10 +72158,8 @@
     "uid": "s:200~a:279545",
     "suggestion": {
       "player_id": "pradeep-sangwan-279545",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The original left-arm pacer of the league.",
-      "competitive_stat_description": "Bowler with most wickets in a single IPL match",
-      "competitive_reason": "He can be a real match winner."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A domestic workhorse who actually knows how to bowl."
     }
   },
   "pragyan-ojha-32130": {
@@ -72711,10 +72303,8 @@
     "uid": "s:200~a:32130",
     "suggestion": {
       "player_id": "pragyan-ojha-32130",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The Purple Cap winner knows his stuff.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings as spinner",
-      "competitive_reason": "Spinning webs around the best batters."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "Spin wizardry that would leave your batter completely clueless."
     }
   },
   "prasanth-parameswaran-279562": {
@@ -73205,10 +72795,8 @@
     "uid": "s:200~a:917159",
     "suggestion": {
       "player_id": "prasidh-krishna-917159",
-      "casual_stat_description": "Bowler with most wickets in an ODI match",
-      "casual_reason": "Pure pace and bounce. A wicket-taking machine!",
-      "competitive_stat_description": "Bowler with most wickets in an ODI innings on debut",
-      "competitive_reason": "Started with a bang. Nobody handled his heat."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "He strikes while your player is still warming up."
     }
   },
   "pratham-singh-1083464": {
@@ -73592,10 +73180,8 @@
     "uid": "s:200~a:30732",
     "suggestion": {
       "player_id": "praveen-kumar-30732",
-      "casual_stat_description": "Bowler with most maiden overs in IPL",
-      "casual_reason": "The king of swing. Batsmen just couldn't touch him.",
-      "competitive_stat_description": "Bowler with most hat-tricks in an IPL match",
-      "competitive_reason": "Swing and a miss! He owned the powerplay."
+      "stat_description": "Bowler with No. of maiden overs in IPL",
+      "reason": "He bowls dots while your guy leaks runs like a tap."
     }
   },
   "pravin-tambe-587152": {
@@ -73697,10 +73283,8 @@
     "uid": "s:200~a:587152",
     "suggestion": {
       "player_id": "pravin-tambe-587152",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Age is just a number for this legend.",
-      "competitive_stat_description": "Bowler with a hat-trick in an IPL innings",
-      "competitive_reason": "Tricky leg-spin that left everyone guessing."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Age is just a number, unlike your player's poor stats."
     }
   },
   "prayas-ray-barman-1159712": {
@@ -74326,10 +73910,8 @@
     "uid": "s:200~a:1070168",
     "suggestion": {
       "player_id": "prithvi-shaw-1070168",
-      "casual_stat_description": "Batter with most runs in an IPL powerplay",
-      "casual_reason": "He starts like a Ferrari. Pure boundary hitter.",
-      "competitive_stat_description": "Batter with most boundaries in an IPL innings as opener",
-      "competitive_reason": "If it's in the slot, it's gone. Total dominance."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "He finishes games before your player finds his gloves."
     }
   },
   "priyam-garg-1070180": {
@@ -74443,10 +74025,8 @@
     "uid": "s:200~a:1070180",
     "suggestion": {
       "player_id": "priyam-garg-1070180",
-      "casual_stat_description": "Batter with most fifties in IPL",
-      "casual_reason": "Young talent with a very solid technique.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings at number four",
-      "competitive_reason": "Stepped up when the top order failed."
+      "stat_description": "Fielder with No. of catches in IPL",
+      "reason": "Safe hands, unlike your player who drops everything."
     }
   },
   "priyansh-arya-1175456": {
@@ -74942,10 +74522,8 @@
     "uid": "s:200~a:379143",
     "suggestion": {
       "player_id": "quinton-de-kock-379143",
-      "casual_stat_description": "Batter with most centuries in IPL",
-      "casual_reason": "A modern great. He makes batting look easy.",
-      "competitive_stat_description": "Batter with most runs in an IPL innings as wicketkeeper",
-      "competitive_reason": "Gloves on or bat in hand, he's elite."
+      "stat_description": "Wicketkeeper with No. of dismissals in ODIs",
+      "reason": "He\u2019s clinical behind the stumps; your guy is just a spectator."
     }
   },
   "rachin-ravindra-959767": {
@@ -75252,10 +74830,8 @@
     "uid": "s:200~a:1122621",
     "suggestion": {
       "player_id": "raghu-sharma-1122621",
-      "casual_stat_description": "Bowler with most wickets in T20 matches",
-      "casual_reason": "A crafty spinner who knows his variations.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 innings",
-      "competitive_reason": "Tight lines and no freebies. Very disciplined."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "A specialist pick to expose your player's lack of variety."
     }
   },
   "rahil-shaikh-279460": {
@@ -75774,10 +75350,8 @@
     "uid": "s:200~a:1064812",
     "suggestion": {
       "player_id": "rahul-chahar-1064812",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The googly king. Always in the game.",
-      "competitive_stat_description": "Bowler with most dot balls in an IPL innings",
-      "competitive_reason": "He builds pressure until the batter cracks."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "He\u2019s tighter than your player\u2019s grip on a failing career."
     }
   },
   "rahul-dravid-28114": {
@@ -75909,10 +75483,8 @@
     "uid": "s:200~a:28114",
     "suggestion": {
       "player_id": "rahul-dravid-28114",
-      "casual_stat_description": "Batter with most runs in Test cricket",
-      "casual_reason": "The Wall. You simply cannot get him out.",
-      "competitive_stat_description": "Batter with most balls faced in Test innings",
-      "competitive_reason": "Patience of a saint. He exhausted every bowler."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "The Wall stands tall while your player crumbles like dust."
     }
   },
   "rahul-sharma-272994": {
@@ -76032,10 +75604,8 @@
     "uid": "s:200~a:272994",
     "suggestion": {
       "player_id": "rahul-sharma-272994",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Tall, accurate, and very hard to read.",
-      "competitive_stat_description": "Bowler with best bowling figures in an IPL innings",
-      "competitive_reason": "When he found his rhythm, he was unplayable."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Tall, accurate, and far superior to your benchwarmer."
     }
   },
   "rahul-shukla-390547": {
@@ -76220,10 +75790,8 @@
     "uid": "s:200~a:423838",
     "suggestion": {
       "player_id": "rahul-tewatia-423838",
-      "casual_stat_description": "Batter with most sixes in an IPL over",
-      "casual_reason": "Remember those five sixes? Pure magic!",
-      "competitive_stat_description": "Highest batting strike rate in an IPL innings",
-      "competitive_reason": "The ultimate finisher when the pressure is on."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He finishes games while your player is still warming up."
     }
   },
   "rahul-tripathi-446763": {
@@ -76331,10 +75899,8 @@
     "uid": "s:200~a:446763",
     "suggestion": {
       "player_id": "rahul-tripathi-446763",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Consistent performer at the top of the order.",
-      "competitive_stat_description": "Most fifties as an opening batter in IPL",
-      "competitive_reason": "He sets the tone early in the game."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "Pure intent. Your player probably prefers a slow walk."
     }
   },
   "raiphi-gomez-28846": {
@@ -76635,10 +76201,8 @@
     "uid": "s:200~a:33870",
     "suggestion": {
       "player_id": "rajagopal-sathish-33870",
-      "casual_stat_description": "Batter with most fours in an IPL innings",
-      "casual_reason": "A handy player who finds the gaps easily.",
-      "competitive_stat_description": "Highest strike rate as a middle order batter in IPL",
-      "competitive_reason": "Quick runs are his specialty in the middle."
+      "stat_description": "Fielder with No. of catches in IPL",
+      "reason": "Safe hands. Your player couldn't catch a cold."
     }
   },
   "rajan-kumar-1339027": {
@@ -76814,10 +76378,8 @@
     "uid": "s:200~a:26907",
     "suggestion": {
       "player_id": "rajat-bhatia-26907",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The master of the slower ball trickery.",
-      "competitive_stat_description": "Best economy rate in an IPL match",
-      "competitive_reason": "Hard to hit and even harder to score."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The master of deception. Your batter is already bamboozled."
     }
   },
   "rajat-patidar-823703": {
@@ -76928,10 +76490,8 @@
     "uid": "s:200~a:823703",
     "suggestion": {
       "player_id": "rajat-patidar-823703",
-      "casual_stat_description": "Batter with most centuries in IPL playoffs",
-      "casual_reason": "Big game player. He loves the spotlight!",
-      "competitive_stat_description": "Highest score by an uncapped batter in an IPL match",
-      "competitive_reason": "Proving his worth on the biggest stage."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "Playoff heroics. Your player disappears when it actually matters."
     }
   },
   "rajesh-bishnoi-236766": {
@@ -77445,10 +77005,8 @@
     "uid": "s:200~a:1079470",
     "suggestion": {
       "player_id": "ramandeep-singh-1079470",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Clean striker of the ball, watch out!",
-      "competitive_stat_description": "Best bowling figures in an IPL match as an allrounder",
-      "competitive_reason": "A dual threat that changes the game."
+      "stat_description": "Batter with strike rate in IPL (min 100 runs)",
+      "reason": "He hits it harder than your player's entire career."
     }
   },
   "ramesh-kumar-1299848": {
@@ -77615,10 +77173,8 @@
     "uid": "s:200~a:32391",
     "suggestion": {
       "player_id": "ramesh-powar-32391",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "Classic off-spin that fooled many greats.",
-      "competitive_stat_description": "Most wickets in a single innings of a Test match",
-      "competitive_reason": "Spinning a web around the best batters."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Classic spin. Your batter would be dancing to his tunes."
     }
   },
   "ranadeb-bose-27572": {
@@ -78006,10 +77562,8 @@
     "uid": "s:200~a:793463",
     "suggestion": {
       "player_id": "rashid-khan-793463",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "The wizard of T20 cricket. Simply unstoppable.",
-      "competitive_stat_description": "Most hat-tricks in T20 cricket matches",
-      "competitive_reason": "He takes wickets in clusters, no escape."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "A global wizard. Your player is just a local amateur."
     }
   },
   "rasikh-salam-1161489": {
@@ -78540,10 +78094,8 @@
     "uid": "s:200~a:10582",
     "suggestion": {
       "player_id": "ravi-bopara-10582",
-      "casual_stat_description": "Batter with most runs in ODIs",
-      "casual_reason": "A versatile player with a solid record.",
-      "competitive_stat_description": "Best bowling figures in a T20 match",
-      "competitive_reason": "His medium pace is surprisingly lethal."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "International class. Your player is strictly a domestic backup."
     }
   },
   "ravi-karthikeyan-624023": {
@@ -78894,10 +78446,8 @@
     "uid": "s:200~a:26421",
     "suggestion": {
       "player_id": "ravichandran-ashwin-26421",
-      "casual_stat_description": "Bowler with most wickets in Test cricket",
-      "casual_reason": "A modern-day legend of the red ball.",
-      "competitive_stat_description": "Most player of the series awards in Test matches",
-      "competitive_reason": "The smartest cricketer on the field, period."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "A literal genius. Your player is playing checkers, he's playing chess."
     }
   },
   "ravichandran-smaran-1327722": {
@@ -79332,10 +78882,8 @@
     "uid": "s:200~a:234675",
     "suggestion": {
       "player_id": "ravindra-jadeja-234675",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The ultimate all-rounder. He does it all!",
-      "competitive_stat_description": "Most catches by a fielder in IPL history",
-      "competitive_reason": "Safe hands and lightning speed. Unbeatable."
+      "stat_description": "Fielder with No. of catches in IPL",
+      "reason": "Sir Jadeja catches everything while your player drops his lunch."
     }
   },
   "reece-topley-461632": {
@@ -80268,10 +79816,8 @@
     "uid": "s:200~a:318845",
     "suggestion": {
       "player_id": "rilee-rossouw-318845",
-      "casual_stat_description": "Batter with most centuries in T20 Internationals",
-      "casual_reason": "Pure power hitting. A total boundary machine.",
-      "competitive_stat_description": "Highest strike rate in a T20 International innings",
-      "competitive_reason": "He hits them clean and fast. Absolute carnage."
+      "stat_description": "Batter with No. of centuries in T20Is",
+      "reason": "He scores tons while your guy struggles to reach double digits."
     }
   },
   "rinku-singh-723105": {
@@ -80373,10 +79919,8 @@
     "uid": "s:200~a:723105",
     "suggestion": {
       "player_id": "rinku-singh-723105",
-      "casual_stat_description": "Batter with most sixes in an IPL match",
-      "casual_reason": "Remember those five sixes? Pure magic!",
-      "competitive_stat_description": "Highest batting average in IPL as a finisher",
-      "competitive_reason": "The most reliable man in the final over."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "He finishes games before your player even finds his gloves."
     }
   },
   "ripal-patel-1201520": {
@@ -80580,10 +80124,8 @@
     "uid": "s:200~a:931581",
     "suggestion": {
       "player_id": "rishabh-pant-931581",
-      "casual_stat_description": "Batter with most runs in a Test match innings",
-      "casual_reason": "Fearless batting at its absolute best.",
-      "competitive_stat_description": "Highest strike rate in a Test match innings",
-      "competitive_reason": "Red ball or white ball, he plays fast."
+      "stat_description": "Wicketkeeper with No. of dismissals in Tests",
+      "reason": "He\u2019s busy behind the stumps while your keeper is napping."
     }
   },
   "rishi-dhawan-290727": {
@@ -80694,10 +80236,8 @@
     "uid": "s:200~a:290727",
     "suggestion": {
       "player_id": "rishi-dhawan-290727",
-      "casual_stat_description": "Bowler with most wickets in domestic T20 cricket",
-      "casual_reason": "A domestic legend with a golden arm.",
-      "competitive_stat_description": "Best bowling figures in a domestic T20 match",
-      "competitive_reason": "He knows how to dismantle any lineup."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A domestic giant who would make your batter look like an amateur."
     }
   },
   "riyan-parag-1079434": {
@@ -80825,10 +80365,8 @@
     "uid": "s:200~a:1079434",
     "suggestion": {
       "player_id": "riyan-parag-1079434",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The young star finally found his rhythm!",
-      "competitive_stat_description": "Most catches by a non-wicketkeeper in an IPL match",
-      "competitive_reason": "Safe hands and a bit of flair."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "The prince of Assam has more flair than your entire lineup."
     }
   },
   "rk-sabharwal-33769": {
@@ -81591,10 +81129,8 @@
     "uid": "s:200~a:35582",
     "suggestion": {
       "player_id": "robin-uthappa-35582",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The Orange Cap winner. Pure class.",
-      "competitive_stat_description": "Most consecutive fifties in T20 matches",
-      "competitive_reason": "Consistency was his middle name back then."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "He finds gaps like your player finds ways to get out."
     }
   },
   "roelof-van-der-merwe-47850": {
@@ -81747,10 +81283,8 @@
     "uid": "s:200~a:47850",
     "suggestion": {
       "player_id": "roelof-van-der-merwe-47850",
-      "casual_stat_description": "Bowler with most wickets in T20 Internationals",
-      "casual_reason": "A veteran who still outsmarts the best.",
-      "competitive_stat_description": "Best economy rate in a T20 International match",
-      "competitive_reason": "Try hitting him. It is nearly impossible."
+      "stat_description": "Bowler with economy rate in T20Is (min 30 overs)",
+      "reason": "He\u2019s tighter than your player\u2019s grip on a participation trophy."
     }
   },
   "rohan-banerjee-27014": {
@@ -82155,10 +81689,8 @@
     "uid": "s:200~a:34102",
     "suggestion": {
       "player_id": "rohit-sharma-34102",
-      "casual_stat_description": "Batter with most centuries in ODI cricket",
-      "casual_reason": "The Hitman. Nobody scores big like him.",
-      "competitive_stat_description": "Highest individual score in an ODI match innings",
-      "competitive_reason": "Two hundred is just a number for him."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "The Hitman treats world-class bowlers like local club medium-pacers."
     }
   },
   "romario-shepherd-677077": {
@@ -82650,10 +82182,8 @@
     "uid": "s:200~a:38699",
     "suggestion": {
       "player_id": "ross-taylor-38699",
-      "casual_stat_description": "Batter with most runs in Test cricket",
-      "casual_reason": "A legend of the game. Pure longevity.",
-      "competitive_stat_description": "Most centuries in Test match innings number 4",
-      "competitive_reason": "The master of the difficult run chase."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "A legend whose tongue-out celebration is more iconic than your career."
     }
   },
   "rovman-powell-820351": {
@@ -82806,10 +82336,8 @@
     "uid": "s:200~a:820351",
     "suggestion": {
       "player_id": "rovman-powell-820351",
-      "casual_stat_description": "Batter with most sixes in a T20I innings",
-      "casual_reason": "Pure muscle. He clears the ropes for fun!",
-      "competitive_stat_description": "Batter with most runs in a T20I innings at number five",
-      "competitive_reason": "The ultimate finisher when the pressure is on."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "He hits them into orbit while you hit the grass."
     }
   },
   "royston-dias-624025": {
@@ -83024,10 +82552,8 @@
     "uid": "s:200~a:35280",
     "suggestion": {
       "player_id": "rp-singh-35280",
-      "casual_stat_description": "Bowler with most wickets in a T20 World Cup",
-      "casual_reason": "A left-arm swing king in his prime.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL season",
-      "competitive_reason": "Early breakthroughs are his specialty. Lethal swing."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "A purple cap winner. Your bowler is just a spectator."
     }
   },
   "rusty-theron-223642": {
@@ -83281,10 +82807,8 @@
     "uid": "s:200~a:1060380",
     "suggestion": {
       "player_id": "ruturaj-gaikwad-1060380",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "Pure class and timing. A run machine!",
-      "competitive_stat_description": "Batter with most consecutive fifties in an IPL season",
-      "competitive_reason": "Consistency is his middle name. Simply unstoppable."
+      "stat_description": "Batter with No. of centuries in IPL",
+      "reason": "Pure class. Your player couldn't buy a hundred here."
     }
   },
   "ryan-harris-5779": {
@@ -83395,10 +82919,8 @@
     "uid": "s:200~a:5779",
     "suggestion": {
       "player_id": "ryan-harris-5779",
-      "casual_stat_description": "Bowler with most wickets in a Test match",
-      "casual_reason": "A genuine pace threat. Absolute beast!",
-      "competitive_stat_description": "Bowler with most wickets in the first innings of a Test",
-      "competitive_reason": "Setting the tone with raw pace and accuracy."
+      "stat_description": "Bowler with No. of five-wicket hauls in Tests",
+      "reason": "Absolute pace royalty. Your guy is just a medium-pacer."
     }
   },
   "ryan-mclaren-46393": {
@@ -83870,10 +83392,8 @@
     "uid": "s:200~a:47660",
     "suggestion": {
       "player_id": "ryan-ten-doeschate-47660",
-      "casual_stat_description": "Batter with most centuries in ODI World Cups for an Associate nation",
-      "casual_reason": "The greatest associate player ever. Legend status!",
-      "competitive_stat_description": "Highest batting average in ODI history with a minimum of 1000 runs",
-      "competitive_reason": "Look at that average. Numbers don't lie."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "Associate legend. He outscores your superstars for fun."
     }
   },
   "s-badrinath-26806": {
@@ -83984,10 +83504,8 @@
     "uid": "s:200~a:26806",
     "suggestion": {
       "player_id": "s-badrinath-26806",
-      "casual_stat_description": "Batter with most runs in IPL middle overs",
-      "casual_reason": "The most reliable anchor in the game.",
-      "competitive_stat_description": "Batter with most fifties in an IPL season as a middle-order batter",
-      "competitive_reason": "The backbone of the lineup. Solid as a rock."
+      "stat_description": "Batter with No. of fifties in IPL",
+      "reason": "The ultimate anchor. Your player is a sinking ship."
     }
   },
   "s-thiyagarajan-559287": {
@@ -84345,10 +83863,8 @@
     "uid": "s:200~a:35320",
     "suggestion": {
       "player_id": "sachin-tendulkar-35320",
-      "casual_stat_description": "Batter with most runs in Test and ODI history",
-      "casual_reason": "The God of Cricket. No debate here.",
-      "competitive_stat_description": "Batter with most centuries in a single calendar year in ODIs",
-      "competitive_reason": "Peak greatness. Nobody dominated like the Master Blaster."
+      "stat_description": "Batter with No. of runs in Tests",
+      "reason": "He is the God. Your player is a mere mortal."
     }
   },
   "sachithra-senanayake-273439": {
@@ -84733,10 +84249,8 @@
     "uid": "s:200~a:1048739",
     "suggestion": {
       "player_id": "sai-kishore-1048739",
-      "casual_stat_description": "Bowler with most wickets in a domestic T20 match",
-      "casual_reason": "Tall, accurate, and very effective.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "He keeps it tight and frustrates batters."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Spinning webs that your batter will never escape from."
     }
   },
   "sai-sudharsan-1151288": {
@@ -84856,10 +84370,8 @@
     "uid": "s:200~a:1151288",
     "suggestion": {
       "player_id": "sai-sudharsan-1151288",
-      "casual_stat_description": "Batter with most runs in an IPL final",
-      "casual_reason": "Big game player. He loves the spotlight!",
-      "competitive_stat_description": "Fastest Indian batter to reach 1000 runs in IPL",
-      "competitive_reason": "A rising star breaking records already. Watch out."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "The new prince. Your player is already yesterday's news."
     }
   },
   "sakib-hussain-1340422": {
@@ -85254,10 +84766,8 @@
     "uid": "s:200~a:297628",
     "suggestion": {
       "player_id": "sam-billings-297628",
-      "casual_stat_description": "Batter with most runs in a T20 innings",
-      "casual_reason": "Innovative and explosive. A real 360-degree player.",
-      "competitive_stat_description": "Batter with most runs in an ODI innings batting at number six",
-      "competitive_reason": "Clutch performance from the lower middle order."
+      "stat_description": "Wicketkeeper with No. of catches in ODIs",
+      "reason": "Safe hands. Your keeper drops more than he catches."
     }
   },
   "sam-curran-662973": {
@@ -85410,10 +84920,8 @@
     "uid": "s:200~a:662973",
     "suggestion": {
       "player_id": "sam-curran-662973",
-      "casual_stat_description": "Bowler with most wickets in a T20 World Cup",
-      "casual_reason": "The ultimate utility man. Always in the game.",
-      "competitive_stat_description": "Bowler with the best bowling figures in a T20I innings",
-      "competitive_reason": "A golden arm that produces magic spells."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "World Cup hero. Your player is just a squad filler."
     }
   },
   "samad-fallah-317750": {
@@ -85919,10 +85427,8 @@
     "uid": "s:200~a:49209",
     "suggestion": {
       "player_id": "sanath-jayasuriya-49209",
-      "casual_stat_description": "Batter with most sixes in ODI history",
-      "casual_reason": "The original master of the powerplay blast.",
-      "competitive_stat_description": "Allrounder with most wickets and runs in ODI matches",
-      "competitive_reason": "A dual-threat legend who dominated both departments."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "He invented power-hitting while your player was still learning to crawl."
     }
   },
   "sandeep-lamichhane-960361": {
@@ -86236,10 +85742,8 @@
     "uid": "s:200~a:438362",
     "suggestion": {
       "player_id": "sandeep-sharma-438362",
-      "casual_stat_description": "Bowler with most wickets in IPL powerplay",
-      "casual_reason": "The king of early swing and wickets.",
-      "competitive_stat_description": "Bowler with most wickets in IPL matches as a pacer",
-      "competitive_reason": "Consistently outfoxing the best batters in the league."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The swing king makes your top order look like amateurs."
     }
   },
   "sandeep-warrier-592735": {
@@ -86672,10 +86176,8 @@
     "uid": "s:200~a:425943",
     "suggestion": {
       "player_id": "sanju-samson-425943",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Pure timing and effortless power from Sanju.",
-      "competitive_stat_description": "Batter with most centuries in IPL as a captain",
-      "competitive_reason": "Leading from the front with massive scores."
+      "stat_description": "Wicketkeeper with No. of sixes in IPL",
+      "reason": "Pure timing that puts your slogger to absolute shame."
     }
   },
   "santosh-yadav-36048": {
@@ -87148,10 +86650,8 @@
     "uid": "s:200~a:642525",
     "suggestion": {
       "player_id": "sarfaraz-khan-642525",
-      "casual_stat_description": "Batter with highest strike rate in a Test innings",
-      "casual_reason": "He plays red ball like it's white ball!",
-      "competitive_stat_description": "Batter with most fifties in first two Test matches",
-      "competitive_reason": "Started his international career with a bang."
+      "stat_description": "Batter with Highest score in an innings in Tests",
+      "reason": "He scores big while your player just occupies space."
     }
   },
   "sarul-kanwar-477049": {
@@ -87738,10 +87238,8 @@
     "uid": "s:200~a:35390",
     "suggestion": {
       "player_id": "saurabh-tiwary-35390",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "A solid presence in the middle order.",
-      "competitive_stat_description": "Batter with most fifties in IPL as a middle order batter",
-      "competitive_reason": "The reliable anchor when the top order fails."
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "A domestic giant who would bully your local bowlers."
     }
   },
   "saurasish-lahiri-30740": {
@@ -88771,10 +88269,8 @@
     "uid": "s:200~a:29655",
     "suggestion": {
       "player_id": "shadab-jakati-29655",
-      "casual_stat_description": "Bowler with most wickets in an IPL innings",
-      "casual_reason": "Spinning webs around the best in the business.",
-      "competitive_stat_description": "Bowler with most wickets in IPL knockout matches",
-      "competitive_reason": "He always stepped up when the pressure peaked."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Spinning webs that your batters simply cannot escape."
     }
   },
   "shahbaz-nadeem-31872": {
@@ -88918,10 +88414,8 @@
     "uid": "s:200~a:31872",
     "suggestion": {
       "player_id": "shahbaz-nadeem-31872",
-      "casual_stat_description": "Bowler with most wickets in a domestic T20 match",
-      "casual_reason": "A domestic giant with incredible consistency.",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "Building pressure and forcing mistakes with ease."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "He is tighter than your player's defensive technique."
     }
   },
   "shahid-afridi-42639": {
@@ -89430,10 +88924,8 @@
     "uid": "s:200~a:56143",
     "suggestion": {
       "player_id": "shakib-al-hasan-56143",
-      "casual_stat_description": "Allrounder with most wickets in T20I history",
-      "casual_reason": "The ultimate MVP of the shortest format.",
-      "competitive_stat_description": "Allrounder with most runs and wickets in a single World Cup",
-      "competitive_reason": "One-man army performance on the biggest stage."
+      "stat_description": "Allrounder with No. of wickets in T20Is",
+      "reason": "The world's best. Your player is just a participant."
     }
   },
   "shalabh-srivastava-34245": {
@@ -90034,10 +89526,8 @@
     "uid": "s:200~a:8166",
     "suggestion": {
       "player_id": "shane-warne-8166",
-      "casual_stat_description": "Bowler with most wickets in Test history",
-      "casual_reason": "The wizard of spin. Simply the greatest.",
-      "competitive_stat_description": "Bowler with most wickets in a single Test series",
-      "competitive_reason": "He could win a series all by himself."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "The King of Spin. Your batter is already walking back."
     }
   },
   "shane-watson-8180": {
@@ -90226,10 +89716,8 @@
     "uid": "s:200~a:8180",
     "suggestion": {
       "player_id": "shane-watson-8180",
-      "casual_stat_description": "Batter with most centuries in IPL finals",
-      "casual_reason": "Big game player. He loves the spotlight.",
-      "competitive_stat_description": "Allrounder with most Player of the Tournament awards in IPL",
-      "competitive_reason": "The most impactful player to ever do it."
+      "stat_description": "Batter with No. of centuries in IPL",
+      "reason": "Big game player. Your guy disappears when it matters."
     }
   },
   "sharad-lumba-726989": {
@@ -90465,10 +89953,8 @@
     "uid": "s:200~a:475281",
     "suggestion": {
       "player_id": "shardul-thakur-475281",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Lord Shardul always finds a way!",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings as a medium pacer",
-      "competitive_reason": "The golden arm strikes when needed."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Lord Shardul takes wickets while your player takes naps."
     }
   },
   "shashank-singh-377534": {
@@ -90575,10 +90061,8 @@
     "uid": "s:200~a:377534",
     "suggestion": {
       "player_id": "shashank-singh-377534",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Pure power hitting from the finisher.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings as a finisher",
-      "competitive_reason": "He turns the game in seconds."
+      "stat_description": "Batter with strike rate in IPL (min 200 runs)",
+      "reason": "He hits it harder than your player hits the gym."
     }
   },
   "shashi-ranjan-33097": {
@@ -90768,10 +90252,8 @@
     "uid": "s:200~a:6683",
     "suggestion": {
       "player_id": "shaun-marsh-6683",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The original orange cap legend.",
-      "competitive_stat_description": "Batter with most fifties in IPL as an opening batter",
-      "competitive_reason": "Consistency was his middle name."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "Class is permanent, unlike your player's spot in the team."
     }
   },
   "shaun-pollock-46774": {
@@ -91013,10 +90495,8 @@
     "uid": "s:200~a:8076",
     "suggestion": {
       "player_id": "shaun-tait-8076",
-      "casual_stat_description": "Bowler with fastest delivery in IPL",
-      "casual_reason": "Absolute thunderbolts, blink and you miss.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL match",
-      "competitive_reason": "Raw pace is a different beast."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "Pure pace that would leave your batter smelling leather."
     }
   },
   "sheldon-cottrell-495551": {
@@ -91490,10 +90970,8 @@
     "uid": "s:200~a:914541",
     "suggestion": {
       "player_id": "sherfane-rutherford-914541",
-      "casual_stat_description": "Batter with most sixes in a T20 match",
-      "casual_reason": "Caribbean power at its finest.",
-      "competitive_stat_description": "Batter with highest strike rate in the death overs of an IPL innings",
-      "competitive_reason": "A nightmare for bowlers late on."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He clears the stadium; your guy barely clears the circle."
     }
   },
   "shikhar-dhawan-28235": {
@@ -91670,10 +91148,8 @@
     "uid": "s:200~a:28235",
     "suggestion": {
       "player_id": "shikhar-dhawan-28235",
-      "casual_stat_description": "Batter with most fours in IPL",
-      "casual_reason": "Gabbar rules the boundary charts.",
-      "competitive_stat_description": "Batter with most consecutive centuries in IPL innings",
-      "competitive_reason": "Back-to-back greatness, who else?"
+      "stat_description": "Batter with No. of fours in IPL",
+      "reason": "Gabbar rules the boundary ropes while you just watch."
     }
   },
   "shimron-hetmyer-670025": {
@@ -91824,10 +91300,8 @@
     "uid": "s:200~a:670025",
     "suggestion": {
       "player_id": "shimron-hetmyer-670025",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "Pure Caribbean power at its best.",
-      "competitive_stat_description": "Batter with highest strike rate in the death overs in IPL",
-      "competitive_reason": "He finishes games before you even blink."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He clears the stadium while you clear the drinks."
     }
   },
   "shishir-bhavane-474794": {
@@ -91988,10 +91462,8 @@
     "uid": "s:200~a:1167965",
     "suggestion": {
       "player_id": "shivalik-sharma-1167965",
-      "casual_stat_description": "Batter with most runs in a domestic T20 match",
-      "casual_reason": "The young gun is ready.",
-      "competitive_stat_description": "Batter with highest strike rate as a middle order batter in T20s",
-      "competitive_reason": "Watch out for this rising star."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "One good day is all he needs to outscore you."
     }
   },
   "shivam-dube-714451": {
@@ -92105,10 +91577,8 @@
     "uid": "s:200~a:714451",
     "suggestion": {
       "player_id": "shivam-dube-714451",
-      "casual_stat_description": "Batter with most sixes in an IPL season",
-      "casual_reason": "Spinners' worst nightmare is here.",
-      "competitive_stat_description": "Batter with most runs in the middle overs of an IPL innings",
-      "competitive_reason": "Dominating the middle like a boss."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "Spinners see him and start reconsidering their career choices."
     }
   },
   "shivam-mavi-1079848": {
@@ -92228,10 +91698,8 @@
     "uid": "s:200~a:1079848",
     "suggestion": {
       "player_id": "shivam-mavi-1079848",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Young, fast, and very lethal.",
-      "competitive_stat_description": "Bowler with most maiden overs in an IPL career",
-      "competitive_reason": "Control and pace in one package."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Young, fast, and already better than your entire lineup."
     }
   },
   "shivam-sharma-717201": {
@@ -92312,10 +91780,8 @@
     "uid": "s:200~a:717201",
     "suggestion": {
       "player_id": "shivam-sharma-717201",
-      "casual_stat_description": "Bowler with most wickets on IPL debut",
-      "casual_reason": "What a way to start!",
-      "competitive_stat_description": "Bowler with best economy rate in an IPL innings",
-      "competitive_reason": "Keeping it tight under pressure."
+      "stat_description": "Bowler with economy rate in IPL (min 10 overs)",
+      "reason": "He\u2019s tighter with runs than a cheapskate on payday."
     }
   },
   "shivam-shukla-1460342": {
@@ -93218,10 +92684,8 @@
     "uid": "s:200~a:302579",
     "suggestion": {
       "player_id": "shreevats-goswami-302579",
-      "casual_stat_description": "Batter with most runs in an IPL innings",
-      "casual_reason": "A solid pick for a reliable opener.",
-      "competitive_stat_description": "Batter with most fours in an IPL innings as opener",
-      "competitive_reason": "Finding the gaps like a total pro."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "He actually catches things, unlike your butter-fingered player."
     }
   },
   "shreyas-gopal-344580": {
@@ -93362,10 +92826,8 @@
     "uid": "s:200~a:344580",
     "suggestion": {
       "player_id": "shreyas-gopal-344580",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Leg-spin magic that leaves them clueless.",
-      "competitive_stat_description": "Bowler with most hat-tricks in IPL",
-      "competitive_reason": "Taking three in a row is pure skill."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He takes wickets while your guy just takes up space."
     }
   },
   "shreyas-iyer-642519": {
@@ -93526,10 +92988,8 @@
     "uid": "s:200~a:642519",
     "suggestion": {
       "player_id": "shreyas-iyer-642519",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Captain cool knows how to stack runs.",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings as captain",
-      "competitive_reason": "Leading from the front with massive hits."
+      "stat_description": "Batter with No. of fifties in ODIs",
+      "reason": "Consistency is a foreign concept to your benchwarmer."
     }
   },
   "shrideep-mangela-284363": {
@@ -94278,10 +93738,8 @@
     "uid": "s:200~a:1070173",
     "suggestion": {
       "player_id": "shubman-gill-1070173",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The prince of batting is in charge.",
-      "competitive_stat_description": "Batter with most centuries in an IPL season",
-      "competitive_reason": "Dominating the season like nobody else can."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "The Prince scores more in a day than yours does all year."
     }
   },
   "siddarth-kaul-326017": {
@@ -94422,10 +93880,8 @@
     "uid": "s:200~a:326017",
     "suggestion": {
       "player_id": "siddarth-kaul-326017",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Consistent wicket-taker with that knuckle ball.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in an IPL match",
-      "competitive_reason": "Ice in his veins during the finale."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Knuckleballs that make your batter look like a confused amateur."
     }
   },
   "siddharth-chitnis-337916": {
@@ -94616,10 +94072,8 @@
     "uid": "s:200~a:35353",
     "suggestion": {
       "player_id": "siddharth-trivedi-35353",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "An underrated legend of the early days.",
-      "competitive_stat_description": "Bowler with most dot balls in an IPL innings",
-      "competitive_reason": "Building pressure is his middle name."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "An OG wicket-taker. Your player is just a placeholder."
     }
   },
   "siddhesh-lad-422342": {
@@ -95699,10 +95153,8 @@
     "uid": "s:200~a:28779",
     "suggestion": {
       "player_id": "sourav-ganguly-28779",
-      "casual_stat_description": "Batter with most runs in ODIs",
-      "casual_reason": "The God of the Off-Side, obviously.",
-      "competitive_stat_description": "Batter with most centuries in ICC tournaments",
-      "competitive_reason": "Big stage, big player, huge impact."
+      "stat_description": "Batter with No. of centuries in ODIs",
+      "reason": "The Maharaja rules while your player merely begs for runs."
     }
   },
   "spencer-johnson-1123718": {
@@ -95911,10 +95363,8 @@
     "uid": "s:200~a:290632",
     "suggestion": {
       "player_id": "sreenath-aravind-290632",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "Left-arm pace is always a tricky customer.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in an IPL innings",
-      "competitive_reason": "Striking early to break the opposition's back."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Left-arm heat that would leave your batter in shambles."
     }
   },
   "sreesanth-34274": {
@@ -96043,10 +95493,8 @@
     "uid": "s:200~a:34274",
     "suggestion": {
       "player_id": "sreesanth-34274",
-      "casual_stat_description": "Bowler with most wickets in T20 Internationals",
-      "casual_reason": "Aggressive pace that gets the job done.",
-      "competitive_stat_description": "Bowler with most wickets in a Test match innings",
-      "competitive_reason": "That upright seam position is a beauty."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "Seam position so perfect it makes your bowler look broken."
     }
   },
   "sridharan-sriram-34118": {
@@ -96770,10 +96218,8 @@
     "uid": "s:200~a:267192",
     "suggestion": {
       "player_id": "steven-smith-267192",
-      "casual_stat_description": "Batter with most runs in Test matches",
-      "casual_reason": "The best since Bradman, no doubt.",
-      "competitive_stat_description": "Batter with most centuries in the first innings of a Test match",
-      "competitive_reason": "Setting the tone while others are struggling."
+      "stat_description": "Batter with No. of centuries in Tests",
+      "reason": "A modern legend. Your player isn't even in the conversation."
     }
   },
   "stuart-binny-27223": {
@@ -96914,10 +96360,8 @@
     "uid": "s:200~a:27223",
     "suggestion": {
       "player_id": "stuart-binny-27223",
-      "casual_stat_description": "Bowler with best bowling figures in an ODI innings",
-      "casual_reason": "Six wickets for four runs? Pure magic.",
-      "competitive_stat_description": "Bowler with most wickets in an ODI innings as a medium pacer",
-      "competitive_reason": "Unbeatable efficiency when the ball starts swinging."
+      "stat_description": "Bowler with Best bowling figures in an innings in ODIs",
+      "reason": "His 6 for 4 is legendary; your guy is irrelevant."
     }
   },
   "stuart-broad-10617": {
@@ -97880,10 +97324,8 @@
     "uid": "s:200~a:230558",
     "suggestion": {
       "player_id": "sunil-narine-230558",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The mystery spinner everyone fears. Legend status.",
-      "competitive_stat_description": "Batter with fastest fifty in an IPL innings",
-      "competitive_reason": "He hits them clean and very fast."
+      "stat_description": "Bowler with economy rate in IPL (min 500 balls)",
+      "reason": "He is tighter than a drum; your player leaks runs."
     }
   },
   "sunny-gupta-271315": {
@@ -98160,10 +97602,8 @@
     "uid": "s:200~a:228943",
     "suggestion": {
       "player_id": "sunny-sohal-228943",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A solid pick for your top order.",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Quick fire runs are his absolute specialty."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them big while you just watch them fly."
     }
   },
   "suraj-randiv-50438": {
@@ -98551,10 +97991,8 @@
     "uid": "s:200~a:33335",
     "suggestion": {
       "player_id": "suresh-raina-33335",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Mr. IPL himself. Consistency is his name.",
-      "competitive_stat_description": "Batter with most catches in IPL history",
-      "competitive_reason": "Safe hands and big runs. Total package."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "Mr. IPL himself. Bow down to the real king."
     }
   },
   "suryakumar-yadav-446507": {
@@ -98700,10 +98138,8 @@
     "uid": "s:200~a:446507",
     "suggestion": {
       "player_id": "suryakumar-yadav-446507",
-      "casual_stat_description": "Batter with most centuries in T20Is",
-      "casual_reason": "The best 360-degree player in the world.",
-      "competitive_stat_description": "Batter with highest strike rate in T20I innings",
-      "competitive_reason": "He plays shots others can only imagine."
+      "stat_description": "Batter with strike rate in T20Is (min 500 runs)",
+      "reason": "He plays video game shots while you play for draws."
     }
   },
   "suryansh-shedge-1339698": {
@@ -99119,10 +98555,8 @@
     "uid": "s:200~a:1350792",
     "suggestion": {
       "player_id": "suyash-sharma-1350792",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The young mystery spinner on the rise.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL debut match",
-      "competitive_reason": "Started with a bang, keeping batters guessing."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The mystery spin will leave your batter looking clueless."
     }
   },
   "swapnil-asnodkar-26782": {
@@ -99666,10 +99100,8 @@
     "uid": "s:200~a:802575",
     "suggestion": {
       "player_id": "t-natarajan-802575",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The king of yorkers at the death.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "competitive_reason": "Nails those yorkers when the pressure is high."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The yorker king will crush your toes and your ego."
     }
   },
   "tabraiz-shamsi-379145": {
@@ -101464,10 +100896,8 @@
     "uid": "s:200~a:233514",
     "suggestion": {
       "player_id": "thisara-perera-233514",
-      "casual_stat_description": "Batter with most sixes in an ODI innings",
-      "casual_reason": "Pure power hitting from this Lankan giant.",
-      "competitive_stat_description": "Allrounder with a hat-trick in both ODIs and T20Is",
-      "competitive_reason": "A rare breed who dominates both departments."
+      "stat_description": "Batter with No. of sixes in ODIs",
+      "reason": "Pure power. Your player couldn't clear the inner circle."
     }
   },
   "tilak-varma-1170265": {
@@ -101584,10 +101014,8 @@
     "uid": "s:200~a:1170265",
     "suggestion": {
       "player_id": "tilak-varma-1170265",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "The future star of the middle order.",
-      "competitive_stat_description": "Batter with most fifties in IPL as a teenager",
-      "competitive_reason": "Mature beyond his years on the big stage."
+      "stat_description": "Batter with No. of runs in IPL",
+      "reason": "The future is here; your player is just a memory."
     }
   },
   "tillakaratne-dilshan-48472": {
@@ -101728,10 +101156,8 @@
     "uid": "s:200~a:48472",
     "suggestion": {
       "player_id": "tillakaratne-dilshan-48472",
-      "casual_stat_description": "Batter with most runs in T20 World Cup",
-      "casual_reason": "The inventor of the Dil-scoop. Iconic.",
-      "competitive_stat_description": "Batter with most fours in a single T20I innings",
-      "competitive_reason": "Found the boundary at will. Pure class."
+      "stat_description": "Batter with No. of fours in ODIs",
+      "reason": "The Dil-scoop will leave your fielders chasing shadows."
     }
   },
   "tim-david-892749": {
@@ -101890,10 +101316,8 @@
     "uid": "s:200~a:892749",
     "suggestion": {
       "player_id": "tim-david-892749",
-      "casual_stat_description": "Batter with highest strike rate in IPL",
-      "casual_reason": "Pure muscle. He clears the ropes for fun!",
-      "competitive_stat_description": "Batter with most sixes in an IPL innings as a finisher",
-      "competitive_reason": "The ultimate closer. Nobody hits them cleaner late on."
+      "stat_description": "Batter with strike rate in IPL (min 500 runs)",
+      "reason": "He hits harder than your player's entire career highlights."
     }
   },
   "tim-paine-7252": {
@@ -102291,10 +101715,8 @@
     "uid": "s:200~a:232364",
     "suggestion": {
       "player_id": "tim-southee-232364",
-      "casual_stat_description": "Bowler with most wickets in T20Is",
-      "casual_reason": "A veteran who knows how to find wickets.",
-      "competitive_stat_description": "Bowler with most hat-tricks in T20I matches",
-      "competitive_reason": "The swing king always strikes in clusters."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "A veteran masterclass. Your player is just a spectator."
     }
   },
   "tinu-yohannan-36080": {
@@ -102479,10 +101901,8 @@
     "uid": "s:200~a:34281",
     "suggestion": {
       "player_id": "tirumalasetti-suman-34281",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "A solid pick for those classic IPL vibes.",
-      "competitive_stat_description": "Batter with most fifties in IPL as an opener",
-      "competitive_reason": "He set the tone early in the innings."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Old school power that would leave your bowler weeping."
     }
   },
   "tom-banton-877051": {
@@ -103279,10 +102699,8 @@
     "uid": "s:200~a:530011",
     "suggestion": {
       "player_id": "travis-head-530011",
-      "casual_stat_description": "Batter with most runs in a World Cup final",
-      "casual_reason": "Big game player. He loves the spotlight!",
-      "competitive_stat_description": "Batter with most centuries in Test innings number 1",
-      "competitive_reason": "He breaks the game open right at the start."
+      "stat_description": "Batter with Highest score in an innings in ODIs",
+      "reason": "He destroys attacks while your guy is still warming up."
     }
   },
   "trent-boult-277912": {
@@ -103450,10 +102868,8 @@
     "uid": "s:200~a:277912",
     "suggestion": {
       "player_id": "trent-boult-277912",
-      "casual_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "casual_reason": "First over, wicket. It is almost guaranteed.",
-      "competitive_stat_description": "Bowler with most maiden overs in an IPL career",
-      "competitive_reason": "Precision and swing. He keeps them totally quiet."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The king of the powerplay. Your batter is already out."
     }
   },
   "tripurana-vijay-1292527": {
@@ -103659,10 +103075,8 @@
     "uid": "s:200~a:595978",
     "suggestion": {
       "player_id": "tristan-stubbs-595978",
-      "casual_stat_description": "Batter with highest strike rate in a T20 innings",
-      "casual_reason": "Young, fast, and absolutely fearless at the crease.",
-      "competitive_stat_description": "Batter with most sixes in the death overs of an IPL match",
-      "competitive_reason": "He turns games around in just six balls."
+      "stat_description": "Batter with strike rate in T20Is (min 200 runs)",
+      "reason": "Pure velocity. Your player's strike rate is a snooze fest."
     }
   },
   "tushar-deshpande-822553": {
@@ -103779,10 +103193,8 @@
     "uid": "s:200~a:822553",
     "suggestion": {
       "player_id": "tushar-deshpande-822553",
-      "casual_stat_description": "Bowler with most wickets in an IPL season",
-      "casual_reason": "The leading man for his side last year!",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "competitive_reason": "He handles the pressure when the game is tight."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "He takes wickets while your player just takes up space."
     }
   },
   "tymal-mills-459257": {
@@ -104664,10 +104076,8 @@
     "uid": "s:200~a:376116",
     "suggestion": {
       "player_id": "umesh-yadav-376116",
-      "casual_stat_description": "Bowler with most wickets in IPL Powerplay",
-      "casual_reason": "Raw pace and early breakthroughs. A classic choice.",
-      "competitive_stat_description": "Bowler with most wickets in a Test match in home conditions",
-      "competitive_reason": "A beast with the red ball on fast tracks."
+      "stat_description": "Bowler with No. of wickets in Tests",
+      "reason": "Raw pace and red-ball pedigree. Your player couldn't survive."
     }
   },
   "umran-malik-1246528": {
@@ -104772,10 +104182,8 @@
     "uid": "s:200~a:1246528",
     "suggestion": {
       "player_id": "umran-malik-1246528",
-      "casual_stat_description": "Bowler with the fastest delivery in IPL",
-      "casual_reason": "Speed kills. He is a literal human flamethrower.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings as a middle-overs specialist",
-      "competitive_reason": "Pure pace that rattles the best in the world."
+      "stat_description": "Bowler with No. of four-wicket hauls in IPL",
+      "reason": "Too fast, too furious. Your batter's eyes can't track him."
     }
   },
   "unmukt-chand-446499": {
@@ -104898,10 +104306,8 @@
     "uid": "s:200~a:446499",
     "suggestion": {
       "player_id": "unmukt-chand-446499",
-      "casual_stat_description": "Batter with most runs in an Under-19 World Cup final",
-      "casual_reason": "The prodigy who delivered on the biggest stage.",
-      "competitive_stat_description": "Batter with most centuries in a domestic T20 tournament",
-      "competitive_reason": "Class is permanent, especially in the shorter format."
+      "stat_description": "Wicketkeeper with No. of catches in IPL",
+      "reason": "Safe hands. Your player drops more than just the ball."
     }
   },
   "upendra-yadav-732269": {
@@ -105691,10 +105097,8 @@
     "uid": "s:200~a:360911",
     "suggestion": {
       "player_id": "varun-aaron-360911",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Pure pace, he really lets it fly!",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "When he finds his rhythm, he is unstoppable."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Pure pace that leaves your batter's stumps in ruins."
     }
   },
   "varun-chakravarthy-1108375": {
@@ -105802,10 +105206,8 @@
     "uid": "s:200~a:1108375",
     "suggestion": {
       "player_id": "varun-chakravarthy-1108375",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The mystery spinner everyone struggles to read.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "His variations leave batters totally clueless."
+      "stat_description": "Bowler with economy rate in T20Is (min 20 overs)",
+      "reason": "His mystery spin makes your player look absolutely clueless."
     }
   },
   "veer-pratap-singh-528967": {
@@ -105996,10 +105398,8 @@
     "uid": "s:200~a:851403",
     "suggestion": {
       "player_id": "venkatesh-iyer-851403",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A real game-changer at the top.",
-      "competitive_stat_description": "Batter with most centuries in IPL as opener",
-      "competitive_reason": "Big stage, big hundreds, pure class."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "He hits them long while your guy just watches."
     }
   },
   "venugopal-rao-35805": {
@@ -106116,10 +105516,8 @@
     "uid": "s:200~a:35805",
     "suggestion": {
       "player_id": "venugopal-rao-35805",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A solid middle-order anchor from the start.",
-      "competitive_stat_description": "Batter with most fifties in IPL as middle-order batter",
-      "competitive_reason": "Reliable when the pressure is on."
+      "stat_description": "Batter with No. of centuries in IPL",
+      "reason": "A vintage masterclass your player could never replicate."
     }
   },
   "vicky-ostwal-1292520": {
@@ -107355,10 +106753,8 @@
     "uid": "s:200~a:35731",
     "suggestion": {
       "player_id": "vinay-kumar-35731",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "The veteran who always finds a way.",
-      "competitive_stat_description": "Bowler with most wickets in the death overs in IPL",
-      "competitive_reason": "Experience counts when the game is tight."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The Davangere Express has more wickets than you have runs."
     }
   },
   "vipraj-nigam-1449074": {
@@ -107650,10 +107046,8 @@
     "uid": "s:200~a:253802",
     "suggestion": {
       "player_id": "virat-kohli-253802",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "The King of the charts, obviously.",
-      "competitive_stat_description": "Batter with most centuries in IPL innings",
-      "competitive_reason": "Nobody dominates the triple digits like him."
+      "stat_description": "Batter with No. of centuries in ODIs",
+      "reason": "The King's throne is far beyond your player's reach."
     }
   },
   "virat-singh-720465": {
@@ -107877,10 +107271,8 @@
     "uid": "s:200~a:35263",
     "suggestion": {
       "player_id": "virender-sehwag-35263",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "Total destruction from the first ball.",
-      "competitive_stat_description": "Batter with most centuries in IPL as opener",
-      "competitive_reason": "He redefined how to start an innings."
+      "stat_description": "Batter with strike rate in Tests (min 2000 runs)",
+      "reason": "He destroys attacks before your player even settles in."
     }
   },
   "vishnu-vinod-732293": {
@@ -108467,10 +107859,8 @@
     "uid": "s:200~a:784379",
     "suggestion": {
       "player_id": "wanindu-hasaranga-784379",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "A wicket-taking machine in the middle.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "He can run through a lineup alone."
+      "stat_description": "Bowler with No. of five-wicket hauls in T20Is",
+      "reason": "A wizard who collects wickets like they are pocket change."
     }
   },
   "washington-sundar-719715": {
@@ -108626,10 +108016,8 @@
     "uid": "s:200~a:719715",
     "suggestion": {
       "player_id": "washington-sundar-719715",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "So accurate, he never gives anything away.",
-      "competitive_stat_description": "Bowler with most wickets in the Powerplay in IPL",
-      "competitive_reason": "The master of the first six overs."
+      "stat_description": "Bowler with economy rate in IPL (min 50 overs)",
+      "reason": "He's tighter than your player's defense on a Sunday."
     }
   },
   "wasim-jaffer-29646": {
@@ -108910,10 +108298,8 @@
     "uid": "s:200~a:265564",
     "suggestion": {
       "player_id": "wayne-parnell-265564",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Left-arm angle that creates constant trouble.",
-      "competitive_stat_description": "Bowler with most wickets in an IPL innings",
-      "competitive_reason": "That swing is a nightmare for batters."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "Left-arm heat that your batter simply cannot handle."
     }
   },
   "wiaan-mulder-698189": {
@@ -109283,10 +108669,8 @@
     "uid": "s:200~a:897549",
     "suggestion": {
       "player_id": "will-jacks-897549",
-      "casual_stat_description": "Batter with most sixes in an IPL innings",
-      "casual_reason": "Pure power hitting. He clears ropes easily!",
-      "competitive_stat_description": "Batter with highest strike rate in an IPL innings",
-      "competitive_reason": "Absolute carnage when he gets going."
+      "stat_description": "Batter with strike rate in IPL (min 200 runs)",
+      "reason": "He hits them harder than your player dreams of."
     }
   },
   "will-o-rourke-1211825": {
@@ -109529,10 +108913,8 @@
     "uid": "s:200~a:279810",
     "suggestion": {
       "player_id": "wriddhiman-saha-279810",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A seasoned veteran of the league.",
-      "competitive_stat_description": "Batter with most centuries in an IPL final",
-      "competitive_reason": "Big game player, remember that final knock?"
+      "stat_description": "Wicketkeeper with No. of dismissals in IPL",
+      "reason": "Safe hands while your keeper is busy dropping games."
     }
   },
   "writtick-chatterjee-699493": {
@@ -109815,10 +109197,8 @@
     "uid": "s:200~a:1159720",
     "suggestion": {
       "player_id": "yash-dayal-1159720",
-      "casual_stat_description": "Bowler with most wickets in IPL",
-      "casual_reason": "Left-armers are always a tricky challenge.",
-      "competitive_stat_description": "Bowler with most dot balls in an IPL innings",
-      "competitive_reason": "Keeping it tight under immense pressure."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "Left-arm heat that makes your batters look like amateurs."
     }
   },
   "yash-dhull-1292498": {
@@ -110015,10 +109395,8 @@
     "uid": "s:200~a:1070196",
     "suggestion": {
       "player_id": "yash-thakur-1070196",
-      "casual_stat_description": "Bowler with most wickets in an IPL match",
-      "casual_reason": "He can run through any lineup.",
-      "competitive_stat_description": "Bowler with most five-wicket hauls in IPL",
-      "competitive_reason": "A genuine wicket-taker in the death overs."
+      "stat_description": "Bowler with No. of five-wicket hauls in IPL",
+      "reason": "A genuine match-winner. Your bowler is just a spectator."
     }
   },
   "yashasvi-jaiswal-1151278": {
@@ -110159,10 +109537,8 @@
     "uid": "s:200~a:1151278",
     "suggestion": {
       "player_id": "yashasvi-jaiswal-1151278",
-      "casual_stat_description": "Batter with most runs in an IPL season",
-      "casual_reason": "The future is here and it's bright.",
-      "competitive_stat_description": "Batter with fastest fifty in an IPL match",
-      "competitive_reason": "Speed and precision combined. Simply unstoppable."
+      "stat_description": "Batter with No. of double centuries in Tests",
+      "reason": "Young king making your veterans look like schoolboys."
     }
   },
   "yashpal-singh-36130": {
@@ -110518,10 +109894,8 @@
     "uid": "s:200~a:317786",
     "suggestion": {
       "player_id": "yogesh-nagar-317786",
-      "casual_stat_description": "Batter with most runs in IPL",
-      "casual_reason": "A handy player from the early days.",
-      "competitive_stat_description": "Allrounder with most wickets in an IPL innings",
-      "competitive_reason": "Sneaky effective with his off-breaks."
+      "stat_description": "Batter with Highest score in an innings in IPL",
+      "reason": "A forgotten gem who still outshines your current squad."
     }
   },
   "yogesh-takawale-35357": {
@@ -111027,10 +110401,8 @@
     "uid": "s:200~a:32498",
     "suggestion": {
       "player_id": "yusuf-pathan-32498",
-      "casual_stat_description": "Batter with most sixes in IPL",
-      "casual_reason": "The original beast of the IPL.",
-      "competitive_stat_description": "Batter with fastest century in an IPL match",
-      "competitive_reason": "Brute force that redefined T20 batting."
+      "stat_description": "Batter with No. of sixes in IPL",
+      "reason": "Pure power. Your player couldn't clear the inner circle."
     }
   },
   "yuvraj-chaudhary-1175463": {
@@ -111248,10 +110620,8 @@
     "uid": "s:200~a:36084",
     "suggestion": {
       "player_id": "yuvraj-singh-36084",
-      "casual_stat_description": "Batter with most sixes in a T20 International match",
-      "casual_reason": "Six sixes! Need I say more?",
-      "competitive_stat_description": "Allrounder with most wickets in a World Cup tournament",
-      "competitive_reason": "The ultimate match-winner with bat and ball."
+      "stat_description": "Batter with No. of sixes in T20Is",
+      "reason": "Six sixes in an over. Need I say more?"
     }
   },
   "yuzvendra-chahal-430246": {
@@ -111362,10 +110732,8 @@
     "uid": "s:200~a:430246",
     "suggestion": {
       "player_id": "yuzvendra-chahal-430246",
-      "casual_stat_description": "Bowler with most wickets in IPL history",
-      "casual_reason": "The king of spin in the IPL.",
-      "competitive_stat_description": "Bowler with most four-wicket hauls in IPL",
-      "competitive_reason": "Consistently outsmarting the best batters."
+      "stat_description": "Bowler with No. of wickets in IPL",
+      "reason": "The king of spin. Your batters are just victims."
     }
   },
   "zafir-patel-559283": {
@@ -111550,10 +110918,8 @@
     "uid": "s:200~a:30102",
     "suggestion": {
       "player_id": "zaheer-khan-30102",
-      "casual_stat_description": "Bowler with most wickets in ODIs",
-      "casual_reason": "The master of swing and seam.",
-      "competitive_stat_description": "Bowler with most wickets in a World Cup tournament",
-      "competitive_reason": "Leading the attack on the biggest stage."
+      "stat_description": "Bowler with No. of wickets in ODIs",
+      "reason": "The master of swing. Your batters are totally clueless."
     }
   },
   "zahir-khan-712219": {
@@ -111721,10 +111087,8 @@
     "uid": "s:200~a:712219",
     "suggestion": {
       "player_id": "zahir-khan-712219",
-      "casual_stat_description": "Bowler with most wickets in T20 matches",
-      "casual_reason": "Mystery spin is always a safe bet.",
-      "competitive_stat_description": "Bowler with best economy rate in a T20 innings",
-      "competitive_reason": "Hard to read, harder to score against."
+      "stat_description": "Bowler with No. of wickets in T20Is",
+      "reason": "His wrist-spin leaves your batters searching for their dignity."
     }
   },
   "zeeshan-ansari-942371": {

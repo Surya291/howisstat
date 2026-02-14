@@ -308,6 +308,7 @@ def init_game():
 
 
 def handle_self_franchise(sid, session, inp):
+    inp = inp.upper()
     franchises = get_available_franchises()
     if inp not in franchises:
         return respond(sid, session,
@@ -326,6 +327,7 @@ def handle_self_franchise(sid, session, inp):
 
 
 def handle_opponent_franchise(sid, session, inp):
+    inp = inp.upper()
     franchises = get_available_franchises()
     if inp not in franchises:
         return respond(sid, session,
@@ -343,8 +345,8 @@ def handle_opponent_franchise(sid, session, inp):
         {"type": "separator"},
         {"type": "text", "content": f"Select year(s) for {self_f}:", "style": "accent"},
         {"type": "text", "content": ", ".join(years), "style": "muted"},
-        {"type": "text", "content": "You can enter multiple years separated by commas", "style": "hint"},
-    ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2023 or 2022,2023"})
+        {"type": "text", "content": "Enter at least 3 years, separated by commas", "style": "hint"},
+    ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2022,2023,2024"})
 
 
 def handle_year(sid, session, inp):
@@ -358,14 +360,19 @@ def handle_year(sid, session, inp):
     if not selected:
         return respond(sid, session,
             [{"type": "error", "content": "Please enter at least one year."}],
-            {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2023 or 2022,2023"})
+            {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2022,2023,2024"})
+
+    if len(selected) < 3:
+        return respond(sid, session,
+            [{"type": "error", "content": "Please enter at least 3 years (e.g., 2022,2023,2024)."}],
+            {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2022,2023,2024"})
 
     invalid_self = [y for y in selected if y not in self_years]
     if invalid_self:
         return respond(sid, session, [
             {"type": "error", "content": f"Invalid year(s) for {self_f}: {', '.join(invalid_self)}"},
             {"type": "text", "content": f"Available: {', '.join(self_years)}", "style": "muted"},
-        ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2023 or 2022,2023"})
+        ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2022,2023,2024"})
 
     invalid_opp = [y for y in selected if y not in opp_years]
     if invalid_opp:
@@ -373,7 +380,7 @@ def handle_year(sid, session, inp):
             {"type": "error", "content": f"Year(s) {', '.join(invalid_opp)} not available for {opp_f}."},
             {"type": "text", "content": f"Available for {opp_f}: {', '.join(opp_years)}", "style": "muted"},
             {"type": "text", "content": "All years must be valid for both franchises.", "style": "hint"},
-        ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2023 or 2022,2023"})
+        ], {"type": "text", "label": "Enter year(s)", "placeholder": "e.g., 2022,2023,2024"})
 
     session["config"]["year_list"] = selected
     session["phase"] = "awaiting_difficulty"
@@ -514,7 +521,7 @@ def _declare_stat_prompt(gs, retry=False):
     top_info = gs.player_id2player_info.get(top_pid, {}) if top_pid else {}
     suggestion = top_info.get("suggestion") if isinstance(top_info.get("suggestion"), str) else None
     label = "Declare your stat (retry)" if retry else "Declare your stat"
-    placeholder = suggestion if suggestion else ("Try a different stat..." if retry else "e.g., Most runs in IPL by a batter...")
+    placeholder = suggestion if suggestion else ("Try a different stat..." if retry else "e.g., Most runs in IPL, Best bowling average in Tests...")
     prompt = {"type": "text", "label": label, "placeholder": placeholder}
     if suggestion:
         prompt["suggestion"] = suggestion

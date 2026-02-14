@@ -609,6 +609,10 @@ export default function GameTerminal() {
                 <p>Game ends when one side has <strong>0 cards</strong>. The other side wins.</p>
               </div>
               <div className="guide-section">
+                <h3 className="guide-section-title">Stats Are Flexible</h3>
+                <p>IPL teams and years only determine which players are in your deck. When declaring stats, you can use <strong>any cricket format</strong>: IPL, Tests, ODIs, T20Is, or general cricket. Choose stats that favor your card!</p>
+              </div>
+              <div className="guide-section">
                 <h3 className="guide-section-title">Example Stats</h3>
                 <ul>
                   <li>&ldquo;Most runs in IPL&rdquo;</li>
